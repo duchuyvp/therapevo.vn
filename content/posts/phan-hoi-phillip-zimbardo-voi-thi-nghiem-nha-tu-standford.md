@@ -1,0 +1,322 @@
+---
+slug: phan-hoi-phillip-zimbardo-voi-thi-nghiem-nha-tu-standford
+title: Phillip Zimbardo nói gì về những chỉ trích Thí nghiệm Nhà tù Standford?
+date: '2025-07-08T21:42:17'
+excerpt: >-
+  SPE là một câu chuyện cảnh báo về những gì có thể xảy ra với bất kỳ ai trong
+  mỗi chúng ta nếu chúng ta đánh giá thấp sức mạnh của vai trò xã hội và áp lực
+  từ bên ngoài đối với mỗi hành động của mỗi chúng ta.
+categories:
+  - slug: tam-ly-hoc-xa-hoi
+    name: Tâm lý học xã hội
+coverImage: >-
+  /blog/media/2025/07/stanford-prison-experiment_fangevokter-og-fange-i-gangen.jpg
+---
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="685" src="/blog/media/2025/07/GettyImages_480686100-1-1024x685.webp" alt="Tuyên bố từ Phillip Zimbardo về thí nghiệm nhà tù Standford" class="wp-image-613" srcset="/blog/media/2025/07/GettyImages_480686100-1-1024x685.webp 1024w, /blog/media/2025/07/GettyImages_480686100-1-300x201.webp 300w, /blog/media/2025/07/GettyImages_480686100-1-768x514.webp 768w, /blog/media/2025/07/GettyImages_480686100-1-1536x1027.webp 1536w, /blog/media/2025/07/GettyImages_480686100-1-2048x1370.webp 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph"><strong><em>Tuyên bố từ Phillip Zimbardo</em></strong></p>
+
+
+
+<p class="wp-block-paragraph">Blogger Ben Blum (Medium, ngày 7 tháng 6 năm 2018) gần đây đã đặt ra câu hỏi về tính xác thực và giá trị mang lại của thí nghiệm nhà tù Standford (<em>từ giờ sẽ gọi tắt là SPE) </em>năm 1971, gọi đó là “một sự lừa đảo” và “dối trá”, và nhiều người đã hưởng ứng theo. Ví dụ, sau khi xem một đoạn video mà tôi đã gửi vào Standford Archives, Brian Kesnick viết: “Đoạn video này đã vạch trần thí nghiệm nổi tiếng này” (VOX, ngày 14/6/2018), và Jay Van Bavel nói với LIVE-SCIENCE (ngày 12/6/2018) rằng: “Tóm lại sự tuân thủ không phải là điều tự nhiên, mù quáng hay không thể tránh khỏi.” Tác giả người Pháp Thibault LeTextier (2018) thậm chí còn xuất bản một cuốn sách phê bình đồ sộ có tựa đề “<em>History of a Lie” (tạm dịch: Lịch sử của một lời nói dối).</em></p>
+
+
+
+<p class="wp-block-paragraph">Trong phản hồi này đối với những người chỉ trích mình, tôi xin khẳng định rằng không có lời chỉ trích nào trong số này đưa ra bằng chứng đáng kể làm thay đổi kết luận chính của SPE. Kết luận này nhấn mạnh tầm quan trọng của việc hiểu rõ các yếu tố hệ thống và tình huống có thể ảnh hưởng đến hành vi cá nhân theo hướng tích cực hoặc tiêu cực, thường xảy ra mà ta không nhận thức được. Thông điệp cốt lõi của thí nghiệm này không phải là mô phỏng tâm lý về cuộc sống trong tù giống hệt như thực tế, hoặc tù nhân và cai ngục luôn luôn hay là thường có những hành vi ứng xử như trong thí nghiệm. Thay vào đó, SPE là một câu chuyện cảnh báo về những gì có thể xảy ra với bất kỳ ai trong mỗi chúng ta nếu chúng ta đánh giá thấp sức mạnh của vai trò xã hội và áp lực từ bên ngoài đối với mỗi hành động của mỗi chúng ta.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Bối cảnh</strong></p>
+
+
+
+<p class="wp-block-paragraph">Thí nghiệm Nhà tù Standford là gì, và những sự kiện ngẫu nhiên nào đã đưa thí nghiệm học thuật về sức mạnh tình huống này trở nên nổi bật trên toàn thế giới? SPE là một nghiên cứu được thực hiện tại Đại học Standford trong sáu ngày, từ ngày 14 tới 19 tháng 8 năm 1971, do tôi thiết kế và thực hiện với vai trò là nhà nghiên cứu chính, cùng với nhóm nghiên cứu của tôi gồm các sinh viên tới từ đại học Craig Haney và William Curtis Banks, sinh viên đại học David Jaffe, và cố vấn nhà tù Carlo Prescott. Đây là một cuộc điều tra khám phá về mức độ mà sức mạnh của các lực lượng tình huống có thể biến đổi hành vi cá nhân của những người tham gia. Có tổng cộng 24 sinh viên đại học, được tuyển dụng từ một bài quảng cáo trên các trang báo để tham gia vào một cuộc nghiên cứu về cuộc sống trong nhà tù, đầu tiên phải hoàn thành một loạt các bài kiểm tra và khảo sát tâm lý (mục đích để đảm bảo rằng họ khỏe mạnh, bình thường và chưa từng có tiền án vi phạm pháp luật). Sau đó, các sinh viên này được phân ngẫu nhiên vào vai tù nhân và cai ngục. Các cai ngục làm việc theo ca 8 tiếng, trong khi các tù nhân sống toàn thời gian trong một môi trường nhà tù “giả lập” được dựng lên từ tầng hầm của khoa tâm lý học trường Standford. Văn phòng Nghiên cứu Con người của Standford đã phê duyệt thí nghiệm độc đáo này, trong phạm vi hướng dẫn mà họ đưa ra. Thí nghiệm dự tính kéo dài hai tuần đã bị dừng lại sau 6 ngày do những phản ứng tiêu cực cực kỳ bất ngờ của nhiều người trong vài tù nhân và cai ngục. Chi tiết đầy đủ của nghiên cứu này có trong cuốn sách của tôi với tựa đề <em>Hiệu ứng Lucifer (2007 – đã xuất bản ở Việt Nam do 1980Books phát hành, tuy nhiên có thể đọc bản gốc để có góc nhìn khách quan hơn) </em>và trên website <a href="http://www.prisonexperiment.org/"><strong>www.PrisonExperiment.org.</strong></a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="710" src="/blog/media/2025/07/phan-hoi-phillip-zimbardo-voi-thi-nghiem-nha-tu-standford-1-1024x710.png" alt="Thí nghiệm Nhà tù Standford là gì, và những sự kiện ngẫu nhiên nào đã đưa thí nghiệm học thuật về sức mạnh tình huống này trở nên nổi bật trên toàn thế giới?" class="wp-image-610" srcset="/blog/media/2025/07/phan-hoi-phillip-zimbardo-voi-thi-nghiem-nha-tu-standford-1-1024x710.png 1024w, /blog/media/2025/07/phan-hoi-phillip-zimbardo-voi-thi-nghiem-nha-tu-standford-1-300x208.png 300w, /blog/media/2025/07/phan-hoi-phillip-zimbardo-voi-thi-nghiem-nha-tu-standford-1-768x532.png 768w, /blog/media/2025/07/phan-hoi-phillip-zimbardo-voi-thi-nghiem-nha-tu-standford-1.png 1069w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Ngay sau khi thí nghiệm kết thúc, những sự kiện kịch tính tại hai nhà tù ở Mỹ &#8211; San Quentin và Atica – đã thu hút sự chú ý đông đảo của công chúng về điều kiện nhà tù. Vào ngày 21/8, trong một nỗ lực được cho là để vược ngục của nhà hoạt động chính trị da đen George Jackson, một số lính canh và tù nhân tại San Quentin đã bị sát hại. Từ ngày 9 tới 13 tháng 9, một nghìn tù nhân tại Attica đã chiếm quyền kiểm soát nhà tủ để phản đối công khai cái mà họ gọi là “vụ giết người” của Jackson. Cuộc đối đầu kết thúc khi Lực lượng Vệ binh Quốc gia bắn hạ nhiều tù nhân cùng giải cứu các lính canh nhà tù bị bắt làm con tin. Các phương tiện truyền thông đưa tin rầm rộ và có những cuộc điều tra của Quốc hội, và tôi đã được mời tham gia cả phỏng vấn trên truyền thông và các phiên điều trần của Quốc hội, điều này đã tạo ra sự quan tâm đáng kể đến những gì đã xảy ra trong thí nghiệm giả nhà tù của chúng tôi.</p>
+
+
+
+<p class="wp-block-paragraph">Trước khi trả lời các câu hỏi vè việc tôi có mô tả thí nghiệm nhà tù Standford một cách trung thực và chính xác hay không, điều quan trọng cần lưu ý là tôi đã nỗ lực rất nhiều để cung cấp các thông tin tư liệu về thí nghiệm cho công chúng thông qua bộ lưu trữ tại Đại học Standford và Bảo tàng Tâm lý học của Đại học Akron. Thông tin này bao gồm hơn 40 thùng dữ liệu quan sát, báo cáo từ tù nhân, lính canh và nhân viên, cùng nhật ký được thu thập trong và sau thí nghiệm, và 12 giờ video quay trong quá trình nghiên cứu. Cuốn sách <em>Hiệu ứng Lucifer </em>cũng dành 10 chương để mô tả chi tiết các khía cạnh khác nhau của thí nghiệm, với đầy đủ tài liệu dẫn chứng cho mọi khẳng định. Ngoài ra, một lượng lớn tài liệu về SPE đã có sẵn trên trang web của Thí nghiệm Nhà tù Stanford trong hơn 15 năm. Vì vậy, trái với những gì các nhà phê bình ngụ ý rằng họ đã phát hiện ra thông tin mới mà tôi che giấu, SPE là một hình mẫu của khoa học mở từ lâu trước khi các thực tiễn lưu trữ công khai và chia sẻ dữ liệu trở nên phổ biến.</p>
+
+
+
+<p class="wp-block-paragraph">Các nhà phê bình cũng cho rằng vị trí của tôi trong tâm lý học hiện đại chủ yếu dựa trên SPE. Tuy nhiên, danh tiếng của tôi xuất phát từ nhiều nghiên cứu và lý thuyết về nhiều chủ đề, cả trước và sau khi nghiệm này. Trên thực tế, tôi là giảng viên chính thức tại Standford và đã gần 40 tuổi khi SPE được thực hiện vào năm 1971, và chính công trình khoa học của tôi trước đó tại Đại học New York dẫn tới việc tôi được mời viết một trong những cuốn sách giáo khoa tâm lý học hàng đầu, có tựa đề <em>Psychology and Life (tạm dịch: Tâm lý học và đời sống – với hơn 12 lần tái bản) </em>và sau đó là cuốn <em>Psychology: Core Concepts (tạm dịch: Tâm lý học: Những vấn đề cốt lõi). </em>Sau đó tôi được chọn từ nhóm các tác giả sách giáo khoa để trở thành người sáng tạo và dẫn chương trình cho loạt phim truyền hình gồm 26 phần với tựa đề <em>Discovering Psychology (tạm dịch: Khám phá Tâm lý học), </em>được hàng triệu sinh viên và giảng viên trên toàn thế giới xem. Tôi nghi ngờ rằng vị trí của tôi trong ngành tâm lý học có thể đến từ những đóng góp đó nhiều hơn, nếu không muốn nói là nhiều hơn, so với thí nghiệm nhà tù này. Sau cùng, tôi đã đóng góp vào hơn 40 lĩnh vực khác nhau của tâm lý học, được ghi nhận trong hơn 60 cuốn sách và 600 ấn phẩm mà tôi đã viết cho tới nay.</p>
+
+
+
+<p class="wp-block-paragraph">Trong bài phản hồi này, trước hết tôi sẽ giải quyết những tuyên bố về bản chất dối trá được cho là của quá trình và kết luận của thí nghiệm. Tôi sẽ trình bày chi tiết một số đặc điểm độc đáo của nghiên cứu, thảo luận về giá trị khoa học của nó và mô tả một số ứng dụng thực tế. Cuối cùng, tôi sẽ kết thúc bằng cách phác thảo một số phần mở rộng có giá trị không ngờ tới xuất phát từ những trải nghiệm và suy nghiệm của tôi về SPE.</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="709" height="574" src="/blog/media/2025/07/phan-hoi-phillip-zimbardo-voi-thi-nghiem-nha-tu-standford-2.png" alt="Những chỉ trích sau thí nghiệm Standford và những sự kiện kịch tính tại các nhà tù khác đã thu hút sự chú ý của quần chúng" class="wp-image-609" srcset="/blog/media/2025/07/phan-hoi-phillip-zimbardo-voi-thi-nghiem-nha-tu-standford-2.png 709w, /blog/media/2025/07/phan-hoi-phillip-zimbardo-voi-thi-nghiem-nha-tu-standford-2-300x243.png 300w" sizes="auto, (max-width: 709px) 100vw, 709px" /></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Những chỉ trích nổi bật về thí nghiệm nhà tù Standford</strong></p>
+
+
+
+<p class="wp-block-paragraph">Các chỉ trích gần đây về thí nghiệm nhà tù Stanford (SPE) đã tập trung vào sáu vấn đề, và tôi sẽ lần lượt giải quyết từng vấn đề.</p>
+
+
+
+<ul class="wp-block-list">
+<li>Một nhân viên đã công khai lên án thí nghiệm là có sai sót và không trung thực. Blum trích dẫn một bài báo trên tờ <em>Standford Daily </em>năm 2005, được cho là do người cố vấn nhà tù của SPE, Carlo Prescott, viết với tiêu đề “<em>The lie of the Standford Prison Experiment” (tạm dịch: Lời nói dối của thí nghiệm nhà tù Standford). </em>Trên thực tế, Blum thậm chí đã sử dụng tiêu đề bài báo này làm chủ đề chính cho blog của mình. Tuy nhiên, sự thật là Carlo chưa bao giờ viết một chữ nào trong bài báo đó. Chúng tôi trở thành bạn sau lần gặp đầu tiên trong lớp tâm lý học xã hội của tôi vào tháng 5 năm 1971, và sau khi biết ông từng thụ án trong tù, tôi đã mời ông về làm cố vấn chuyên môn về cuộc sống trong tù cho thí nghiệm. Khi đọc kỹ bài báo sinh viên đó, rõ ràng phong cách và từ vựng rất mang tính pháp lý, hoàn toàn khác xa so với phong cách của Carlo. Thực tế, người viết bài báo đó là Michael Lazarou, Lazarou bắt đầu viết các bài phê bình tiêu cực về SPE. Brent Emery ghi lại thông tin từ cuộc điện thoại rằng, “Carlo nói không phải là ông ấy, mà tất cả đều từ Lazarou” (07/05/2005). Nói cách khác, không có chuyện cố vấn nhà tù của thí nghiệm gọi nghiên cứu này là một sự dối trá.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li>Nhân viên hướng dẫn cho cai ngục phải “nghiêm khắc” đã làm lệch lạc hành vi của họ và bóp méo kết quả nghiên cứu. SPE được thiết kế như một nhà tù “giả lập”, mô phỏng một số đặc điểm chính của hệ thống nhà tù ở Mỹ vào thời điểm bấy giờ. Mục đích chính của việc huấn luyện cai ngục là sử dụng quyền lực của họ để duy trì trật sự, ngăn chặn nổi loạn và loại bỏ các nỗ lực trốn thoát. Hướng dẫn của tôi cho các cai ngục, như đã được ghi lại trong các đoạn băng của buổi hướng dẫn, là họ không được đánh tù nhân nhưng có thể tạo ra cảm giác, buồn chán, thất vọng, sợ hãi và “một cảm giác bất lực – tức là chúng tôi có toàn quyền kiểm soát tình huống, và tù nhân không có quyền gì cả.” Chúng tôi không đưa ra bất kỳ hướng dẫn chính thức hay chi tiết nào về cách trở thành một cai ngục hiệu quả.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Không một người tham gia nào muốn làm cai ngục cả, nhưng một nửa trong số họ đã đựocc chỉ định một cách ngẫu nhiên vào vị trí này. Như mọi người thấy trong bộ phim tài liệu về SPE có tựa đề <em>Quiet Rage (tạm dịch: cơn thịnh nộ âm thầm), </em>các cai ngục mất một thời gian để thực sự nhập vai, những video quay từ ngày đầu tiên cho thấy họ cười khúc khích trong khi khuyến khích các tù nhân nghiêm túc tuân thủ các quy tắc. Một trong ba cai ngục có ca trực hôm đó thậm chí còn rời khỏi khu vực trong khi đếm số lượng tù nhân và không yêu cầu tù nhân tuân theo các lệnh do các lính canh khác đưa ra, vì vậy David Jaffee, người đóng vai quản giáo, đã gọi riêng người lính canh này ra và yêu cầu anh ta tham gia tích cực hơn, chủ động và nghiêm khắc hơn để làm cho môi trường thí nghiệm có vẻ giống một nhà tù hơn. Dưới đây là nguyên văn những gì ông đã nói:</p>
+
+
+
+<p class="wp-block-paragraph">Chúng tôi nhận thấy sáng nay cậu ta không thực sư, anh biết đó, giúp ích chút nào, và tôi tự hỏi liệu có vấn đề gì không&#8230; Chúng tôi thực sự muốn anh ta tham gia tích cực và chủ động hơn vì các cai ngục cần biết rằng mọi cai ngục đều phải nghiêm khắc&#8230; Ý tôi nghiêm khắc ở đây là cậu ta phải kiến quyết và tham gia trực tiếp vào hành động. Điều đó thực sự quan trọng &#8230;&nbsp; để thí nghiệm có hiệu quả vì chúng ta có thể khiến điều này trông giống như một nhà tù – là mục đích chính – phụ thuộc rất nhiều vào hành vi của các cai ngục.</p>
+
+
+
+<p class="wp-block-paragraph">Yêu cầu một người đóng vai một cai ngục trong một nhà tù mô phỏng phải kiên quyết và tham gia vào hành động là khá nhẹ nhàng so với thực tế mà các quản giáo và các sĩ quan cấp trên ở nhà tù cũng như quân đội ngoài đời thực gây ra, nơi cai ngục không tham gia đầy đủ có thể phải đối mặt với các cuộc điều trần kỷ luật, giáng chức, hoặc bị đuổi việc. Mặc dù nhóm nghiên cứu yêu cầu tất cả các lính canh tham gia tích cực và kiểm soát tù nhân một cách nghiêm khắc, nhưng họ không bao giờ hướng dẫn lính canh sử dụng sự tàn bạo, và họ cũng cấm rõ ràng việc sử dụng vũ lực.</p>
+
+
+
+<p class="wp-block-paragraph">Mặc dù có yêu cầu của David Jaffee, không một cai ngục nào thể hiện sự thống trị trong hai ca đầu tiên. Điều khác biệt xảy ra vào Ngày thứ 2 khi các tù nhân nổi dậy bằng các cuộc đối đầu bằng lời nói và thể chất, thách thức toàn bộ 9 lính canh. Sau khi cai ngục dập tắt cuộc nổi dậy này, một trong số họ tuyên bố rằng các tù nhân &#8220;nguy hiểm&#8221;, và với cái nhìn mới về tình huống này, một số cai ngục trở nên cứng rắn hơn trong hành động của mình.</p>
+
+
+
+<p class="wp-block-paragraph">Điều quan trọng cần lưu ý là trong tất cả các báo cáo của tôi về SPE, tôi luôn nhấn mạnh sự khác biệt cá nhân giữa các cai ngục. Một hoặc hai cai ngục trong mỗi ca trực trở nên ngày càng tàn nhẫn theo thời gian, những người khác duy trì phong cách bình tĩnh hơn, và một số ít được coi là “lính canh tốt” từ góc nhìn của tù nhân. Tuy nhiên, không một “cai ngục tốt” nào từng can thiệp để ngăn chặn sự tàn ác của các cai ngục khác. Ngay cả Blum cũng thừa nhận những khác biệt cá nhân này giữa họ. Từ quan điểm của tôi, phạm vi hành vi của các lính canh bác bỏ bất kỳ chỉ trích nào về các đặc điểm yêu cầu được cho là đã bóp méo kết quả của SPE. Thực tế là một số cai ngục vẫn là “cai ngục tốt” trong suốt thí nghiệm cho thấy rằng các cai ngục tàn nhẫn đã chọn hành động theo sáng kiến của riêng họ. Chính những hành vi cực đoan của họ đã tạo ra những tác động kịch tính của thí nghiệm, đặc biệt là của người cai ngục nổi tiếng có biệt danh “John Wayne” vì màn thể hiệnh hung hăng của anh ta.</p>
+
+
+
+<p class="wp-block-paragraph">Một cai ngục cố tình diễn vai của mình. Các tù nhân đã đặt biệt danh cho một cai ngục ca đêm là “John Wayne” vì anh ta hành xử như một cao bồi hoang dã mất kiểm soát. Tuy nhiên, một số nhà phê bình đã bác bỏ hành vi của người cai ngục này, cho rằng anh ta chỉ đang đóng giả vai cai ngục nghiêm khắc. Sau thí nghiệm, “John Wayne” (David Eshelman) giải thích rằng anh ta đã mô phỏng vai trò của mình theo người quản ngục trong bộ phim <em>Cool Hand Luke</em>. Anh nói rằng anh muốn trở thành một cai ngục thực tế, vì vậy anh đã dẫn dắt ca trực ban đêm của mình để trở nên thực sự nghiêm khắc với các tù nhân. Anh ta đã thực hiện điều này bằng cách trừng phạt các tù nhân lặp đi lặp lại bằng nhiều bài tập chống đẩy kéo dài (thỉnh thoảng có một số tù nhân đứng lên lưng người khác), hạn chế quyền tiếp cận thức ăn hoặc ban hành các quy định tùy tiện. Mỗi đêm trôi qua, anh ta trở nên ác độc hơn một cách sáng tạo, vượt xa khỏi vai trò của một cai ngục nghiêm khắc. Thực sự, sau này anh ta nói rằng anh ta bắt đầu nghĩ mình là một “người điều khiển rối” khiến các tù nhân làm bất cứ điều gì anh ta muốn. Trong một sự biến tướng cực độ của vai trò được giao trong thí nghiệm, anh ta đã nghĩ ra một cách không tưởng để làm nhục tất cả các tù nhân vào đêm thứ năm của thí nghiệm. Anh ra lệnh cho họ nghĩ về mình như những “con lạc đà”, một nửa là giống đực và nửa còn lại là giống cái. Những người bị ra lệnh đóng vai lạc đà cái phải cúi xuống, trong khi các tù nhân lạc đà đực được lệnh cưỡi lên họ theo kiểu “chó giao phối”, và họ miễn cưỡng thực hiện hành động này bằng cách giả vờ thực hiện hành vi giao cấu. Một đoạn video quay lại cảnh này khi tôi không có mặt cho thấy sự việc kéo dài gần mười phút, với cả ba cai ngục la hét xúc phạm và cười như điên dại. May mắn thay, tôi đã quyết định kết thúc thí nghiệm vào sáng hôm sau.</p>
+
+
+
+<p class="wp-block-paragraph">Tôi nghĩ không cần phải nói thêm rằng những hành động như vậy đã vượt xa việc chỉ đơn giản đóng vai một cai ngục nghiêm khắc. Cũng đáng lưu ý rằng các cai ngục đồng nghiệp của Eshelman hoàn toàn tham gia vào các hoạt động này và những hành vi xúc phạm khác đã đặc trưng cho ca trực của họ—những hoạt động rất giống với các nghi lễ làm nhục tình dục mà các cai ngục người Mỹ đã áp đặt lên tù nhân Iraq tại Nhà tù Abu Ghraib. Hơn nữa, ca đêm không phải là ca trực duy nhất hành xử quá mức tàn bạo với các tù nhân trong thí nghiệm SPE; một số cai ngục ở hai ca trực còn lại cũng thường xuyên tham gia vào các hành động nhằm làm nhục tù nhân. Liệu những hành động tàn bạo này—và sự tương đồng nổi bật của chúng với những tội ác trong nhà tù thực tế—chỉ đơn thuần là một hệ quả của các đặc điểm yêu cầu xã hội trong một nghiên cứu &#8220;giả mạo&#8221; như Blum và các nhà phê bình khác đã lập luận, hay chúng nói lên điều gì đó quan trọng về bản chất con người? Toàn bộ bằng chứng có sẵn rõ ràng chỉ ra vế sau.</p>
+
+
+
+<p class="wp-block-paragraph">Một tù nhân dường như bị suy sụp tinh thần thực ra chỉ giả vờ để được rời khỏi thí nghiệm sớm. Blum mô tả trường hợp của Doug Korpi, tức Tù nhân số 8612, như một trường hợp tôi bị lừa, tin rằng một tù nhân đang có dấu hiệu suy sụp tinh thần, trong khi thực tế tù nhân này chỉ giả vờ suy sụp để được rời khỏi thí nghiệm sớm. Bằng chứng mà Blum đưa ra cho kết luận này là Korpi đã nói với Blum trong một cuộc phỏng vấn: &#8220;Tôi đã giả vờ&#8230; Nếu anh nghe kỹ đoạn băng, anh sẽ nghe thấy điều đó trong giọng nói của tôi&#8230; Tôi chỉ đang làm tốt nhiệm vụ của mình. Đó là một khoảng thời gian tuyệt vời.&#8221; Để phản bác lại lời chỉ trích này, tôi có hai quan điểm. Thứ nhất, tôi cho rằng bất kỳ nhà nghiên cứu nào khi tin rằng một người tham gia nghiên cứu đang bị suy sụp tinh thần đều có nghĩa vụ đạo đức phải coi sự suy sụp đó là thật, ngay cả khi sau đó sự suy sụp đó hóa ra là giả. Thứ hai, tôi không phải là người duy nhất coi sự suy sụp đó là thật, vì chính Doug Korpi đã công khai trong bộ phim tài liệu <em>Quiet Rage</em> rằng thời gian tham gia thí nghiệm với vai trò tù nhân là trải nghiệm khó chịu nhất trong đời anh ấy—một trải nghiệm sâu sắc đến mức sau này anh ấy trở thành nhà tâm lý học chuyên về nhà tù (xem video đi kèm).</p>
+
+
+
+<p class="wp-block-paragraph">Vì lý do nào đó mà tôi không thể hiểu được, câu chuyện của Korpi đã thay đổi nhiều lần trong suốt 47 năm qua: từ việc thực sự mất kiểm soát cảm xúc, đến việc rời khỏi thí nghiệm để lãnh đạo một cuộc nổi dậy và giải thoát cho các tù nhân khác, đến việc giả vờ suy sụp chỉ để được ra sớm và ôn thi GRE, rồi nhiều suy ngẫm và những sai lệch trong ký ức khác. Dù sao đi nữa, những kết luận mà Korpi đưa ra từ thí nghiệm trong cuộc phỏng vấn <em>Quiet Rage</em>—17 năm sau trải nghiệm—hoàn toàn phù hợp với những kết luận của tôi: &#8220;Nhà tù Stanford là một môi trường nhà tù rất ôn hòa, nhưng nó vẫn khiến các cai ngục trở nên tàn ác và các tù nhân trở nên cuồng loạn.&#8221;<a href="https://www.youtube.com/embed/kXOM8IK4HOs?feature=oembed"></a></p>
+
+
+
+<p class="wp-block-paragraph">Một nhóm nghiên cứu người Anh đã không thể tái tạo thí nghiệm SPE. Một &#8220;thí nghiệm&#8221; dựa lỏng lẻo trên SPE đã được quay và phát sóng trong một chương trình truyền hình 4 phần của BBC vào tháng 5 năm 2002 (<em>Koppel &amp; Mirsky, 2002</em>). Kết quả của chương trình dường như thách thức kết luận của SPE, bởi các cai ngục không thể hiện nhiều bạo lực hoặc tàn ác với tù nhân. Thay vào đó, điều ngược lại đã xảy ra. Các tù nhân chiếm ưu thế so với các cai ngục, đến mức các cai ngục trở nên &#8220;ngày càng hoang tưởng, chán nản và căng thẳng, và phàn nàn nhiều nhất về việc bị bắt nạt.&#8221; Một số cai ngục không thể chịu đựng được nữa và bỏ cuộc; trong khi không có tù nhân nào làm vậy. Blum chỉ ra chương trình truyền hình đó như một thách thức khác đối với tính hợp lý của SPE. Tuy nhiên, chương trình &#8220;truyền hình thực tế&#8221; này không đáp ứng các tiêu chí khoa học để được coi là một sự tái tạo chính xác.</p>
+
+
+
+<p class="wp-block-paragraph">Từ lúc được tuyển chọn qua các quảng cáo quốc gia để trở thành diễn viên trong một &#8220;thí nghiệm khoa học xã hội được tài trợ bởi một trường đại học và sẽ được phát sóng trên truyền hình,&#8221; mọi người tham gia đều biết rằng hành động và giọng nói của họ (qua các micro nhỏ được đeo liên tục) sẽ được gia đình và đồng nghiệp nhìn thấy và nghe thấy trên truyền hình quốc gia. Bất kỳ sự tương đồng nào với sự căng thẳng và đối đầu cảm xúc dữ dội giữa các cai ngục và tù nhân trong SPE, diễn ra 24/7, đã bị loãng đi bởi lịch trình hằng ngày của nhóm nghiên cứu người Anh (Alex Haslam và Stephen Reicher). Những nhà nghiên cứu này thường xuyên can thiệp, thực hiện các thông báo công khai hàng ngày vào cơ sở nhà tù, tiến hành các đánh giá tâm lý hàng ngày, tổ chức các cuộc thi để tù nhân xuất sắc nhất có cơ hội trở thành cai ngục, và giống như nhiều chương trình &#8220;truyền hình thực tế&#8221; khác, họ tạo ra những buổi &#8220;thú tội&#8221; hàng ngày để người tham gia có thể trực tiếp nói với máy quay về cảm xúc của họ. Trớ trêu thay, kết quả của chương trình này có thể được hiểu là bằng chứng bổ sung cho &#8220;sức mạnh của hoàn cảnh,&#8221; mặc dù trong trường hợp này, &#8220;hoàn cảnh&#8221; chính là môi trường của truyền hình thực tế.</p>
+
+
+
+<p class="wp-block-paragraph">Trong chương trình nhà tù của BBC-TV, một trong những người tham gia là Philip Bimpson, kẻ cầm đầu một cuộc nổi dậy của tù nhân chống lại các cai ngục không may mắn. Sau khi chương trình kết thúc, anh đã liên lạc với tôi và chia sẻ một phần suy nghĩ của mình như sau:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph"><em>“Các tù nhân chiến thắng vì họ đã tổ chức tốt hơn cai ngục; những hành động lật đổ và kỹ năng tổ chức của họ vượt trội so với những cai ngục vốn rối loạn trong hoàn cảnh mới. Họ không hiểu rằng họ phải tổ chức lại bản thân và tạo ra một bộ quy tắc mà tất cả đều đồng ý&#8230; Tôi nghĩ rằng nhóm đã bị BBC khai thác vì mục đích thương mại. Tôi và những người bạn mới trong nhóm đã tham gia thí nghiệm này với mục tiêu thúc đẩy khoa học chứ không phải để bị biến thành một hình thức giải trí rẻ tiền.” (Giao tiếp qua email cá nhân, ngày 26 tháng 2 năm 2002; được bổ sung bởi chuyến thăm của tôi tới Glasgow vào ngày 10 tháng 10 năm 2004).</em></p>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph">Do đó, tôi bác bỏ việc sử dụng “sự tái tạo” này như một thách thức hợp lệ về mặt khoa học đối với kết quả từ SPE (để biết phản hồi chi tiết hơn về chỉ trích này, vui lòng xem bài viết của tôi trên <em>Tạp chí Tâm lý Xã hội Anh</em>, 2006, Vol. 45).</p>
+
+
+
+<p class="wp-block-paragraph">Một số nhà phê bình đã tuyên bố rằng tôi chọn công bố những tài liệu đầu tiên về SPE bên ngoài các tạp chí được bình duyệt để tránh bị từ chối. Tuy nhiên, điều này không đúng. Nhóm nghiên cứu đã công bố báo cáo đầu tiên về SPE trên <em>Naval Research Reviews</em> vì tôi đã sử dụng kinh phí từ Văn phòng Nghiên cứu Hải quân (ONR), còn lại từ một khoản tài trợ trước đó, và ONR yêu cầu tôi phải ghi lại nghiên cứu trong tạp chí của họ. Bài viết tiếp theo được xuất bản trên <em>International Journal of Criminology and Penology</em> theo lời mời của biên tập viên. Năm 1973, tôi đăng một bài viết về SPE trên tạp chí <em>New York Times Magazine</em>—không phải để né tránh bình duyệt, mà để tiếp cận một lượng lớn độc giả quốc gia và nhân cơ hội giới thiệu SPE như một <em>Pirandellian Prison</em>. Sau đó, các đồng nghiệp và tôi đã xuất bản nhiều bài viết và chương sách khác về SPE trên các tạp chí và sách được bình duyệt dành cho giới học thuật, bao gồm <em>American Psychologist</em>, một tạp chí có quy trình bình duyệt nghiêm ngặt.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Bổ sung</strong></p>
+
+
+
+<p class="wp-block-paragraph">Bây giờ tôi muốn chuyển sang một số vấn đề khác: nêu bật những gì độc đáo về SPE, mô tả sự xác thực khoa học và khái niệm của nó, chỉ ra cách nó đã ảnh hưởng đến các quyết định pháp lý, và khám phá cách quân đội Hoa Kỳ đã áp dụng một trong những kết luận chính của nó. Sau đó, tôi sẽ suy ngẫm về ba tác động tích cực lâu dài của SPE trong các lĩnh vực nhút nhát, quan điểm về thời gian, và anh hùng.</p>
+
+
+
+<p class="wp-block-paragraph"><em><strong>a) Tính độc đáo của SPE</strong></em></p>
+
+
+
+<p class="wp-block-paragraph">Thiết kế của SPE là độc đáo trong nghiên cứu tâm lý xã hội, bởi vì nó cho phép quan sát các mô hình hành vi của người tham gia trong một khoảng thời gian dài hơn 120 giờ. Một trong những kết luận chính của nghiên cứu là những người tham gia được phân công ngẫu nhiên vào vai trò tù nhân hoặc cai ngục dần dần chấp nhận những danh tính mới đó trong một môi trường nhà tù mô phỏng, mặc dù họ biết rõ tính chất thử nghiệm của nó. Hầu hết các nghiên cứu khác thường bị nén lại trong một buổi một giờ, vì vậy không thể quan sát sự hình thành các danh tính tình huống, chẳng hạn như một số sinh viên đại học bình thường và khỏe mạnh trở thành cai ngục tàn nhẫn hoặc tù nhân bất lực.</p>
+
+
+
+<p class="wp-block-paragraph"><em><strong>b) Tính xác thực của khoa học</strong></em></p>
+
+
+
+<p class="wp-block-paragraph">Việc nhân rộng với các biến thể bởi các nhà nghiên cứu độc lập là tiêu chuẩn của mọi nghiên cứu thực nghiệm, và SPE cũng vậy. Một nhóm nhà nghiên cứu tại Đại học New South Wales, Úc, đã mở rộng thiết kế của SPE bằng cách thực hiện một điều kiện tương tự như của chúng tôi và một số biến thể thí nghiệm khác để khám phá cách các tổ chức xã hội ảnh hưởng đến mối quan hệ giữa tù nhân và cai ngục (Lovibond, Mithiran, &amp; Adams, 1979). Chế độ &#8220;Quản Thúc Tiêu Chuẩn&#8221; của họ được mô phỏng theo các nhà tù an ninh trung bình ở Úc và gần giống nhất về quy trình với SPE. Kết luận trung tâm của các nhà nghiên cứu trong quy trình thí nghiệm nghiêm ngặt này cho thấy: &#8220;Kết quả của chúng tôi ủng hộ kết luận chính của Zimbardo và cộng sự rằng mối quan hệ thù địch và đối đầu trong nhà tù chủ yếu là kết quả của chế độ nhà tù, thay vì các đặc điểm cá nhân của tù nhân và cai ngục.&#8221; (tr. 283). Những kết quả này, trong thiết kế nghiên cứu này, cũng giúp giảm bớt hoài nghi về tính hợp lệ của các thí nghiệm mô phỏng bằng cách cung cấp các đường cơ sở để đánh giá những thay đổi hành vi từ các đặc điểm cấu trúc được định nghĩa một cách khách quan của các nhà tù ngoài đời thực. Tuy nhiên, cần lưu ý rằng hiện nay không thể thực hiện một bản sao đầy đủ của SPE nữa, vì các chỉ trích cho rằng không còn phù hợp về mặt đạo đức khi thực hiện loại nghiên cứu này.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Giá trị lâu dài của thí nghiệm trong các bối cảnh pháp lý</strong></p>
+
+
+
+<p class="wp-block-paragraph">Tôi đã dành phần lớn sự nghiệp chuyên môn của mình để cố gắng chuyển dịch các kết quả nghiên cứu thành các nỗ lực thay đổi xã hội nhằm thúc đẩy công lý xã hội và những gì tốt đẹp nhất trong bản chất con người. Trong các phiên điều trần về cải cách nhà tù (tháng 10 năm 1971), Tiểu ban của Hạ viện Hoa Kỳ không chỉ yêu cầu phân tích của tôi mà còn yêu cầu các đề xuất cải cách. Trong bản tuyên bố của tôi tại Sổ ghi chép của Quốc hội, tôi đã rõ ràng ủng hộ sự can thiệp của Quốc hội vào cấu trúc nhà tù để cải thiện điều kiện cho tù nhân cũng như cho nhân viên cải huấn. Ngoài ra, tôi muốn nêu bật những đóng góp quan trọng mà Craig Haney đã thực hiện cho việc cải cách nhà tù. Ông được coi là chuyên gia hàng đầu quốc gia về tâm lý học nhà tù, đặc biệt là trong việc thách thức điều kiện giam giữ cô lập và án tử hình. Kiến thức chuyên môn của Craig dựa trên việc ông có cả bằng Tiến sĩ tâm lý học và bằng luật tại Đại học Stanford.</p>
+
+
+
+<p class="wp-block-paragraph">Thật không may, bài phê bình của blogger Blum trên Medium đã xuyên tạc lời khai được công bố trong Sổ ghi chép của Quốc hội về những lập luận xây dựng của tôi nhằm cải thiện hệ thống giam giữ hàng loạt của quốc gia chúng ta. Việc tôi vận động chủ yếu dưới hình thức nâng cao nhận thức về sự cần thiết phải chấm dứt “thí nghiệm xã hội” của nhà tù, vì hệ thống này đã thất bại, được đo lường bằng tỷ lệ tái phạm tội cao và mức độ giam giữ hàng loạt hiện nay ở Hoa Kỳ. Chúng ta cần tìm ra lý do thông qua các phân tích hệ thống toàn diện hơn và đề xuất các giải pháp thay thế cho việc giam giữ.</p>
+
+
+
+<p class="wp-block-paragraph">Lời chứng thực thứ hai của tôi trước tiểu ban Quốc hội tập trung vào việc giam giữ thanh thiếu niên (tháng 9 năm 1973) đã đưa tôi tiến xa hơn trong việc trở thành một nhà vận động xã hội. Tôi đã nêu rõ 19 khuyến nghị riêng biệt nhằm cải thiện cách đối xử với những thanh thiếu niên bị giam giữ. Tôi rất vui khi biết rằng một đạo luật liên bang mới đã được thông qua, phần nào được kích thích bởi lời chứng của tôi. Thượng nghị sĩ Birch Bayh, người đứng đầu cuộc điều tra này, đã giúp đưa vào luật quy định rằng, để ngăn chặn việc lạm dụng thanh thiếu niên, những thanh thiếu niên trong tình trạng giam giữ trước khi xét xử không được giam chung với người lớn trong các nhà tù liên bang.</p>
+
+
+
+<p class="wp-block-paragraph">Một tác động pháp lý mạnh mẽ của SPE đến từ việc tôi tham gia vào phiên tòa của Tòa án Liên bang trong vụ kiện của Spain et al. chống lại Procunier et al. (1973). Các tù nhân &#8220;San Quentin Six&#8221; đã bị cô lập trong giam giữ cô lập trong nhiều năm vì bị cáo buộc tham gia vào vụ giết chết các nhân viên bảo vệ và những tù nhân cung cấp thông tin trong nỗ lực trốn thoát của George Jackson vào ngày 21 tháng 8 năm 1971. Là một nhân chứng chuyên gia, tôi đã tham quan các cơ sở của trung tâm điều chỉnh tối đa của San Quentin và phỏng vấn từng tù nhân trong số sáu người này nhiều lần. Tuyên bố chuẩn bị của tôi và hai ngày làm chứng tại tòa kết thúc với ý kiến rằng tất cả các điều kiện giam giữ kéo dài, vô thời hạn, và không tự nguyện dưới những điều kiện phi nhân tính cấu thành &#8220;hình phạt tàn bạo và bất thường&#8221; và do đó phải được thay đổi. Tòa án đã đưa ra kết luận tương tự và ra lệnh cải thiện điều kiện sống cho các tù nhân. Ngoài ra, tôi còn giữ vai trò tư vấn tâm lý trong suốt phiên tòa cho nhóm luật sư của các nguyên đơn.</p>
+
+
+
+<p class="wp-block-paragraph">Sau đó, vào năm 2004, tôi được mời làm nhân chứng chuyên gia trong phiên tòa quân sự của nhân viên nhà tù Mỹ, Thượng sĩ Chip Frederick. Ông là người dẫn đầu nhóm bảo vệ vào ca đêm tại Nhà tù Abu Ghraib, tất cả đều tham gia vào việc lạm dụng các tù nhân Iraq. Có nhiều điểm tương đồng rõ rệt giữa các vụ lạm dụng tù nhân của các nhân viên bảo vệ tại Abu Ghraib và SPE. Hành vi của Frederick đã được chứng minh là hoàn toàn không điển hình, vì ông không có tiền sử hành động gây hại như vậy đối với bất kỳ ai khác, mà thay vào đó đã được trao nhiều danh hiệu vì những cống hiến quân sự xuất sắc của mình. Mặc dù ông đã thừa nhận tội lỗi trong việc thực hiện các hành vi lạm dụng này tại Abu Ghraib, nhưng bản án tù của ông đã được giảm nhẹ đáng kể nhờ sự công nhận của thẩm phán về lời chứng của tôi, tài liệu hóa sức mạnh của tình huống trong nhà tù bất thường đó.</p>
+
+
+
+<p class="wp-block-paragraph">Thú vị thay, tôi cũng được mời làm nhân chứng chuyên gia trong phiên tòa liên bang của Alex Blum, anh họ của Ben Blum, người đã đề cập đến anh ta trong blog Medium của mình. Tóm lại, Alex là một bên có tội với vai trò là người lái xe trốn chạy trong một vụ cướp ngân hàng cùng với ba U.S. Rangers khác. Alex đã ám ảnh lâu dài về việc trở thành một U.S. Ranger, và khi làm tân binh, anh được giao cho một sĩ quan, Luke Elliot Sommer, người là người chỉ huy của anh và đưa ra các mệnh lệnh phải tuân theo mà không cần thắc mắc. Một trong những mệnh lệnh đó là tham gia vào một &#8220;cuộc tập luyện&#8221; cướp một ngân hàng địa phương, nhưng thực tế, nó đã biến thành một vụ cướp ngân hàng toàn diện. Tôi đã dành đủ thời gian cá nhân với Alex để nhận ra mức độ mà anh ấy đã “mù quáng tuân theo” quyền lực của Capt. Sommer (người đã nhận án tù 24 năm). Alex có thể đã nhận một bản án dài tương tự, nhưng thay vào đó, nó được giảm xuống chỉ còn 16 tháng, có lẽ vì tòa án đã chấp nhận lời chứng chuyên gia. Khi ở trong tù, Alex mất trọn tám tháng để nhận ra rằng những gì anh đã làm thực sự là một vụ cướp ngân hàng chứ không phải là một cuộc tập luyện ranger, điều này đối với tôi chứng tỏ sức mạnh của &#8220;Tư duy Ranger&#8221; của anh ta về sự tuân thủ hoàn toàn đối với quyền lực được giao. Đó là sự kết hợp mạnh mẽ giữa kịch bản tuân theo của Milgram cùng với sự kiểm soát tâm trí của người lãnh đạo cult, như đã thấy trong các tín đồ Jonestown của Jim Jones, và những người của Rev. Moon. Để có thông tin quý giá về việc kiểm soát tâm trí, hãy tham khảo cuốn sách <em>Combating Cult Mind Control</em> của Steven Hassan (2015).</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="657" height="631" src="/blog/media/2025/07/phan-hoi-phillip-zimbardo-voi-thi-nghiem-nha-tu-standford-3.png" alt="" class="wp-image-608" srcset="/blog/media/2025/07/phan-hoi-phillip-zimbardo-voi-thi-nghiem-nha-tu-standford-3.png 657w, /blog/media/2025/07/phan-hoi-phillip-zimbardo-voi-thi-nghiem-nha-tu-standford-3-300x288.png 300w" sizes="auto, (max-width: 657px) 100vw, 657px" /></figure>
+
+
+
+<p class="wp-block-paragraph"><strong><em>Giải thích hành vi dựa trên tình huống không bao giờ là một hình thức biện minh.</em></strong></p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph">“Điều mà lĩnh vực tâm lý học xã hội đã mang lại cho sự hiểu biết về bản chất con người là những phát hiện cho rằng những lực lượng lớn hơn bản thân chúng ta quyết định đời sống tinh thần và hành động của chúng ta – trong số những lực lượng này, sức mạnh của tình huống xã hội là điều tất yếu.” (theo Banaji, 2001, <em>Psychological Science Agenda)</em></p>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph">Trong nghiên cứu kinh điển của Solomon Asch (1955), sức mạnh của nhóm đã làm sai lệch các phán đoán cảm nhận của những sinh viên đại học. Trong nghiên cứu tuân thủ của Stanley Milgram (1963), sức mạnh của một nhân vật quyền lực đã thúc đẩy các hành động trái ngược với lương tâm đạo đức của những người tham gia nam trưởng thành, khiến họ gây hại cho một người lạ. Trong nghiên cứu thực nghiệm về sự tách rời đạo đức, Albert Bandura (1975) đã chỉ ra rằng các sinh viên tham gia đã gây sốc cho các “lỗi” của những sinh viên khác với cường độ cao nhất khi họ được gán nhãn là “động vật”, so với các điều kiện khác. Trong SPE, chúng ta đã chứng kiến sự hình thành theo thời gian của hai tư duy: một bên là những người canh gác thống trị và bên kia là những tù nhân vô vọng, trong một bối cảnh xác nhận những nhân cách thay thế này. Tôi tin rằng bốn nghiên cứu tâm lý học này, cùng với nhiều nghiên cứu khác trong lĩnh vực của chúng ta, minh họa mức độ mà sức mạnh của một tình huống xã hội có thể chi phối và làm sai lệch nhận thức, phán đoán, giá trị và hành vi cá nhân.</p>
+
+
+
+<p class="wp-block-paragraph">Cần phải làm rõ rằng khi các nhà tâm lý học xã hội cố gắng giải thích hành vi của các cá nhân dựa trên những lực lượng tình huống bên ngoài có ảnh hưởng, họ không hề ngụ ý rằng trách nhiệm cá nhân được miễn trừ. Mọi người luôn phải chịu trách nhiệm về hậu quả của hành động của họ—về mặt cá nhân, xã hội và pháp lý. Hiểu lý do tại sao chúng ta làm điều gì đó không có nghĩa là chúng ta không phải chịu trách nhiệm về kết quả của hành vi đó.</p>
+
+
+
+<p class="wp-block-paragraph">Tuy nhiên, một số nhà phê bình của SPE thể hiện sự hiểu lầm ngây thơ về quan điểm này khi cho rằng thông điệp của SPE là các cá nhân “không thể bị coi là có trách nhiệm về những điều đôi khi đáng lên án mà chúng ta làm&#8230; điều này cũng rất tự do. Nó có nghĩa là chúng ta không phải lo lắng” (Blum, 2018). Tương tự, LeTextier (2018) tuyên bố rằng: “Nó giống như là, ‘Ôi trời, tôi có thể trở thành một tên phát xít. Tôi đã nghĩ mình là người tốt, và giờ tôi phát hiện ra rằng mình có thể trở thành quái vật này.’ Và trong khi đó, điều đó khá là an ủi, vì nếu tôi trở thành một quái vật, thì không phải vì sâu bên trong tôi là ác quỷ, mà là vì tình huống. Tôi nghĩ đó là lý do tại sao thí nghiệm (SPE) nổi tiếng ở Đức và Đông Âu. Bạn không cảm thấy tội lỗi. ‘Ôi, được rồi, đó là tình huống. Tất cả chúng ta đều là người tốt. Không có vấn đề gì. Chỉ là tình huống đã khiến chúng ta làm điều đó.’ Vì vậy, điều này gây sốc, nhưng đồng thời cũng mang lại sự an ủi.”</p>
+
+
+
+<p class="wp-block-paragraph">Luận điểm này đã bị bác bỏ trong các phiên tòa Nuremberg đối với các bác sĩ Đức Quốc xã và những người khác nhiều thập kỷ trước, và có lý do chính đáng; các cá nhân thực sự “chỉ đang làm công việc của họ” nhưng vẫn phải chịu trách nhiệm cho những tội ác họ đã gây ra.</p>
+
+
+
+<p class="wp-block-paragraph">Tôi hoàn toàn bác bỏ chỉ trích cho rằng thông điệp cơ bản của SPE là miễn trách nhiệm cho mọi người về “tội lỗi” của họ. Việc thay đổi hoặc ngăn chặn hành vi không mong muốn của các cá nhân hoặc nhóm đòi hỏi phải hiểu rõ những sức mạnh, phẩm chất và điểm yếu mà họ mang vào bất kỳ tình huống nào. Chúng ta cần nhận thức đầy đủ hơn về sự phức tạp của các lực lượng tình huống có tác động trong các môi trường hành vi cụ thể. Việc điều chỉnh chúng, hoặc học cách tránh chúng, có thể có tác động lớn hơn trong việc giảm bớt những phản ứng không mong muốn của cá nhân hơn là những hành động khắc phục chỉ tập trung vào việc thay đổi những người trong một tình huống sau khi họ đã làm sai. Điều đó có nghĩa là áp dụng một phương pháp y tế công cộng thay vì mô hình y học tiêu chuẩn trong việc chữa trị những vấn đề và sai lầm cá nhân. Tôi đã nhiều lần tuyên bố rằng việc cố gắng hiểu các yếu tố tình huống và hệ thống góp phần vào hành vi của bất kỳ cá nhân nào không có nghĩa là miễn trách nhiệm cho người đó trong việc tham gia vào các hành động vô đạo đức, bất hợp pháp hoặc ác độc. Hơn nữa, tôi luôn ủng hộ tất cả các nỗ lực nhằm tạo ra các điều kiện, hệ thống và xã hội, có thể phát huy những điều tốt đẹp nhất trong bản chất con người.</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="630" height="364" src="/blog/media/2025/07/phan-hoi-phillip-zimbardo-voi-thi-nghiem-nha-tu-standford-4.png" alt="" class="wp-image-607" srcset="/blog/media/2025/07/phan-hoi-phillip-zimbardo-voi-thi-nghiem-nha-tu-standford-4.png 630w, /blog/media/2025/07/phan-hoi-phillip-zimbardo-voi-thi-nghiem-nha-tu-standford-4-300x173.png 300w" sizes="auto, (max-width: 630px) 100vw, 630px" /></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Sử dụng thí nghiệm trong đào tạo quân đội SERE.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Khi tôi giảng bài tại Học viện Hải quân Hoa Kỳ, tôi được thông báo rằng Hải quân và các đơn vị quân sự khác đã sử dụng phim tài liệu về SPE để đào tạo nhân viên của họ nhằm tránh những thái quá có thể xảy ra trong các bài tập này. Sau Chiến tranh Triều Tiên, khi một số phi công bị cáo buộc đã cung cấp thông tin có thể hành động cho kẻ thù, quân đội của chúng ta đã phát triển một chính sách không bao giờ cung cấp bất kỳ thông tin nào khi bị kẻ thù bắt giữ, ngoài tên, cấp bậc và số hiệu. Quân đội đã thiết lập các trò chơi chiến tranh trong đó một số nhân viên đóng vai trò là tù nhân đã trốn thoát, bị các nhân viên khác truy lùng, và sau đó bị thẩm vấn một cách khốc liệt nhằm buộc họ phải tiết lộ những lời thú nhận và thông tin quan trọng. Chương trình này, <em>Tìm kiếm (Search), Trốn thoát (Evasion), Kháng cự (Resistance), và &nbsp;Trốn thoát (Escape)</em> (SERE), vẫn tiếp tục hoạt động như một chương trình đào tạo hiệu quả để đạt được mục tiêu không bao giờ tuân thủ bất kỳ lệnh nào của kẻ thù về thông tin. Tuy nhiên, đã có những báo cáo về những thái quá được thực hiện bởi những người đóng vai trò thẩm vấn, gây nguy hiểm cho sức khỏe của các tù nhân giả định. SPE được trình chiếu như một lời cảnh báo về sự dễ dàng mà bất kỳ ai cũng có thể vượt qua ranh giới từ việc diễn xuất thành những kẻ tra tấn tàn bạo. Tôi thấy đây là một kết quả tích cực bất ngờ từ một số thông điệp của SPE trong các tình huống thực tế.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>SPE được xem như nhà tù Pirandellian</strong></p>
+
+
+
+<p class="wp-block-paragraph">Cơ hội viết một bài cho Tạp chí New York Times (1973) đã cho phép nhóm nghiên cứu của chúng tôi trình bày trải nghiệm của mình cho một đối tượng công chúng rộng hơn, thay vì chỉ giới hạn trong giới học thuật. Điều này có nghĩa là chúng tôi phải tham gia vào một phong cách viết khác. Tôi rất coi trọng ý tưởng về việc định hình SPE thông qua các phép ẩn dụ của nhà soạn kịch Luigi Pirandello, về ranh giới mong manh giữa thực tế và ảo tưởng, giữa diễn xuất và sự tồn tại, giữa việc đóng vai và vai trò trở thành chính bản thân mình, và đó chính xác là điều chúng tôi đã thực hiện.</p>
+
+
+
+<p class="wp-block-paragraph">SPE là một vở kịch được diễn ra bởi những chàng trai trẻ đóng vai các nhân vật được giao mà không có kịch bản và không có khán giả trong nhiều giờ và ngày liên tục. Mọi người đều biết đó chỉ là một vở kịch. Mọi người đều biết đó chỉ là một thí nghiệm tâm lý; rằng họ đang ở trong tầng hầm của khoa tâm lý, chứ không phải là một nhà tù thực sự; rằng các tù nhân không phạm tội gì; rằng các lính canh hoàn toàn có thể kiếm tiền lương của mình bằng cách chơi bài trong văn phòng canh gác của họ trong phần lớn 8 giờ làm việc của họ, miễn là họ giữ các tù nhân trong các buồng giam của họ. Tuy nhiên, trong một khoảng thời gian tương đối ngắn, thí nghiệm tâm lý này đã trở thành một “nhà tù,” và chỉ có hai cách để thoát khỏi ngục tối đó: được thả bởi quyết định tùy tiện của hội đồng tha tù hoặc trở thành/hành động như bị rối loạn tâm lý hoặc thể chất nghiêm trọng. Ngoài Korpi, bốn tù nhân giả khác cũng phải được thả sớm vì lý do tâm lý hoặc y tế cực đoan.</p>
+
+
+
+<p class="wp-block-paragraph">Như cũng rõ ràng từ các video tài liệu và biên bản nguyên văn của chúng tôi, không chỉ hầu hết các người tham gia nghiên cứu thực hiện vai trò của họ như thể họ đang bị giam giữ hoặc đang làm công việc của những người lính canh được trả lương, mà gần như tất cả những người khác tham gia vào bối cảnh đó đều hành động như thể đây là một nhà tù thực sự. Ví dụ điển hình là linh mục Công giáo mà tôi đã mời để đánh giá sự phù hợp của thí nghiệm này với kinh nghiệm của ông trong các nhà tù thực sự. Ông đã làm điều này bằng cách phỏng vấn tất cả các tù nhân. Tuy nhiên, ông nhanh chóng đã vào vai một nhà tư vấn cho tù nhân, gọi điện cho mẹ của một tù nhân để thông báo rằng con trai của bà cần một luật sư công để giúp đưa cậu ra khỏi nhà tù này. Luật sư công cũng biết rằng SPE chỉ là một thí nghiệm, nhưng khi gặp gỡ những tù nhân đang tuyệt vọng, ông vẫn duy trì vai trò xa cách của mình, bị giới hạn bởi những gì ông có thể làm để giúp họ.</p>
+
+
+
+<p class="wp-block-paragraph">Carlo Prescott đã bị cuốn vào vai trò của mình như là người đứng đầu hội đồng ân xá đến nỗi ông bắt đầu quở trách và lăng mạ nhiều người cầu xin được tha, cho đến khi một số người khóc lóc và cầu xin ông hiểu về trường hợp của họ. Sau đó, ông nói rằng ông đã vô thức trở thành loại người mà ông ghét nhất trên thế giới, những người trong hội đồng ân xá đã từ chối hàng chục yêu cầu của ông trước đó. Sau đó, ông báo cáo rằng đã cảm thấy buồn nôn, nhận ra điều mình đã trở thành, và không muốn đóng vai trò đó thêm lần nào nữa.</p>
+
+
+
+<p class="wp-block-paragraph">Còn tôi. Tôi bắt đầu nghiên cứu như là nhà nghiên cứu chính, phụ trách nhóm sinh viên nghiên cứu của mình, tất cả đều quan tâm đến việc khám phá cùng nhau các động lực của một tình huống độc đáo mà chúng tôi đã tạo ra. Ban đầu, tôi đã thiết lập các quy trình quan sát và nghiên cứu, giao nhiệm vụ ghi hình, và quy trình thu thập dữ liệu, như mọi nhà nghiên cứu thí nghiệm. Tuy nhiên, chỉ trong một thời gian rất ngắn, tôi đã chuyển mình thành vai trò Giám đốc Nhà tù toàn thời gian. Trong quan điểm của tôi, đó là khiếm khuyết lớn nhất của SPE; nó không có một nhà quan sát khoa học độc lập cho các sự kiện đang diễn ra. Kế hoạch của tôi trở nên ít tập trung vào việc thu thập dữ liệu hơn mà nhiều hơn về việc phân công nhân viên hàng ngày, thời gian bữa ăn, gặp gỡ với các bậc phụ huynh quan tâm, các phiên họp của hội đồng tha tù, thay đổi ca trực của lính canh, gặp gỡ với ủy ban khiếu nại của tù nhân, xử lý các sự cố của tù nhân và nhiều hơn nữa.</p>
+
+
+
+<p class="wp-block-paragraph">Một minh chứng sống động cho khiếm khuyết này trong nghiên cứu xảy ra vào tối thứ Năm, năm ngày sau khi nghiên cứu bắt đầu, khi có sự kiện chạy toilet vào lúc 10:00 tối theo lịch &#8211; lần cuối cùng các tù nhân có thể đi vệ sinh bình thường thay vì tiểu tiện hoặc đại tiện vào xô trong buồng giam của họ. Các lính canh ca đêm đã lợi dụng sự kiện này như một cơ hội để tra tấn và làm rối loạn các tù nhân theo nhiều cách khác nhau. Đến lúc đó, tôi đã không còn công nhận nỗi đau của các tù nhân; việc chạy toilet chỉ là một dấu tích trong lịch trình hàng ngày của tôi.</p>
+
+
+
+<p class="wp-block-paragraph">Vào thời điểm đó, tôi đã nhận được một thách thức bất ngờ từ một người khách quan sát cách mà các lính canh đang phi nhân hóa và tra tấn các tù nhân (một lần nữa không có chỉ đạo nào từ nhân viên). Christina Maslach, một giáo sư tâm lý mới tại U.C. Berkeley, người mà tôi đang hẹn hò, đã xuống để mời tôi đi ăn tối. Tuy nhiên, khi thấy cách đối xử với những tù nhân bị che mặt và bị xích, cô đã chạy ra ngoài trong nước mắt. Chúng tôi đã có một cuộc đối đầu lớn trong đó cô đã làm rõ rằng tình huống này đã biến tôi từ một giáo viên yêu thương học sinh thành một người có thể thờ ơ với nỗi đau của sinh viên. Cô ấy sau đó nói rằng cô không muốn tiếp tục mối quan hệ của chúng tôi nếu tôi không tỉnh ngộ. Đó là tiếng chuông thức tỉnh tôi để gỡ bỏ bộ quần áo Giám đốc Nhà tù, quay trở lại với bản ngã bình thường của mình, và kết thúc SPE vào sáng hôm sau.</p>
+
+
+
+<p class="wp-block-paragraph">Vậy điều gì thực sự đã xảy ra trong năm ngày của thí nghiệm? Đó có phải là một vở kịch diễn ra về bản chất con người trong bộ mặt xấu nhất của nó, hay chỉ là những đứa trẻ đóng kịch để làm hài lòng đạo diễn? Tôi tin chắc rằng đó là điều đầu tiên.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Di sản bền vững</strong></p>
+
+
+
+<p class="wp-block-paragraph">Ba trong số những đóng góp của tôi cho tâm lý học và xã hội đã hình thành theo nhiều cách từ các ý tưởng mở rộng mà tôi rút ra từ SPE. Chúng bao gồm: (1) hiểu và điều trị sự nhút nhát, (2) hiểu và sử dụng sức mạnh của góc nhìn thời gian để cải thiện chất lượng cuộc sống của chúng ta, và (3) tạo ra Dự án Trí tưởng tượng Anh hùng nhằm truyền cảm hứng cho hành động xã hội đầy lòng từ bi vì cái thiện và chống lại cái ác.</p>
+
+
+
+<ul class="wp-block-list">
+<li><em><strong>Sự nhút nhát</strong></em>. Tôi đã lần đầu tiên hình thành khái niệm về sự nhút nhát vào năm 1972 như một nhà tù tâm lý tự áp đặt, trong đó người nhút nhát đảm nhận hai vai trò: người gác (người hạn chế tất cả sự tự do ngôn luận và hành vi xã hội) và cũng là tù nhân miễn cưỡng (người chịu đựng những ràng buộc đó và do đó mất nhiều lòng tự trọng). Tôi đã tiến hành nghiên cứu tiên phong về chủ đề này, thành lập phòng khám điều trị sự nhút nhát đầu tiên (vẫn hoạt động tại Đại học Palo Alto), và cũng xuất bản nhiều sách và bài viết phổ biến cho công chúng. Do đó, tôi đã tích hợp giáo dục, nghiên cứu, trị liệu và nâng cao nhận thức công cộng về hiện tượng cá nhân và xã hội rộng rãi này.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong><em>Góc nhìn thời gian</em>.</strong> Sự quan tâm của tôi trong việc khám phá tâm lý học về góc nhìn thời gian, hay các vùng thời gian mà tất cả chúng ta đều sống, đã phần nào xuất phát từ cảm giác thời gian bị biến dạng mà tất cả chúng ta đã trải nghiệm trong SPE. Không có đồng hồ hay cửa sổ, thời gian của nhà tù dưới tầng hầm đó xoay quanh mỗi ca trực của lính canh ra vào. Chúng tôi thường cảm thấy bị mắc kẹt trong một vùng thời gian hiện tại kéo dài khi các lính canh liên tục quấy rối các tù nhân, hoặc trong một vùng thời gian hiện tại fatalistic mà hầu hết các tù nhân trải nghiệm khi những gì họ làm không tạo ra khác biệt trong cách họ bị đối xử. Tôi đã phát triển một thang đo để đo lường sự khác biệt cá nhân trong góc nhìn thời gian, Thang đo Góc nhìn Thời gian Zimbardo; thực hiện nghiên cứu gốc về chủ đề này; xuất bản một số sách về góc nhìn thời gian và ứng dụng của nó trong nhiều loại trị liệu khác nhau để chữa lành chấn thương và cải thiện chất lượng cuộc sống của chúng ta. Ngoài ra, tôi đã tập hợp một đội ngũ nghiên cứu và thực hành toàn cầu để nghiên cứu, sử dụng và mở rộng các ý tưởng và quy trình phát sinh từ một trong nhiều trải nghiệm cá nhân của tôi trong SPE.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong><em>Tạo ra các anh hùng mỗi ngày.</em></strong> Trong chương cuối của <em>The Lucifer Effect</em>, tôi đã chuyển đổi trọng tâm từ việc cố gắng hiểu làm thế nào những người tốt có thể trở nên xấu xa sang việc đặt câu hỏi liệu có khả năng cho những người bình thường được truyền cảm hứng và đào tạo để trở thành những anh hùng hàng ngày hay không. Kể từ đó, và với sự hỗ trợ của các đồng nghiệp sau tuyên bố công khai chủ đề đó trong bài nói TED năm 2008 của tôi, <em>On the Psychology of Evil</em>, tôi đã dành cuộc sống học thuật và cá nhân của mình để tạo ra một quỹ phi lợi nhuận, <em>Dự án Trí tưởng tượng Anh hùng</em> (HIP). Sứ mệnh của nó là truyền cảm hứng và đào tạo những người bình thường, đặc biệt là giới trẻ của chúng ta, để sẵn sàng và willing thực hiện những hành động từ bi phi thường trong các tình huống khó khăn mà họ phải đối mặt trong cuộc sống. Ngoài một chương trình nghiên cứu, chúng tôi đã phát triển một chương trình giáo dục độc đáo cung cấp nền tảng để đào tạo mọi người cách suy nghĩ và hành động anh hùng trong các tình huống mà họ gặp phải. Những bài học này đã chứng minh hiệu quả với học sinh trung học và sinh viên đại học, cũng như trong các môi trường kinh doanh. HIP đã trở thành một phong trào toàn cầu với các chương trình sôi nổi ở hơn một tá quốc gia trên nhiều châu lục, và nhiều quốc gia khác sẽ tham gia sớm. Để biết thêm thông tin, vui lòng truy cập <a href="http://www.HeroicImagination.org">www.HeroicImagination.org</a>.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"><strong>Kết luận</strong></p>
+
+
+
+<p class="wp-block-paragraph">Tôi hy vọng rằng phản hồi này đối với những người chỉ trích tính hợp lệ và giá trị lâu dài của Thí nghiệm Nhà tù Stanford sẽ chỉ ra rằng kết luận của họ về cơ bản là sai lầm. Dù có những thiếu sót, tôi vẫn tin rằng SPE góp phần vào sự hiểu biết của tâm lý học về hành vi con người và động lực phức tạp của nó. Nhiều yếu tố hình thành hành vi con người: bên trong và bên ngoài, quá khứ và hiện tại, văn hóa và cá nhân. Càng hiểu rõ tất cả những động lực này và cách chúng tương tác phức tạp với nhau, chúng ta càng có khả năng thúc đẩy những điều tốt đẹp nhất trong bản chất con người. Đó là sứ mệnh suốt đời của tôi.</p>
+
+
+
+<p class="wp-block-paragraph">Người dịch: Lam Hoàng</p>
+
+
+
+Nguồn: https://www.prisonexp.org/response
+
+
+
+<p class="wp-block-paragraph"></p>

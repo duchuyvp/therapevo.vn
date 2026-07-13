@@ -1,0 +1,468 @@
+---
+slug: bao-luc-voi-phu-nu-va-suc-khoe-tam-than
+title: Bạo lực với phụ nữ và sức khỏe tâm thần
+date: '2025-07-14T11:04:34'
+excerpt: Bạo lực với phụ nữ và ảnh hưởng đến sức khoẻ tâm thần
+categories:
+  - slug: tam-ly-hoc-lam-sang
+    name: Tâm lý học lâm sàng
+coverImage: /blog/media/2025/07/violence-8-Converted.webp
+---
+
+<p class="has-text-align-right wp-block-paragraph"><em>Sian Oram, Hind Khalifeh, Louise M Howard</em></p>
+
+
+
+<p class="wp-block-paragraph"><em>Bạo lực đối với phụ nữ là một vấn đề sức khỏe cộng đồng nổi cộm và là hành vi vi phạm nhân quyền. Các hành vi này làm suy yếu quyền được sống, quyền không bị tra tấn và chịu đựng các hình thức đối xử hoặc trừng phạt tàn ác, vô nhân đạo hoặc những hành vi hạ nhục khác của phụ nữ, và các tiêu chuẩn cao nhất có thể đạt được về sức khỏe thể chất và tinh thần.</em> <em>Các hướng dẫn và tuyên bố lập trường quốc tế và quốc gia công nhận rằng bạo lực đối với phụ nữ là một yếu tố quan trọng quyết định sức khỏe của phụ nữ và trẻ em, đồng thời kêu gọi các dịch vụ y tế xác định và giải quyết vấn đề sức khỏe cộng đồng nổi cộm này</em>.</p>
+
+
+
+<p class="wp-block-paragraph">Trong bài báo này của Loạt bài này, chúng tôi chỉ ra rằng bạo lực đối với phụ nữ cũng là một vấn đề sức khỏe tâm thần cộng đồng. Do đó, các dịch vụ sức khỏe tâm thần trên toàn thế giới nên xác định tình trạng bạo lực đối với phụ nữ, ngăn ngừa bạo lực tiếp diễn và điều trị hậu quả hiệu quả hơn. Để làm được như vậy, các chuyên gia cần nhận thức được tác động của bạo lực đối với phụ nữ trên phương diện tinh thần và tính hiệu quả của các phương pháp điều trị tiềm năng.</p>
+
+
+
+<p class="wp-block-paragraph">Không chỉ vậy, họ còn phải phát triển sự hiểu biết về động lực và sự phức tạp của tình trạng lạm dụng. Đặc biệt, các chuyên gia phải cảnh giác với nguy cơ đổ lỗi cho nạn nhân và truất quyền của những người phụ nữ vốn đã bị thiệt thòi do các yếu tố xã hội quyết định bạo lực đối với phụ nữ và các rối loạn tinh thần &#8211; chẳng hạn như sự nghèo đói và bất bình đẳng giới.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Các hình thức bạo lực phổ biến nhất đối với phụ nữ là bạo lực gia đình cũng như lạm dụng và bạo lực tình dục. 35% phụ nữ trên thế giới đã từng trải qua bạo lực từ bạn tình hoặc bạo lực tình dục không đến từ bạn tình. Mặc dù nam giới cũng có trải qua việc bị bạn tình bạo lực, phụ nữ lại có nguy cơ chịu đựng bạo lực nghiêm trọng lặp đi lặp lại nhiều hơn.</p>
+
+
+
+<p class="wp-block-paragraph">Trên toàn thế giới, 39% vụ giết hại phụ nữ là do bạn tình hoặc bạn tình cũ thực hiện (so với 6% đối với các vụ giết hại nam giới), và một tỷ lệ cao hơn (59%) được ghi nhận ở Đông Nam Á so với trên toàn thế giới (so với 0,9% của các vụ giết hại nam giới). Bạo lực tình dục không do bạn tình gây ra cũng phổ biến và đã xảy ra với 7% phụ nữ trên thế giới. Tại Anh, cuộc khảo sát tội phạm năm 2013–14 đã phát hiện ra rằng 2,2% (khoảng 355.000) phụ nữ trong độ tuổi 16–59 đã từng trải qua một số hình thức tấn công tình dục và 8,5% (1,5 triệu) đã từng trải qua bạo hành gia đình trong năm đó.</p>
+
+
+
+<p class="wp-block-paragraph">Khi nam giới là nạn nhân của bạo lực liên cá nhân, có nhiều khả năng đó là bạo lực đường phố hoặc bạo lực băng đảng do những người đàn ông khác gây ra. Tuy nhiên, những bất bình đẳng về mặt cấu trúc mà những người mắc các rối nhiễu tâm lý, đặc biệt là những người mắc bệnh tâm lý nghiêm trọng, gặp phải, lại giao cắt với vấn đề bất bình đẳng giới, và nam giới mắc chứng rối nhiễu tâm lý có nguy cơ chịu bạo lực gia đình và bạo lực tình dục cao hơn so với nam giới trong dân số nói chung.</p>
+
+
+
+<p class="wp-block-paragraph">Do đó, các dịch vụ sức khỏe tinh thần cần phải nhận thức được tình trạng bạo lực liên cá nhân mà nữ giới và nam giới đã trải qua và gây ra, và cung cấp các dịch vụ nhạy cảm về giới để giải quyết vấn đề này. Bài báo này tập trung vào cách các dịch vụ sức khỏe tinh thần có thể giải quyết tình trạng bạo lực đối với phụ nữ nhưng cũng sẽ liên quan đến cách các dịch vụ sức khỏe tinh thần có thể giúp nam giới đang trải qua bạo lực gia đình và tình dục.</p>
+
+
+
+<p class="wp-block-paragraph">Mục tiêu của chúng tôi là xem xét bằng chứng về mối liên hệ giữa bạo lực với phụ nữ và sức khỏe tâm thần, việc xác định và phản ứng đối với bạo lực đối với phụ nữ bằng các dịch vụ sức khỏe tâm thần, và các biện pháp can thiệp sức khỏe tâm thần cho nạn nhân và thủ phạm bạo lực đối với phụ nữ.</p>
+
+
+
+<p class="wp-block-paragraph">Bạo lực với phụ nữ có nhiều hình thức (bao gồm bạo lực gia đình, bạo lực tình dục &#8211; bao gồm cả bạo lực trong các khu vực xung đột và như một vũ khí chiến tranh, cưỡng bức và kết hôn sớm, cái gọi là <strong>tội ác &#8220;danh dự&#8221; (“honour” crimes)</strong>,&nbsp;việc cắt bỏ bộ phận sinh dục nữ [<strong>female genital mutilation &#8211; FGM</strong>) và buôn bán người).</p>
+
+
+
+<p class="wp-block-paragraph">Ở bài viết này, chúng tôi tập trung vào bạo lực gia đình và bạo lực tình dục &#8211; những hình thức bạo lực phổ biến nhất đối với phụ nữ trên toàn thế giới. Ngoài ra, chúng tôi trình bày bằng chứng nổi bật ở thời điểm hiện tại về tác động của nạn buôn người và FGM đối với sức khỏe tinh thần.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-cac-dịnh-nghia-va-khai-niệm-bạo-lực-với-phụ-nữ"><strong>Các định nghĩa và khái niệm bạo lực với phụ nữ</strong></h2>
+
+
+
+<h3 class="wp-block-heading" id="h-bạo-lực-gia-dinh-va-lạm-dụng-gia-dinh-domestic-violence-and-abuse"><strong>Bạo lực gia đình và lạm dụng gia đình (Domestic violence and abuse)</strong></h3>
+
+
+
+<p class="wp-block-paragraph">Nhiều nước đã đưa ra một khái niệm về bạo lực và lạm dụng trong gia đình có tính trung lập về giới. Ví dụ, <strong>Bộ Nội vụ Anh</strong> tuyên bố rằng đó là <em>“hành vi, sự bạo lực hoặc lạm dụng việc kiểm soát, cưỡng ép hoặc đe dọa giữa những người từ 16 tuổi trở lên được thực hiện bởi người là hoặc đã từng là đối tác thân mật hoặc thành viên gia đình, bất kể giới tính hoặc khuynh hướng tình dục”</em>. Định nghĩa này bao gồm, nhưng không chỉ giới hạn bạo lực và lạm dụng gia đình ở khía cạnh tâm lý, thể xác, tình dục và tình cảm.</p>
+
+
+
+<p class="wp-block-paragraph">Tương tự, <strong>Bộ Tư pháp Hoa Kỳ (The US Department of Justice) </strong>định nghĩa bạo lực gia đình là <em>“một kiểu hành vi lạm dụng trong bất kỳ mối quan hệ nào được một đối tác sử dụng để giành được hoặc duy trì quyền lực và sự kiểm soát đối với đối tác thân mật còn lại”.</em> Tuy nhiên, bạo lực và lạm dụng gia đình được công nhận là có sức ảnh hưởng không cân xứng đến phụ nữ và là biểu hiện của sự bất bình đẳng quyền lực giữa nam giới và phụ nữ.</p>
+
+
+
+<p class="wp-block-paragraph">Do đó, bạo lực và lạm dụng gia đình là một hình thức bạo lực trên cơ sở giới. Một số chuyên gia cho rằng có bằng chứng cho thấy sự khác biệt giữa <em>“bạo lực tình huống” </em>(kiểu bạo lực và lạm dụng gia đình ít xảy ra hơn, ít có khả năng leo thang theo thời gian và có nhiều khả năng là xuất phát từ cả đôi bên) và <em>“khủng bố tình cảm”</em> (kiểu bạo lực gia đình và lạm dụng đặc trưng bởi mô hình cưỡng bức bạo lực thể xác, đe dọa và kiểm soát).</p>
+
+
+
+<p class="wp-block-paragraph">Nghiên cứu về bạo lực gia đình và lạm dụng thường tập trung vào các vụ bạo lực thể xác. Điều này đã bỏ qua tác động của việc bị ngược đãi lặp đi lặp lại, bạo lực tình dục, bạo lực tình cảm, cũng như hành vi kiểm soát và cưỡng bức.</p>
+
+
+
+<p class="wp-block-paragraph">Các trải nghiệm của phụ nữ về bạo lực gia đình và lạm dụng lặp đi lặp lại với tần suất thường xuyên và các hình thức ngược đãi khác đã bị che khuất bởi các cuộc khảo sát tội phạm thường chỉ giới hạn các hình thức bạo lực lặp đi lặp lại trong các báo cáo. Hạn chế này làm nhu cầu có quan điểm phân tích theo giới tính về bạo lực trở nên cấp thiết hơn.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-bạo-lực-tinh-dục-sexual-violence"><strong>Bạo lực tình dục (sexual violence)</strong></h3>
+
+
+
+<p class="wp-block-paragraph">Mặc dù hầu hết các nghiên cứu về bạo lực gia đình và lạm dụng tập trung vào bạo lực thể xác, bạo lực tình dục cũng có thể do bạn tình gây ra, và thường thì các nghiên cứu không xem xét mối quan hệ giữa nạn nhân và thủ phạm của bạo lực tình dục. Bạo lực tình dục do bạn tình và không do bạn tình gây ra được WHO định nghĩa riêng biệt.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Bạo lực tình dục do bạn tình gây r</strong>a được định nghĩa là<em> “bị ép buộc về mặt thể xác quan hệ tình dục khi bạn không muốn, quan hệ tình dục vì bạn sợ những gì bạn tình của bạn có thể làm, và/hoặc bị ép buộc phải làm điều gì đó mang tính gợi dục mà khiến bạn cảm thấy nhục nhã hoặc bị hạ thấp nhân phẩm</em>”.</p>
+
+
+
+<p class="wp-block-paragraph">Còn <strong>bạo lực tình dục do người không phải bạn tình gây ra</strong> được định nghĩa là <em>“khi bạn từ 15 tuổi trở lên, bị ép buộc thực hiện bất kỳ hành vi tình dục nào mà bạn không muốn bởi một người nào đó không phải là chồng/bạn tình của bạn”</em>. </p>
+
+
+
+<p class="wp-block-paragraph">Việc đo lường mức độ bạo lực tình dục &#8211; thường bị coi là một điều đáng xấu hổ và đáng bị kỳ thị &#8211; đặt ra một loạt các thách thức. Những lầm tưởng về bạo lực tình dục đang phổ biến trên toàn thế giới. Những lầm tưởng này bao gồm việc phụ nữ sử dụng rượu hoặc ma túy là đang &#8220;mời gọi&#8221; để bị cưỡng hiếp, rằng phụ nữ kích động hành vi cưỡng hiếp bằng cách ăn mặc hoặc bằng hành động của họ. Hoặc có quan niệm cho rằng cưỡng hiếp là một<strong> “tội ác vì đam mê” (crime of passion) </strong><em>(tội ác gây ra trong lúc đang bị kích động về mặt tình cảm)</em>.</p>
+
+
+
+<p class="wp-block-paragraph">Những lầm tưởng này có vai trò thúc đẩy sự kỳ thị và đổ lỗi cho nạn nhân, đồng thời giảm bớt trách nhiệm của thủ phạm. Trong bối cảnh này, nhiều nạn nhân chọn không báo cáo về những trải nghiệm của họ hoặc có thể không coi những gì đã xảy ra với họ là hành vi bạo lực tình dục.</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="586" src="/blog/media/2025/07/bao-luc-voi-phu-nu-va-suc-khoe-tam-than-1-1024x586.png" alt="Nhiều nạn nhân chọn không báo cáo về những trải nghiệm của họ hoặc có thể không coi những gì đã xảy ra với họ là hành vi bạo lực tình dục" class="wp-image-756" style="width:700px;height:auto" srcset="/blog/media/2025/07/bao-luc-voi-phu-nu-va-suc-khoe-tam-than-1-1024x586.png 1024w, /blog/media/2025/07/bao-luc-voi-phu-nu-va-suc-khoe-tam-than-1-300x172.png 300w, /blog/media/2025/07/bao-luc-voi-phu-nu-va-suc-khoe-tam-than-1-768x440.png 768w, /blog/media/2025/07/bao-luc-voi-phu-nu-va-suc-khoe-tam-than-1.png 1170w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h3 class="wp-block-heading" id="h-cac-dạng-bạo-lực-khac-với-phụ-nữ"><strong>Các dạng bạo lực khác với phụ nữ</strong></h3>
+
+
+
+<p class="wp-block-paragraph">Bạo lực tình dục phổ biến trong cộng đồng nói chung, như chúng tôi đã đề cập trước đó, nhưng chúng đặc biệt phổ biến trong một số nhóm cụ thể. Ví dụ, một nghiên cứu về những người sống sót sau nạn buôn người đã tiếp xúc với các dịch vụ hỗ trợ ở Anh cho thấy 95% phụ nữ bị buôn bán để bóc lột tình dục, 54% phụ nữ bị buôn bán để làm nô lệ trong gia đình và 21% phụ nữ bị buôn bán để bóc lột lao động cho biết đã bị ép quan hệ tình dục trong khi bị buôn bán.</p>
+
+
+
+<p class="wp-block-paragraph">Phụ nữ chiếm hơn một nửa trong số 20,9 triệu nạn nhân của nạn buôn người trên toàn thế giới. Buôn người được định nghĩa là <em>việc tuyển dụng và di chuyển con người &#8211; thường bằng các biện pháp như lừa dối, ép buộc hoặc lạm dụng sự dễ bị tổn thương &#8211; với mục đích bóc lột.</em></p>
+
+
+
+<p class="wp-block-paragraph">Những người phụ nữ đã bị buôn bán cũng có khả năng đã trải qua bạo lực thể xác và tình dục trước khi bị buôn bán và có thể vẫn dễ trở thành nạn nhân sau khi đã thoát khỏi sự bóc lột. Những phát hiện tương tự cũng đã được tìm thấy ở những người dân tị nạn là phụ nữ.</p>
+
+
+
+<p class="wp-block-paragraph">Mặc dù các gia đình thực hiện FGM &#8211; <em>“các thủ thuật bao gồm việc cắt bỏ một phần hoặc toàn bộ bộ phận sinh dục ngoài của phụ nữ hoặc các tổn thương khác trên các cơ quan sinh dục của phụ nữ vì lý do không phải y tế”</em> &#8211; không coi đó là bạo lực, FGM vẫn bị quốc tế coi như là một hình thức bạo lực đối với phụ nữ. Khác với hầu hết các hình thức bạo lực khác, nó được thúc đẩy như một chuẩn mực xã hội và văn hóa có giá trị và được thực hiện thường xuyên đối với hầu hết các bé gái trong các cộng đồng thực hành các tục lệ này.</p>
+
+
+
+<p class="wp-block-paragraph">Ước tính có ít nhất 200 triệu phụ nữ và trẻ em gái ở 30 quốc gia đã phải trải qua FGM và hơn 3 triệu trẻ em gái được ước tính là có nguy cơ bị FGM hàng năm. Tục lệ này phổ biến nhất ở các khu vực phía Tây, phía Đông và Đông Bắc của Châu Phi, và ở các khu vực Trung Đông (bao gồm Iraq và Yemen) và Châu Á (bao gồm Indonesia), nhưng cũng xuất hiện ở Châu Âu, Úc và Bắc Mỹ.</p>
+
+
+
+<h2 class="wp-block-heading" id="h-bạo-lực-phụ-nữ-va-sức-khoẻ-tam-thần"><strong>Bạo lực phụ nữ và sức khoẻ tâm thần</strong></h2>
+
+
+
+<h3 class="wp-block-heading" id="h-bạo-lực-lạm-dụng-trong-gia-dinh-va-sức-khỏe-tinh-thần"><strong>Bạo lực &#8211; Lạm dụng trong gia đình và sức khỏe tinh thần</strong></h3>
+
+
+
+<p class="wp-block-paragraph">Bằng chứng cho thấy có mối liên hệ nhân quả hai chiều giữa các rối loạn tâm lý và bạo lực gia đình và lạm dụng. Ví dụ, các nghiên cứu theo chiều dọc đã chứng minh mối liên hệ giữa trầm cảm và bạo lực &#8211; lạm dụng gia đình xảy ra sau đó. Bạo lực &#8211; lạm dụng gia đình cũng làm tăng khả năng mắc bệnh trầm cảm ở những phụ nữ không có tiền sử triệu chứng. Ví dụ, hơn 10% ca trầm cảm sau sinh có khả năng là do bạo lực gia đình và lạm dụng.</p>
+
+
+
+<p class="wp-block-paragraph">Tuy nhiên, nghiên cứu theo chiều dọc về mối liên hệ giữa bạo lực &#8211; lạm dụng gia đình và các rối loạn tâm lý khác còn rất ít và cần nhiều công trình hơn nữa để làm sáng tỏ vai trò của tình trạng bị lạm dụng thời thơ ấu, vốn có liên quan đến cả rối loạn tâm lý lẫn bạo lực &#8211; lạm dụng gia đình.</p>
+
+
+
+<p class="wp-block-paragraph">Các bài tổng quan hệ thống về các nghiên cứu chủ yếu theo chiều ngang đã báo cáo mối quan hệ nhất quán giữa việc là nạn nhân của bạo lực &#8211; lạm dụng gia đình và việc mắc các rối loạn trên toàn bộ phổ chẩn đoán cho nam và nữ. Vì phụ nữ có nhiều khả năng trở thành nạn nhân hơn, nên<strong> các tỉ lệ quy thuộc quần thể (the population attributable fractions)</strong> cao hơn ở phụ nữ so với ở nam giới.</p>
+
+
+
+<p class="wp-block-paragraph">Những phát hiện tương tự đã được báo cáo ở những tài liệu khác về các triệu chứng của trầm cảm, <strong>căng thẳng sau sang chấn (PTSD)</strong> và <strong>đau khổ tâm lý (psychological distress)</strong>. Điều này cho thấy rằng bạo lực và lạm dụng trong gia đình có thể gây hại cho sức khỏe tâm lý như bạo lực và lạm dụng về mặt thể chất.</p>
+
+
+
+<p class="wp-block-paragraph">Mối liên hệ có ý nghĩa về mặt số liệu giữa bạo lực gây ra bởi bạn tình và các triệu chứng loạn thần, lạm dụng chất gây nghiện và rối loạn ăn uống cũng đã được phát hiện. Do thiếu dữ liệu ban đầu, các bài tổng quan hệ thống không thể đánh giá mối liên hệ giữa các rối loạn được chẩn đoán và các kiểu bạo lực, lạm dụng gia đình cụ thể (ví dụ: lạm dụng thể xác, tình dục, tâm lý và tình cảm, và hành vi kiểm soát và cưỡng bức).</p>
+
+
+
+<p class="wp-block-paragraph">Tuy nhiên, nghiên cứu của Pico-Alfonso và các đồng nghiệp đã đưa ra sự so sánh giữa ba nhóm phụ nữ: không bị lạm dụng, bị lạm dụng về thể chất hoặc tâm lý và bị lạm dụng về mặt tâm lý. Kết quả cho thấy mặc hai nhóm bị lạm dụng có tỷ lệ mắc các triệu chứng trầm trọng hơn của trầm cảm, lo âu, PTSD và ý định tự tử cao hơn so với những phụ nữ không bị lạm dụng. Tuy nhiên, không có sự khác biệt nào giữa hai nhóm bị lạm dụng này.</p>
+
+
+
+<p class="wp-block-paragraph">Những phát hiện tương tự đã được báo cáo ở các tài liệu khác về các triệu chứng của bệnh trầm cảm, PTSD và đau khổ tâm lý. Điều này cho thấy rằng bạo lực và lạm dụng gia đình về mặt tâm lý có thể gây hại cho sức khỏe tâm thần như bạo lực và lạm dụng gia đình về mặt thể chất.</p>
+
+
+
+<p class="wp-block-paragraph">Nghiên cứu xem xét tác động cụ thể của hành vi cưỡng bức và kiểm soát đối với sức khỏe tâm thần còn rất hạn chế. Nhưng, trong một nghiên cứu trên những phụ nữ bị tòa án ngược đãi, Dutton và các đồng nghiệp đã chỉ ra rằng các hậu quả bất lợi về sức khỏe tinh thần có mối tương quan độc lập với cả sự kiểm soát cưỡng bức lẫn lạm dụng tình cảm.</p>
+
+
+
+<p class="wp-block-paragraph">Pico-Alfonso và các đồng nghiệp cũng báo cáo mức độ chồng chéo cao giữa các loại lạm dụng mà nạn nhân đã phải trải qua. Nhóm nhận thấy tất cả những phụ nữ phải chịu bạo lực thể xác cũng đã chịu đựng một số hình thức bạo lực tâm lý, nhiều người còn bị bạn tình lạm dụng tình dục. Nghiên cứu cho thấy rằng những phụ nữ trải qua nhiều hơn một hình thức lạm dụng có nguy cơ mắc chứng rối loạn và bệnh lý đồng diễn cao hơn.</p>
+
+
+
+<p class="wp-block-paragraph">Tỷ lệ trở thành nạn nhân của bạo lực gia đình và lạm dụng trong gia đình đặc biệt cao ở những người tiếp xúc với các dịch vụ sức khỏe tinh thần thứ cấp. Một cuộc khảo sát trên những người sử dụng dịch vụ chăm sóc sức khỏe tâm thần ở London cho biết rằng 70% phụ nữ (và 50% nam giới) đã từng là nạn nhân của bạo lực gia đình và bị lạm dụng khi trưởng thành. Trong đó, nhiều người (27% phụ nữ, 10% nam giới) đã và đang phải chịu đựng bạo lực và lạm dụng trong gia đình.</p>
+
+
+
+<p class="wp-block-paragraph">Tỷ lệ bạo lực và lạm dụng gia đình trong các dịch vụ chăm sóc sức khỏe tinh thần cơ bản, chẳng hạn như các dịch vụ trị liệu tâm lý chăm sóc ban đầu ở Vương quốc Anh (còn được gọi là các dịch vụ<strong> IAPT [Improving Access to Psychological Therapy</strong> &#8211; các dịch vụ <strong>Cải thiện khả năng tiếp cận liệu pháp tâm lý</strong>]), chưa được điều tra. Nhưng trong số những người đến khám tại các phòng khám đa khoa, tỷ lệ bạo lực thể xác từ bạn tình hiện tại hoặc trước đây trong năm qua được phát hiện ở phụ nữ là 17%.</p>
+
+
+
+<p class="wp-block-paragraph">Một số nhà nghiên cứu đã nhấn mạnh rằng các triệu chứng tâm thần, mặc dù đáp ứng các tiêu chí cho một rối loạn tâm thần bằng cách sử dụng các bảng phân loại được cập nhật, có thể được giải thích một cách dễ hiểu hơn là sự lo lắng mãn tính về việc bị lạm dụng thêm trong tương lai.</p>
+
+
+
+<p class="wp-block-paragraph">Một bài tổng hợp dữ liệu của 14 nghiên cứu báo cáo về trải nghiệm của người sử dụng dịch vụ sức khỏe tinh thần về việc tiết lộ trải nghiệm bị bạo lực và phản ứng với bạo lực gia đình đã nêu bật những hạn chế của mô hình y sinh học như một chủ đề chính: người sử dụng dịch vụ giải thích rằng việc tập trung vào chẩn đoán và điều trị các triệu chứng tinh thần thường ngăn cản các chuyên gia chăm sóc sức khỏe nhận ra tình trạng bị lạm dụng, trong khi các nhãn tên được gắn cho các bệnh tâm lý làm giảm cảm nhận chủ quan của người sử dụng dịch vụ về tình trạng bị lạm dụng của mình.</p>
+
+
+
+<p class="wp-block-paragraph">Các nhà nghiên cứu và những nhà vận động xã hội trong lĩnh vực bạo lực gia đình cũng lập luận tương tự rằng việc bệnh lý hóa và y khoa hóa các triệu chứng như vậy sẽ làm lu mờ ý nghĩa của chúng. Điều này có thể không hữu ích trong việc hỗ trợ nạn nhân vượt qua các triệu chứng và phát triển các chiến lược để ngăn ngừa việc tiếp tục bị lạm dụng.</p>
+
+
+
+<p class="wp-block-paragraph">Những trải nghiệm bị lạm dụng mãn tính, đặc biệt là nếu việc lạm dụng cũng đã xảy ra khi còn nhỏ và không thể trốn thoát vì các yếu tố về thể chất, tâm lý, gia đình hoặc xã hội, có thể dẫn đến tình trạng <strong>Căng thẳng sau sang chấn phức tạp (C-PTSD)</strong>, một rối loạn được đề xuất lần đầu tiên bởi Herman. Mặc dù không phải là một mục trong DSM-5 (nhưng có thể được đưa vào ICD-11), C-PTSD được nhiều người làm việc với các nạn nhân bị sang chấn mãn tính nhìn nhận là một khái niệm hữu ích cho công việc của họ.</p>
+
+
+
+<p class="wp-block-paragraph">Một số bằng chứng cho thấy tỷ lệ bị bạo lực thể xác và tình dục bởi bạn tình thấp hơn ở phụ nữ lớn tuổi so với phụ nữ trẻ tuổi, nhưng tỷ lệ bị lạm dụng về mặt tình cảm và kinh tế và chịu hành vi kiểm soát ở phụ nữ lớn tuổi tương đương với những gì phụ nữ trẻ tuổi (ở mọi lứa tuổi trưởng thành) phải trải qua, với tỷ lệ mắc các vấn đề về sức khỏe tinh thần tương tự. Ngoài ra, có bằng chứng sơ bộ về nguy cơ bị bạo lực &#8211; lạm dụng trong gia đình tăng lên ở phụ nữ mắc chứng mất trí nhớ. Lượng tài liệu rộng lớn về chủ đề lạm dụng người chăm sóc có thể đã bỏ qua khả năng phụ nữ bị lạm dụng trong quá khứ bắt đầu từ nhiều năm trước khi khởi phát các hiện tượng suy nhược hoặc mất trí nhớ.</p>
+
+
+
+<h3 class="wp-block-heading" id="h-bạo-lực-tinh-dục-va-sức-khỏe-tinh-thần"><strong>Bạo lực tình dục và Sức khỏe tinh thần</strong></h3>
+
+
+
+<p class="wp-block-paragraph">Nghiên cứu cũng chỉ ra mối liên hệ giữa bạo lực tình dục và các rối nhiễu tâm lý, nhưng nhìn chung không phân biệt được giữa bạo lực do bạn tình và không phải do bạn tình gây ra. Ví dụ, phân tích dữ liệu từ nghiên cứu cắt ngang <strong>Cuộc khảo sát bệnh lý tâm thần ở người lớn (Adult Psychiatric Morbidity Survey) </strong>cho thấy mối liên hệ giữa bạo lực tình dục với tình trạng nghiện ma túy và rượu.</p>
+
+
+
+<p class="wp-block-paragraph">Nghiên cứu ước tính tỷ lệ quy thuộc quần thể cho phụ nữ là từ 6% đến 16% đối với quan hệ tình dục không có đồng thuận và từ 13% đến 24% đối với lạm dụng tiếp xúc đối với các rối nhiễu tâm lý đã được đánh giá, giả định có mối quan hệ nhân quả (điều này có vấn đề trong dữ liệu cắt ngang như vậy). Đánh giá của chúng tôi về tình trạng bạo lực tình dục gần đây đối với phụ nữ mắc bệnh tâm lý nghiêm trọng đã xác định được 8 nghiên cứu, với tỷ lệ mắc bệnh trung bình là 10% (IQR 6-18%).</p>
+
+
+
+<p class="wp-block-paragraph">Một lần nữa, những người tiếp xúc với dịch vụ chăm sóc thứ cấp có tỷ lệ tiền sử bị bạo lực tình dục đặc biệt cao &#8211; cuộc khảo sát của Khalifeh và các đồng nghiệp đã báo cáo tỷ lệ bị bạo lực tình dục ở tuổi trưởng thành là 61% (40% đối với hiếp dâm hoặc cố gắng hiếp dâm) đối với 129 bệnh nhân nữ và tỷ lệ bạo lực tình dục trong năm qua là 10%. Hơn một nửa số người đã từng bị cưỡng hiếp hoặc bị cố gắng cưỡng hiếp cho biết đã cố gắng tự tử do những trải nghiệm của họ. Thủ phạm gây ra bạo lực tình dục thường là người quen hoặc người lạ (đối với 77% nạn nhân), trong đó các trường hợp do thủ phạm là bạn tình hiện tại hoặc bạn tình trước đây được báo cáo là chiếm 47%.</p>
+
+
+
+<p class="wp-block-paragraph">Sau khi điều chỉnh theo sự khác biệt về nhân khẩu học, khả năng xảy ra bạo lực tình dục đối với phụ nữ mắc bệnh tâm lý nghiêm trọng cao gấp sáu lần đối với bạo lực tình dục suốt đời (tỷ lệ chênh lệch [OR] 6, 95% CI 4-9) và cao gấp ba lần so với bạo lực tình dục trong năm vừa rồi (OR 3, 1-6) so với phụ nữ trong dân số nói chung. Những phát hiện tương tự đã được báo cáo trong một cuộc khảo sát đối với bệnh nhân tâm thần nữ ở Hà Lan (quấy rối tình dục trong năm qua (OR 3,6, 2,7-4,8), so với phụ nữ trong dân số nói chung).</p>
+
+
+
+<h3 class="wp-block-heading" id="h-cac-hinh-thức-bạo-lực-phụ-nữ-khac-va-sức-khỏe-tinh-thần">Các hình thức bạo lực phụ nữ khác và Sức khỏe tinh thần</h3>
+
+
+
+<p class="wp-block-paragraph">Chúng ta được biết ít hơn về mối liên hệ giữa các hình thức bạo lực phụ nữ khác và sức khỏe tinh thần. Một số ít nghiên cứu cho thấy mức độ cao của các triệu chứng, bao gồm các triệu chứng trầm cảm, lo âu và PTSD, được phát hiện ở những phụ nữ đã trốn thoát khỏi những kẻ buôn người và hiện đang tiếp xúc với các dịch vụ trú ẩn. Các rối loạn tâm lý và rối loạn sử dụng chất gây nghiện cũng được phát hiện ở những người đã từng là nạn nhân của nạn buôn người và đang tiếp xúc với các dịch vụ sức khỏe tinh thần thứ cấp. Các vấn đề về sức khỏe tinh thần dường như kéo dài từ trung hạn đến dài hạn: một cuộc khảo sát đối với những phụ nữ Moldova bị buôn bán cho thấy 55% trong số những phụ nữ này đáp ứng các tiêu chí DSM-IV về rối loạn tâm lý trong trung bình là 6 tháng sau khi trở về Moldova; trong khi đó, một cuộc khảo sát đối với những người từng bị buôn bán hiện đang tiếp xúc với các dịch vụ trú ẩn ở Anh cho thấy 78% phụ nữ có kết quả cho thấy xuất hiện trầm cảm, lo âu hoặc PTSD trong trung bình là 16 tháng sau khi trốn thoát.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Một số nghiên cứu đã báo cáo rằng nguy cơ mắc các vấn đề về sức khỏe tinh thần tăng lên do bạo lực thể xác hoặc tình dục trước và trong quá trình buôn bán; do thời gian và mức độ nghiêm trọng của hoạt động buôn bán; và do sau khi trốn thoát, các nhu cầu xã hội của họ chưa được đáp ứng, và do mức độ hỗ trợ xã hội kém. Nam giới bị buôn bán cũng trải qua bạo lực trước và trong quá trình buôn bán, và&nbsp; các nghiên cứu cho thấy tỷ lệ này thấp hơn so với những phụ nữ đã bị buôn bán (42% so với 77% đối với bạo lực thể xác trong khi bị buôn bán và 4% so với 66% đối với bạo lực tình dục trong khi bị buôn bán) và nam giới bị buôn bán ít có xu hướng báo cáo rằng mình đã bị thương trong khi bị buôn bán hơn (33% so với 67%).&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Mặc dù các vấn đề sức khỏe thể chất do FGM gây ra (bao gồm xuất huyết, nhiễm trùng đường tiết niệu, đau đớn khi giao hợp và các biến chứng sản khoa) đã được ghi chép lại trong các tài liệu một cách rộng rãi, nhưng người ta vẫn chưa biết nhiều về hậu quả mà nó gây ra đối với sức khỏe tâm lý. Tuy nhiên, các nghiên cứu cho thấy phụ nữ bị FGM có thể có nhiều khả năng bị chẩn đoán về mặt tâm thần và gặp phải các triệu chứng lo lắng, trầm cảm, rối loạn cơ thể, PTSD và lòng tự trọng thấp, và rằng bệnh lý tâm thần có thể có mối liên hệ với kiểu FGM cụ thể (có nguy cơ bị cắt bỏ âm vật cao hơn), hồi tưởng sự kiện, cơ chế ứng phó né tránh, di cư và tình trạng việc làm.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Các yếu tố nguy cơ trở thành nạn nhân của bạo lực đối với phụ nữ</strong></p>
+
+
+
+<p class="wp-block-paragraph">WHO sử dụng mô hình sinh thái khi xem xét các yếu tố nguy cơ dẫn đến bạo lực và lạm dụng trong gia đình. Các yếu tố nguy cơ diễn ra ở cấp độ cá nhân bao gồm độ tuổi còn trẻ, khuyết tật, nghèo đói (sự gia tăng bạo lực và lạm dụng trong gia đình kể từ năm 2008 ở Anh và xứ Wales đã làm nổi bật mối quan hệ giữa kinh tế và tình trạng bạo lực-lạm dụng trong gia đình), việc chứng kiến ​​bạo lực và lạm dụng trong gia đình khi còn nhỏ, bị lạm dụng thời thơ ấu, và lạm dụng chất gây nghiện.</p>
+
+
+
+<p class="wp-block-paragraph">Mặc dù các yếu tố nguy cơ ở cấp độ cá nhân đối với bạo lực tình dục có thể thay đổi tùy theo bối cảnh của hành vi lạm dụng, bạo lực tình dục có nhiều khả năng xảy ra hơn ở những người trẻ tuổi, phụ nữ, người khuyết tật, và những người đang hoặc đã từng trải qua nghèo đói, lạm dụng tình dục khi còn nhỏ và lạm dụng chất gây nghiện. Nhiều yếu tố nguy cơ ở đây cũng là các yếu tố nguy cơ đối với các rối loạn tâm lý. Chúng nhấn mạnh vào các yếu tố xã hội quyết định cả rối loạn tâm lý và bạo lực đối với phụ nữ, và những con đường phức tạp liên quan đến việc trở thành nạn nhân của bạo lực trong suốt cuộc đời. Điều này cũng làm nổi bật các chiến lược phòng ngừa tiềm năng (như chúng tôi thảo luận trong bài báo này).</p>
+
+
+
+<p class="wp-block-paragraph">Tuy nhiên, các yếu tố nhân quả cũng xảy ra ở cấp độ mối quan hệ (ví dụ, đối tác bị trầm cảm, lạm dụng chất gây nghiện, có thái độ gia trưởng hoặc có tiền sử là nạn nhân của lạm dụng trẻ em), đặc điểm cộng đồng (ví dụ, mật độ dân số cao, thất nghiệp và cô lập xã hội) và các yếu tố xã hội lớn hơn (bao gồm sức khỏe; giáo dục, kinh tế và chính sách xã hội; chuẩn mực văn hóa; bất lợi về giới; và bất bình đẳng xã hội).</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Việc thực hiện hành vi bạo lực với phụ nữ bởi những người có rối nhiễu tâm lý</strong></p>
+
+
+
+<p class="wp-block-paragraph">Rối loạn tâm lý có mối liên hệ đến sự gia tăng nguy cơ gây ra bạo lực, và trên thế giới, chính sách sức khỏe tâm lý tập trung vào việc đánh giá nguy cơ thực hiện bạo lực đối với người khác. Tuy nhiên, có rất ít nghiên cứu được thực hiện về mức độ nguy cơ bạo lực &#8211; lạm dụng trong gia đình hoặc bạo lực tình dục thay vì bạo lực nói chung, điều này đã hạn chế kiến ​​thức của chúng ta về mức độ phổ biến và nguy cơ thực hiện các kiểu lạm dụng này. </p>
+
+
+
+<p class="wp-block-paragraph">Theo một bài tổng quan tài liệu về các cuộc khảo sát dân số và bệnh lý tâm thần chủ yếu theo chiều ngang đã phát hiện ra mối liên hệ giữa tất cả các rối loạn tâm lý và bạo lực &#8211; lạm dụng gia đình ở cả nam và nữ. Nhưng việc đưa ra kết luận này bị hạn chế, vì hầu hết các nghiên cứu đều đo lường các trường bạo lực thể xác riêng lẻ thay vì các trường hợp bạo lực nghiêm trọng lặp đi lặp lại.</p>
+
+
+
+<p class="wp-block-paragraph">Ngoài ra, các <strong>yếu tố gây nhiễu (confounding)</strong> và <strong>trung gian (mediating)</strong> tiềm ẩn không được kiểm tra trong các nghiên cứu được nhắc đến. Tuy nhiên, kết quả từ <strong>Nghiên cứu cắt ngang đa quốc gia của Liên hợp quốc về Nam giới và Bạo lực ở Châu Á và Thái Bình Dương (UN Multi-Country Cross-Sectional Study on Men and Violence in Asia and the Pacific)</strong> cho thấy các triệu chứng trầm cảm ở cường độ cao có thể làm tăng nguy cơ thực hiện hành vi bạo lực gia đình về thể chất, tình dục và cảm xúc ngay cả sau khi đã có sự điều chỉnh hành vi lạm dụng chất, chứng kiến ​​và trải qua bạo lực khi còn nhỏ và tham gia vào các hành vi bạo lực bên ngoài gia đình. </p>
+
+
+
+<p class="wp-block-paragraph">Việc đưa ra các đánh giá theo luật định về những vụ giết người trong gia đình ở Anh và các cuộc điều tra bí mật về những vụ giết người do những người mắc bệnh tâm lý gây ra đã nhấn mạnh rằng các vụ giết người trong gia đình do những người đàn ông đã từng sử dụng dịch vụ sức khỏe tinh thần gây ra không phải là hiếm. Trong một nghiên cứu, 14% thủ phạm ra tay giết người bạn tình và 23% thủ phạm ra tay giết người là người lớn trong gia đình ở Anh và xứ Wales đã liên hệ với các dịch vụ sức khỏe tâm lý trong năm trước khi hành vi phạm tội xảy ra. Đối với cả hai loại giết người, nam giới chiếm hơn bốn phần năm (⅘) số thủ phạm. Cũng tại Anh và xứ Wales, một nghiên cứu về hành vi giết người-tự tử cũng phát hiện ra rằng những bạn tình hiện tại hoặc trước đây là nạn nhân trong hai phần ba các trường hợp (mặc dù giết người-tự tử chỉ chiếm một tỷ lệ tương đối nhỏ trong số các vụ giết người do bạn đời gây ra) và 12% số các thủ phạm đã tiếp xúc với các dịch vụ sức khỏe tinh thần trong năm trước khi phạm tội. </p>
+
+
+
+<p class="wp-block-paragraph">Các nạn nhân của tội giết người trong gia đình thường có tiền sử tiếp xúc với các dịch vụ sức khỏe tinh thần khi còn là trẻ em hoặc khi đã trưởng thành. Lạm dụng rượu và chất gây nghiện cũng như ảo tưởng bị ngược đãi thường được báo cáo là các tác nhân gây ra bạo lực ở những người mắc rối nhiễu tâm lý nghiêm trọng: những tác nhân gây ra bạo lực này chưa được nghiên cứu trong mối liên hệ&nbsp; với bạo lực và lạm dụng trong gia đình do những người mắc rối nhiễu tâm lý thực hiện và nên được xem xét nghiên cứu trong tương lai. Tương tự như vậy, mặc dù việc điều trị bằng thuốc chống loạn thần và thuốc ổn định tâm trạng có liên quan đến việc giảm các tội phạm bạo lực, nhưng mối liên hệ về việc điều trị này chưa được nghiên cứu trong sự liên quan đến bạo lực và lạm dụng trong gia đình. Các cơ chế tương tự có thể đóng vai trò quan trọng trong mối liên hệ giữa bạo lực &#8211; lạm dụng trong gia đình và các rối nhiễu tâm lý; các nghiên cứu trong tương lai nên tìm cách điều tra việc này.</p>
+
+
+
+<p class="wp-block-paragraph">Bằng chứng về hành vi thực hiện bạo lực tình dục của những người có rối loạn tâm lý cũng còn đang bị bỏ ngỏ, mặc dù một bài tổng quan về các yếu tố nguy cơ đối với việc thực hiện bạo lực tình dục đã không tìm thấy bằng chứng về mối liên hệ giữa việc thực hiện bạo lực và các triệu chứng tâm lý được đo bằng các công cụ sàng lọc. Långström và Grann đã báo cáo về sự gia tăng các nguy cơ có liên quan khi nhập viện tâm thần và khi mắc bệnh tâm lý nghiêm trọng ở những tội phạm tình dục, và đã đưa ra giả định rằng các triệu chứng tâm thần có thể kích hoạt hành vi phạm tội tình dục. Các rối nhiễu tâm lý nghiêm trọng cũng có thể liên quan đến các nguy cơ tiềm ẩn đối với việc thực hiện bạo lực tình dục (bao gồm tính hung hăng, kỹ năng xã hội kém, sự biến dạng nhận thức, lạm dụng ma túy và rượu, và việc trở thành nạn nhân của bạo lực tình dục.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Chuyên gia sức khỏe tinh thần có thể làm gì?</strong></p>
+
+
+
+<p class="wp-block-paragraph">Các hướng dẫn quốc tế, bao gồm hướng dẫn từ WHO và Viện Quốc gia về Sức khỏe và Chăm sóc Xuất sắc của Vương quốc Anh (NICE), khuyến cáo rằng các chuyên gia sức khỏe tinh thần nên tạo điều kiện thuận lợi cho việc tiết lộ về trải nghiệm bị bạo lực và lạm dụng trong gia đình như một phần của các đánh giá lâm sàng toàn diện, cung cấp sự hỗ trợ và đảm bảo an toàn, và điều trị các rối loạn về thể chất và tinh thần trong bối cảnh của bất kỳ trường hợp bạo lực hay lạm dụng trong gia đình nào (minh họa Hình 1.)</p>
+
+
+
+<p class="wp-block-paragraph">Mặc dù có những tranh luận về vai trò của việc phổ cập sàng lọc bạo lực &#8211; lạm dụng gia đình trong hệ thống chăm sóc sức khỏe ở các dịch vụ chung như là <strong>chăm sóc ban đầu (primary care)</strong> hoặc ở khoa cấp cứu, tỷ lệ trở thành nạn nhân của bạo lực rất cao ở những người sử dụng dịch vụ sức khỏe tinh thần đến mức các hướng dẫn lâm sàng khuyến nghị nên thực hiện<strong> hỏi chuyện định kì (routine inquiry)</strong> trong các dịch vụ sức khỏe tinh thần. Hiện đang tồn tại sự thiếu hụt các bằng chứng về việc liệu sử dụng hỏi chuyện định kỳ có cải thiện kết quả hay không. Kết quả sẽ phụ thuộc vào tính chất của phản ứng được thể hiện khi được tiết lộ; do đó, các hướng dẫn nhấn mạnh rằng hỏi chuyện định kỳ chỉ nên được đưa vào quy trình khi các chuyên gia đã được đào tạo một cách hợp lý và có các phác đồ về các biện pháp can thiệp, cụ thể là giới thiệu đến các dịch vụ chuyên khoa về bạo lực và lạm dụng trong gia đình gia đình và tiếp cận các liệu pháp can thiệp dựa trên nhận thức về sang chấn. </p>
+
+
+
+<p class="wp-block-paragraph">Do tỷ lệ bạo lực &#8211; lạm dụng trong gia đình và bạo lực tình dục cao, các nhà cung cấp dịch vụ sức khỏe tinh thần phải bổ sung cả việc hỗ trợ cho các nhân viên đã từng là nạn nhân; nhiều nhân viên sẽ thấy công việc này rất thách thức về mặt cảm xúc nếu nó có sự tương đồng trong trải nghiệm của bệnh nhân với các trải nghiệm của chính họ. </p>
+
+
+
+<p class="wp-block-paragraph">Với những cảnh báo này, các hướng dẫn khuyến nghị rằng các chuyên gia sức khỏe tinh thần cần thăm hỏi định kỳ về vấn đề bạo lực &#8211; lạm dụng trong gia đình và bạo lực tình dục đã trải qua trong thời thơ ấu và tuổi trưởng thành như một phần của quy trình đánh giá lâm sàng và chăm sóc liên tục. Cần tiến hành hỏi chuyện định kì một cách an toàn (tức là, phải riêng tư, nếu cần, phải có phiên dịch viên chuyên nghiệp thay vì thành viên gia đình) và các chuyên gia sức khỏe tinh thần cần biết cách phản hồi trước khi thực hiện hỏi chuyện định kỳ. </p>
+
+
+
+<p class="wp-block-paragraph">Khi làm việc với những nạn nhân sống sót sau bạo lực tình dục, nạn buôn người và tục lệ cắt bộ phận sinh dục nữ, các chuyên gia sức khỏe tinh thần cũng nên đảm bảo rằng phụ nữ có cơ hội được hiện diện trong quá trình khám và điều trị mà không có sự xuất hiện bạn tình, thành viên gia đình hoặc người quen; cung cấp quyền tiếp cận với phiên dịch viên độc lập; phản hồi một cách nhạy cảm, thấu cảm và không đưa ra phán xét khi sự việc được tiết lộ; trấn an phụ nữ rằng họ được tin tưởng và không phải chịu trách nhiệm về những trải nghiệm của họ; và cung cấp thông tin và hỗ trợ thiết thực để giải quyết những lo lắng của phụ nữ và tôn trọng quyền tự chủ của họ. </p>
+
+
+
+<p class="wp-block-paragraph">Loạt bài của The Lancet năm 2015 nhấn mạnh rằng cơ sở hạ tầng của hệ thống y tế và dịch vụ cộng đồng cần phải thay đổi để giải quyết tình trạng bạo lực với phụ nữ (hình). Tuy nhiên, một bài xã luận trên Tạp chí Tâm thần học Hoa Kỳ cho rằng chính bản thân các chuyên gia sức khỏe tinh thần phải chú tâm đến những rào cản tâm lý mạnh mẽ của họ để giải quyết bạo lực &#8211; lạm dụng trong gia đình và bạo lực tình dục, điều này có thể dẫn đến sự thương hại và khinh thường nạn nhân, sự phỉ báng kẻ lạm dụng và sự thoái thác vai trò của các bác sĩ lâm sàng và nhà nghiên cứu.</p>
+
+
+
+<figure class="wp-block-image aligncenter is-resized"><img decoding="async" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeOmv2RNFT9qsLfz8cLgF4du0A9MbA7fsl6I-3EZn8gQhU8gEG2RaMk8-NrXWPEby4LovcEAhSeryjPOETbP9Np4mR9wte_zHc6T2tjMtCxjrQZYw9x7f3TJEbruGi0AD4Tz11v9Q?key=DoDIDSBXu1fVRgQgFi6wucR_" alt="Các yếu tố cần thiết để giải quyết vấn đề bạo lực với phụ nữ ở cấp độ của người cung cấp dịch vụ y tế, dịch vụ và hệ thống" style="width:650px"/></figure>
+
+
+
+<p class="has-small-font-size wp-block-paragraph">                    <em>Hình 1: Các yếu tố cần thiết để giải quyết vấn đề bạo lực với phụ nữ ở cấp độ của người cung cấp dịch vụ y tế, dịch vụ và hệ thống</em></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Việc phát hiện nạn nhân của bạo hành phụ nữ trong dịch vụ sức khỏe tinh thần</strong></p>
+
+
+
+<p class="wp-block-paragraph">Mặc dù tình trạng bạo lực và lạm dụng trong gia đình phổ biến ở những người sử dụng dịch vụ sức khỏe tinh thần, một bài tổng quan năm 2010 phát hiện được rằng chỉ từ 10 đến 30% số nạn nhân của bạo lực và lạm dụng trong gia đình được phát hiện bởi các nhà chuyên môn về sức khỏe tinh thần trên toàn thế giới. </p>
+
+
+
+<p class="wp-block-paragraph">Các nghiên cứu định tính đã báo cáo về một số rào cản đối với việc hỏi chuyện định kỳ của các chuyên gia, bao gồm sự thiếu tự tin và thiếu năng lực trong việc tạo điều kiện và quản lý quá trình tiết lộ trải nghiệm bị bạo lực, thiếu kiến ​​thức và hiểu biết về bạo lực và lạm dụng gia đình (ví dụ, về tương quan sức mạnh của bạo lực gia đình và các mối quan hệ lạm dụng liên quan đến kiểm soát cưỡng bức), và sự thiếu rõ ràng về vai trò của các chuyên gia sức khỏe tinh thần trong việc giải quyết bạo lực và lạm dụng gia đình. </p>
+
+
+
+<p class="wp-block-paragraph">Một bài tổng quan dữ liệu từ các nghiên cứu định tính liên quan đến người sử dụng dịch vụ sức khỏe tâm thần phát hiện ra rằng các nạn nhân của bạo lực và lạm dụng gia đình muốn các chuyên gia sức khỏe tinh thần công nhận hoặc xác nhận những gì họ đã tiết lộ về trường hợp bị bạo lực gia đình của họ theo một cách không phán xét và thương cảm. Một số người sử dụng dịch vụ báo cáo rằng việc tiết lộ thông tin của họ không được tôn trọng và họ cảm thấy bị các chuyên gia đổ lỗi, điều này vừa không giúp ích được gì và vừa liên quan đến các triệu chứng dai dẳng (như chúng tôi đã thảo luận). </p>
+
+
+
+<p class="wp-block-paragraph">Cảm giác thiếu sự công nhận được cho là sẽ trở nên trầm trọng hơn nếu ít cơ hội cho người sử dụng dịch vụ thảo luận về bạo lực và lạm dụng gia đình trong quá trình tham vấn, quá trình mà họ cảm thấy là chỉ tập trung vào việc chẩn đoán và điều trị các triệu chứng tâm thần, khiến họ không thể nhận ra mức độ của sự lạm dụng, không được nhận sự chăm sóc phù hợp và hạ thấp mức độcác trải nghiệm của họ. </p>
+
+
+
+<p class="wp-block-paragraph">Các phản hồi đề cập đến mối quan tâm về an toàn của họ được đánh giá cao nhưng người sử dụng dịch vụ lo sợ rằng phản ứng của các chuyên gia sức khỏe tinh thần đối với bạo lực đôi khi có thể khiến họ có nguy cơ bị tổn hại thêm (ví dụ, nếu thủ phạm nghe về việc việc họ đã tiết lộ thông tin về tình trạng bạo lực &#8211; lạm dụng gia đình của mình), hoặc bị các dịch vụ từ chối tiếp nhận nếu họ không rời bỏ đối tác. </p>
+
+
+
+<p class="wp-block-paragraph">Các chuyên gia sức khỏe tinh thần có thể không hiểu rằng việc lựa chọn tiếp tục một mối quan hệ bạo lực có thể dựa trên một phân tích chiến lược về rủi ro &#8211; lợi ích bao gồm các mối quan tâm về tài chính, lo ngại rằng họ sẽ bị coi là quá ốm yếu để chăm sóc con cái, mất mát ngắn hạn như mất ngôi nhà mà mình đang chung sống với gia đình và một người cha và mạng lưới các mối quan hệ cho con cái của nạn nhân, sự kỳ thị, niềm hy vọng (không phải lúc nào cũng vô căn cứ) rằng thủ phạm sẽ thay đổi, và sự nhận thức rằng thủ phạm có thể theo dõi nạn nhân và gây ra bạo lực nghiêm trọng hơn. Thật vậy, người phụ nữ có nguy cơ bị giết hại cao nhất trong những tháng sau khi ly thân.</p>
+
+
+
+<p class="wp-block-paragraph">Bạo lực tình dục ở tuổi trưởng thành cũng khó được phát hiện trong các dịch vụ sức khỏe tinh thần. Các nghiên cứu về những người phụ nữ sử dụng dịch vụ sức khỏe tinh thần ở Brazil, Thụy Điển và Vương quốc Anh báo cáo rằng từ 12% đến 43% những người đã từng chịu bạo lực tình dục đã kể với một chuyên gia y tế về những trải nghiệm của họ. </p>
+
+
+
+<p class="wp-block-paragraph">Trong một nghiên cứu của Thụy Điển, bạo lực tình dục ít có khả năng được các dịch vụ sức khỏe tinh thần phát hiện hơn so với bạo hành thể xác hoặc tình cảm. Những người dùng các dịch vụ sức khỏe tinh thần là nữ ở Ấn Độ đã từng trải qua cưỡng ép tình dục &#8211; 60% trong số họ cho biết không kể với ai về những trải nghiệm của mình &#8211; giải thích rằng lý do không tiết lộ của họ bao gồm nỗi sợ bị đổ lỗi và tiếp tục bị bạo hành bởi thủ phạm, việc phải từ chức khỏi công việc hiện tại và niềm tin rằng việc lạm dụng xảy ra với tất cả phụ nữ. </p>
+
+
+
+<p class="wp-block-paragraph">Hầu như không có nghiên cứu nào được thực hiện để khám phá các rào cản trong việc xác định và ứng phó với bạo lực tình dục trong các cơ sở sức khỏe tinh thần, mặc dù một nghiên cứu định tính nhỏ được thực hiện tại Úc cho thấy nhân viên báo cáo rằng họ cảm thấy khó chịu về vấn đề này và cảm thấy không đủ khả năng để ứng phó với việc được tiết lộ thông tin do không được đào tạo và hướng dẫn đầy đủ, bao gồm cả về việc kiềm chế sự đau khổ và việc giới thiệu bệnh nhân đến các dịch vụ dành cho người bị tấn công tình dục.</p>
+
+
+
+<p class="wp-block-paragraph">Có rất ít bằng chứng về mức độ của hành vi buôn người hoặc cắt bộ phận sinh dục nữ được xác định trong bối cảnh các dịch vụ sức khỏe tinh thần, mặc dù một nghiên cứu ở Vương quốc Anh đã chỉ ra rằng những người bị buôn bán đã tiếp xúc với các dịch vụ y tế tâm thần trong thời gian bị bóc lột, cho các chuyên gia tâm lý cơ hội để xác định, chuyển tuyến đến các cơ sở khác một cách an toàn và cung cấp dịch vụ chăm sóc trong khi tạo điều kiện cho họ thoát khỏi tình trạng bị buôn bán. </p>
+
+
+
+<p class="wp-block-paragraph">Một cuộc khảo sát đối với nhân viên của Dịch vụ Y tế Quốc gia làm việc tại các khu vực mà cảnh sát đã xác định được là có từ năm người trở lên bị buôn bán trong năm vừa qua cho thấy một trong tám chuyên gia sức khỏe tinh thần báo cáo rằng họ nghĩ rằng họ có thể đã gặp ít nhất một nạn nhân của nạn buôn người trong quá trình hành nghề lâm sàng của mình, nhưng họ không có đủ kiến ​​thức và sự tự tin để ứng phó phù hợp và an toàn. </p>
+
+
+
+<p class="wp-block-paragraph">Một nghiên cứu đoàn hệ sử dụng tin học lâm sàng đã phát hiện ra rằng trong phân nửa số trường hợp (n = 95), các nhà chuyên môn về sức khỏe tinh thần là những nhân viên chăm sóc sức khỏe đầu tiên nhận thức được rằng bệnh nhân của họ có thể là một nạn nhân của buôn bán người. Những người trưởng thành là nạn nhân bị buôn bán khác trong nghiên cứu được những người khác đã được xác định là nạn nhân của nạn buôn người và thường được các khoa chăm sóc ban đầu và khoa cấp cứu giới thiệu, mặc dù chăm sóc thai sản cũng là một con đường quan trọng để chăm sóc sức khỏe tinh thần cho những phụ nữ bị buôn bán. So với những người trưởng thành khác tiếp xúc với cùng một nhà cung cấp dịch vụ chăm sóc sức khỏe tinh thần, những người trưởng thành bị buôn bán có khả năng đã bị giam giữ trong thời gian dài hơn và phải nhập viện lâu hơn. Những người bị buôn bán có thể thấy khó khăn khi tiết lộ những trải nghiệm của mình vì sự sợ hãi, cảm giác xấu hổ và tội lỗi, và tác động của sang chấn đến trí nhớ của họ về các sự kiện. Ngoài ra, những người bị buôn bán có thể không nhận ra rằng hành vi lạm dụng mà họ đang trải qua là hành vi buôn bán người, và có thể không tin tưởng các chuyên gia chăm sóc sức khỏe vì họ sợ bị những kẻ buôn người trả thù.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Cải thiện phản ứng của các dịch vụ sức khỏe tâm thần trước bạo lực với phụ nữ</strong></p>
+
+
+
+<p class="wp-block-paragraph">Bằng chứng chung từ quốc tế cho thấy việc phổ biến các hướng dẫn và đào tạo riêng lẻ không tạo ra những cải thiện nhất quán, bền vững trong việc nhận dạng và ứng phó với bạo lực đối với phụ nữ, và cần nghiên cứu về các chiến lược để cải thiện việc đưa bạo lực &#8211; lạm dụng gia đình và các hình thức bạo lực khác đối với phụ nữ trở thành một phần của hoạt động kinh doanh cốt lõi của các dịch vụ sức khỏe tâm thần. Các thực nghiệm về các biện pháp can thiệp có hệ thống đã được thực hiện để cải thiện việc nhận dạng và ứng phó với bạo lực và lạm dụng trong gia đình trong chăm sóc ban đầu, nhưng một bài tổng quan hệ thống đã báo cáo rằng không có thực nghiệm nào được thực hiện trong bối cảnh các cơ sở sức khỏe tinh thần và nhấn mạnh rằng cần nhiều hơn là chỉ đào tạo để cải thiện việc nhận diện nạn nhân. Trong các bối cảnh không liên quan đến sức khỏe tinh thần, hoạt động đào tạo, hỗ trợ và tư vấn tích hợp liên tục (ví dụ, từ những nhà vận động về vấn đề bạo lực và lạm dụng gia đình) cho các chuyên gia y tế trong việc giải quyết bạo lực và lạm dụng trong gia đình cải thiện khả năng tạo điều kiện cho các nạn nhân tiết lộ về trải nghiệm bị bạo lực của mình và cải thiện phản ứng tiếp theo của các chuyên gia y tế. Tuy nhiên, một nghiên cứu về các dịch vụ chăm sóc thai sản đã báo cáo về các tác hại tiềm ẩn và thực tế xảy ra sau khi áp dụng việc hỏi chuyện định kỳ, bao gồm cả việc vi phạm tính bảo mật, có thể dẫn đến việc thủ phạm phát hiện ra sự việc đã bị tiết lộ đi kèm với hậu quả là bạo lực, và việc không ghi lại bằng chứng, làm hạn chế khả năng tiếp cận các chế tài dân sự và pháp lý của phụ nữ.</p>
+
+
+
+<p class="wp-block-paragraph">Một nghiên cứu thí điểm nhỏ trong các nhóm chăm sóc sức khỏe tinh thần cộng đồng ở phía nam London, Vương quốc Anh, cho thấy rằng việc đưa những nhà vận động về vấn đề bạo lực và lạm dụng trong gia đình vào trong các nhóm can thiệp, ngoài thời gian dành riêng cho đào tạo, giúp cải thiện việc nhận diện nạn nhân bạo lực và lạm dụng trong gia đình và cải thiện kết quả can thiệp ở nhóm các nạn nhân cá nhân có ít nhu cầu chưa được đáp ứng hơn và mức độ lạm dụng thấp hơn sau 3 tháng theo dõi. Để lặp lại những phát hiện cho thấy việc cải thiện phản ứng của các dịch vụ sức khỏe tinh thần đối với bạo lực và lạm dụng gia đình đòi hỏi nhiều thứ hơn là chỉ đào tạo, một cuộc kiểm toán được tiến hành tại New Zealand đã phát hiện ra rằng mặc dù tỷ lệ bị lạm dụng tình dục và thể chất ở trẻ em và người lớn được đưa vào các hệ thống và kế hoạch điều trị đã tăng lên sau khi áp dụng chính sách về sang chấn và chương trình đào tạo, các biện pháp can thiệp thực tế vẫn ở mức thấp.</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="576" src="/blog/media/2025/07/bao-luc-voi-phu-nu-va-suc-khoe-tam-than-2-1024x576.png" alt="" class="wp-image-757" style="width:700px" srcset="/blog/media/2025/07/bao-luc-voi-phu-nu-va-suc-khoe-tam-than-2-1024x576.png 1024w, /blog/media/2025/07/bao-luc-voi-phu-nu-va-suc-khoe-tam-than-2-300x169.png 300w, /blog/media/2025/07/bao-luc-voi-phu-nu-va-suc-khoe-tam-than-2-768x432.png 768w, /blog/media/2025/07/bao-luc-voi-phu-nu-va-suc-khoe-tam-than-2-1536x864.png 1536w, /blog/media/2025/07/bao-luc-voi-phu-nu-va-suc-khoe-tam-than-2.png 1600w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Phát hiện thủ phạm gây ra bạo lực với phụ nữ trong các dịch vụ sức khỏe tinh thần</strong></p>
+
+
+
+<p class="wp-block-paragraph">Bằng chứng về việc khả năng phát hiện các thủ phạm gây ra bạo lực &#8211; lạm dụng gia đình và bạo lực tình dục xảy ra trong các dịch vụ sức khỏe tinh thần hiện đang kém đến mức độ nào còn hiếm. Tuy nhiên, một nghiên cứu định tính về các chuyên gia sức khỏe tinh thần đã nêu bật tình trạng thiếu sự tìm hiểu cụ thể về bạo lực và lạm dụng trong gia đình (với hầu hết các chuyên gia chỉ hỏi về bạo lực nói chung và không hỏi về những người bạn tình cũ, mặc dù nguy cơ bạo lực gây tử vong tăng lên sau khi ly thân), sự không đầy đủ về các đánh giá rủi ro hiện tại (vì các đánh giá rủi ro chung không đề cập cụ thể đến các loại bạo lực &#8211; lạm dụng gia đình khác nhau), và sự cần làm rõ hơn về việc chia sẻ thông tin. Các vụ giết người-tự tử cũng được báo cáo là thường xảy ra sau các sự kiện đổ vỡ mối quan hệ và ly thân, với hầu hết thủ phạm là nam (88%) và hầu hết nạn nhân là nữ (77%); 62% thủ phạm có vấn đề về sức khỏe tinh thần.</p>
+
+
+
+<p class="wp-block-paragraph">Tại Anh,<strong> Cuộc điều tra bí mật quốc gia về Hành vi giết người (The National Confidential Inquiry into Homicides) </strong>và Bộ Nội vụ<strong> </strong>đã báo cáo rằng các chuyên gia sức khỏe tinh thần đã không đánh giá nguy cơ bạo lực và lạm dụng trong gia đình, mặc dù có trách nhiệm rõ ràng của các dịch vụ sức khỏe tinh thần trong việc xác định những thủ phạm có khả năng gây ra bạo lực với bạn tình trong khuôn khổ đánh giá rủi ro. Mặc dù có ít nghiên cứu được thực hiện về cách ứng phó với những người sử dụng dịch vụ sức khỏe tinh thần thú nhận về hành vi bạo lực và lạm dụng trong gia đình của mình, vẫn có hướng dẫn mở rộng về cách giải quyết các nguy cơ bạo lực, bao gồm cả việc cân nhắc đến sự an toàn của nạn nhân.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Can thiệp cho nạn nhân của bạo lực với phụ nữ</strong></p>
+
+
+
+<p class="wp-block-paragraph">Có một cơ sở bằng chứng lớn về các liệu pháp can thiệp sức khỏe tinh thần cho tất cả các rối nhiễu tinh thần liên quan đến bạo lực đối với phụ nữ, nhưng người ta biết rất ít về mức độ hiệu quả của các liệu pháp can thiệp tâm lý hoặc dược lý đối với nạn nhân của bạo lực khi tình trạng bạo lực chưa được họ tiết lộ hoặc khi bạo lực không phải là trọng tâm của liệu pháp pháp can thiệp. Một bài tổng quan của Cochrane trên 70 thực nghiệm (4761 người tham gia) về các liệu pháp can thiệp tâm lý cho PTSD đã tìm thấy một số bằng chứng (mặc dù từ các thực nghiệm chất lượng thấp nói chung) rằng liệu pháp hành vi nhận thức (CBT) tập trung vào sang chấn và liệu pháp giải mẫn cảm và tái xử lý chuyển động mắt (EMDR) có hiệu quả vượt trội hơn so với CBT không tập trung vào sang chấn trong khoảng từ 1 đến 4 tháng sau khi trị liệu.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Bằng chứng về các liệu pháp can thiệp tâm lý được thiết kế riêng cho những người sống sót sau bạo lực và lạm dụng trong gia đình đang ngày càng tăng, và các bài tổng quan hệ thống đã phát hiện ra rằng các liệu pháp can thiệp dựa trên CBT và quá trình xử lý nhận thức có thể liên quan đến việc cải thiện PTSD và các triệu chứng trầm cảm ở những nạn nhân đã thoát khỏi mối quan hệ lạm dụng. Mặc dù một bài tổng quan hệ thống đã tìm thấy một số chứng cứ ủng hộ cho tính hiệu quả của hoạt động vận động xã hội và các can thiệp CBT trong việc giảm bạo lực và lạm dụng về thể chất và tinh thần trong gia đình (quá ít nghiên cứu được phát hiện để có thể đánh giá hiệu quả trong việc giảm bạo lực và lạm dụng tình dục trong gia đình), một số ít nghiên cứu đã xem xét liệu các can thiệp có hữu ích trong việc giảm các triệu chứng tâm lý ở những phụ nữ vẫn đang phải chịu lạm dụng hay không. Tuy nhiên, một số ít nghiên cứu tích hợp hoạt động vận động chống bạo lực và lạm dụng trong gia đình và các biện pháp can thiệp tâm lý ở những phụ nữ có nguy cơ tiếp tục bị lạm dụng đã báo cáo có sự cải thiện cả về các triệu chứng trầm cảm lẫn việc giảm tình trạng bị lạm dụng, bao gồm sự cải thiện về kết quả sinh nở cho phụ nữ trong thời kỳ chu sinh (giai đoạn mang thai và sau khi sinh con). Các phương pháp sinh nở hiệu quả nhất và việc liệu các liệu pháp can thiệp có thể được thực hiện hiệu quả đối với những phụ nữ có các mức độ nguy cơ bị lạm dụng khác nhau, bao gồm phụ nữ thuộc các nhóm đa dạng và thiểu số, vẫn còn chưa rõ ràng.</p>
+
+
+
+<p class="wp-block-paragraph">Bằng chứng về các liệu pháp can thiệp tâm lý cho những nạn nhân sau bạo lực tình dục cũng không nhất quán. Kết quả của một bài tổng quan hệ thống gồm 20 nghiên cứu đã tìm thấy một số bằng chứng về hiệu quả của EMDR và ​​CBT tập trung vào sang chấn đối với PTSD, trầm cảm và các vấn đề tâm lý khác mà thường phụ nữ bị tấn công tình dục gặp phải, một lần nữa từ các nghiên cứu chất lượng thấp. Tuy nhiên, đánh giá của Cochrane về liệu pháp điều trị PTSD không tìm thấy sự khác biệt giữa CBT tập trung vào sang chấn và các liệu pháp khác không tập trung cụ thể vào sang chấn đối với những phụ nữ đã bị tấn công hoặc lạm dụng tình dục. Kể từ khi công bố các bài tổng quan này, kết quả của một thực nghiệm cụm trên một nhóm can thiệp điều chỉnh bằng liệu pháp xử lý nhận thức so với hỗ trợ tâm lý xã hội cá nhân cho những người Congo sống sót sau bạo lực tình dục đã cho thấy hiệu quả trong việc giảm các triệu chứng của căng thẳng sau sang chấn, trầm cảm và lo lắng trong bối cảnh thu nhập thấp, bị ảnh hưởng bởi xung đột. Tương tự như nghiên cứu về các liệu pháp can thiệp đối với bạo lực và lạm dụng trong gia đình, những người phụ nữ có trải nghiệm đang hoặc đã trải qua bạo lực tình dục trong thời gian gần đây vẫn bị bỏ lại trong hầu hết các thực nghiệm can thiệp.</p>
+
+
+
+<p class="wp-block-paragraph">Không có nghiên cứu nào đánh giá các liệu pháp can thiệp để hỗ trợ phục hồi tâm lý của những phụ nữ đã bị buôn bán hoặc những phụ nữ đã trải qua FGM được xác định trong các bài báo của Loạt bài này hoặc trong các bài đánh giá trước đó; nghiên cứu trong tương lai nên thực nghiệm các liệu pháp can thiệp trên những nhóm nạn nhân sống sót này. Cho đến lúc đó, cần cung cấp dịch vụ chăm sóc theo hướng dẫn làm việc với nạn nhân có sang chấn.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Can thiệp cho thủ phạm gây bạo lực với phụ nữ&nbsp;</strong></p>
+
+
+
+<p class="wp-block-paragraph">Không có bằng chứng về hiệu quả và tính phù hợp của các chương trình dành cho&nbsp; thủ phạm gây ra bạo lực và lạm dụng trong gia đình có rối loạn tâm lý, và các chương trình này ít được giới thiệu từ các dịch vụ sức khỏe tâm lý. Tuy nhiên, các liệu pháp can thiệp đối với các yếu tố nguy cơ có thể điều chỉnh (như thuốc điều trị ảo tưởng bị truy hại, các liệu pháp can thiệp về mặt tâm lý và điều trị tình trạng lạm dụng rượu và chất gây nghiện đi kèm), trong khi vẫn đảm bảo an toàn cho người có thể là nạn nhân, có thể được kỳ vọng sẽ cải thiện sức khỏe và giảm bạo lực ở thủ phạm thực hiện hành vi bạo lực và lạm dụng trong gia đình khi tiếp xúc với các dịch vụ sức khỏe tâm thần, khi mà hành vi bạo lực với phụ nữ của họ có liên hệ với những yếu tố này.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Bạo lực đối với phụ nữ: Một cách tiếp cận từ sức khỏe tinh thần cộng đồng để phòng ngừa</strong></p>
+
+
+
+<p class="wp-block-paragraph">Các chuyên gia sức khỏe tinh thần có vai trò quan trọng trong việc bảo vệ quyền lợi được thoát khỏi bạo lực giới của phụ nữ, và có thể sử dụng các biện pháp cấp độ một, cấp độ hai và cấp độ ba để giảm nguy cơ bạo lực đối với phụ nữ. Vì việc lạm dụng chất gây nghiện, đặc biệt là uống quá nhiều rượu, góp phần gây ra bạo lực &#8211; lạm dụng trong gia đình và bạo lực tình dục, các chuyên gia sức khỏe tinh thần có thể thảo luận để giảm mức độ tiêu thụ rượu nguy hiểm, như khuyến nghị của Giám đốc Y khoa. Việc tham gia vào công tác phòng ngừa cấp độ một cũng có thể bao gồm các chuyên gia sức khỏe tinh thần nâng cao nhận thức về tác động của bạo lực liên thế hệ đối với sức khỏe tinh thần và bạo lực liên các thế hệ mà phụ nữ và trẻ em phải trải qua, đồng thời thách thức các chuẩn mực văn hóa trong các dịch vụ sức khỏe tinh thần cũng như trong toàn xã hội. Phòng ngừa cấp độ hai đối với bạo lực với phụ nữ (tức là giảm tác động và tác hại của bạo lực đối với phụ nữ đã xảy ra) sẽ bao gồm việc xác định và ứng phó với các hình thức bạo lực gia đình, tình dục và các hình thức bạo lực khác đối với phụ nữ do người sử dụng dịch vụ sức khỏe tinh thần trải qua hoặc gây ra. Việc xác định và điều trị cho thủ phạm có thể ngăn ngừa bạo lực trong tương lai và cũng sẽ cải thiện sức khỏe của nạn nhân: đánh giá rủi ro cần tập trung vào rủi ro bạo lực &#8211; lạm dụng trong gia đình và bạo lực tình dục đối với những người bạn tình cũ (cũng như những người bạn tình hiện tại) và các thành viên trong gia đình. Việc bảo vệ và hỗ trợ trẻ em phải hoặc tiếp xúc hoặc chứng kiến ​​bạo lực với phụ nữ, hoặc cả hai, có thể làm giảm khả năng những đứa trẻ này trở thành nạn nhân hoặc thủ phạm của bạo lực đối với phụ nữ, giảm nguy cơ bạo lực đối với phụ nữ cho các thế hệ tương lai. Các chuyên gia về sức khỏe tinh thần cũng có thể đóng góp vào việc phòng ngừa bạo lực đối với phụ nữ ở cấp độ ba bằng cách vận động tài trợ cho các dịch vụ chuyên khoa, chẳng hạn như những nhà vận động về vấn đề bạo lực và lạm dụng gia đình, các trung tâm giới thiệu nạn nhân tấn công tình dục, các phòng khám cắt bộ phận sinh dục nữ và những nguồn hỗ trợ sau khi thoát khỏi nạn buôn bán người. Việc tăng cường khả năng tiếp cận các dịch vụ sức khỏe tinh thần là một biện pháp phòng ngừa cấp độ hai và cấp độ ba quan trọng: mặc dù có bằng chứng cho thấy các rối nhiễu tâm lý làm tăng nguy cơ trở thành nạn nhân hoặc thực hiện hành vi bạo lực và lạm dụng gia đình, và việc trải qua bạo lực và lạm dụng gia đình làm tăng nguy cơ rối nhiễu tâm lý, hầu hết mọi người trên toàn thế giới vẫn chưa có phương pháp điều trị sức khỏe tâm lý hiệu quả.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Những gợi ý cho nghiên cứu tương lai</strong></p>
+
+
+
+<p class="wp-block-paragraph">Các quốc gia có nghĩa vụ ngăn chặn bạo lực đối với phụ nữ và bảo vệ nạn nhân, đồng thời phải cung cấp kinh phí cho các nghiên cứu và dịch vụ tương xứng với chi phí mà bạo lực phụ nữ gây nên đối với sức khỏe và phúc lợi của phụ nữ và các thế hệ tương lai. Ví dụ, Công ước Istanbul yêu cầu các quốc gia phải thực hiện các biện pháp lập pháp cần thiết và các biện pháp khác để đảm bảo rằng các nạn nhân của mọi hình thức bạo lực với phụ nữ đều được tiếp cận với các dịch vụ hỗ trợ y tế, xã hội và chuyên khoa.  Công ước cũng yêu cầu các dịch vụ được cung cấp đầy đủ nguồn lực và các chuyên gia được đào tạo để hỗ trợ nạn nhân đến những địa chỉ giới thiệu phù hợp.</p>
+
+
+
+<p class="wp-block-paragraph">Tuy nhiên, như đã nêu trong bài báo này và các bài báo khác thuộc Loạt bài này, và theo kế hoạch hành động toàn cầu của WHO nhằm tăng cường phản ứng của hệ thống y tế đối với bạo lực phụ nữ và trẻ em, các nghiên cứu và việc cung cấp dịch vụ sức khỏe tâm thần phù hợp vẫn còn bị thiếu hụt. Như đã chỉ ra trong bài đánh giá được thực hiện cho Loạt bài này, và theo NICE và WHO, nghiên cứu về các biện pháp can thiệp cho cả nạn nhân và thủ phạm của bạo lực và lạm dụng trong gia đình và bạo lực tình dục là vẫn cần thiết; chỉ mới có một vài thực nghiệm được thực hiện đối với các nạn nhân của bạo lực và lạm dụng trong gia đình hoặc bạo lực tình dục có rối nhiễu tâm lý, và không có thực nghiệm nào được thực hiện đối với các rối nhiễu tâm lý ở các nạn nhân của các hình thức bạo lực khác đối với phụ nữ, chẳng hạn như buôn bán người và cắt bộ phận sinh dục nữ. Tương tự như vậy, không có thực nghiệm nào được thực hiện về các chương trình dành cho thủ phạm hoặc các biện pháp can thiệp khác đối với những thủ phạm thực hiện bạo lực và lạm dụng trong gia đình có mắc rối nhiễu tâm lý hoặc lạm dụng chất gây nghiện, hoặc cả hai. Cần tổ chức nhiều nghiên cứu được thiết kế theo chiều dọc hơn về mọi hình thức bạo lực đối với phụ nữ (thay vì chỉ tập trung vào các vụ bạo lực thể xác), bao gồm các biện pháp tác động bạo lực, có thể xác định các cơ chế tiềm ẩn có thể được giải quyết bằng các biện pháp can thiệp phù hợp. Các nghiên cứu đoàn hệ mới nên bao gồm các biện pháp đo lường các rối loạn và triệu chứng tâm lý trên một phạm vi rộng hơn, ngoài trầm cảm. Nghiên cứu cũng cần thiết để xác định việc không tham gia vào các dịch vụ sức khỏe tinh thần và phản ứng với điều trị kém bắt nguồn từ việc thủ phạm hạn chế việc tiếp cận với các chuyên gia y tế và làm suy yếu dịch vụ được cung cấp diễn ra với tần suất như thế nào. Đến mức độ nào thì thất bại trong điều trị hoặc kháng cự việc điều trị bắt nguồn từ hành vi bạo lực phụ nữ chưa được xác định? Thật đáng ngạc nhiên là bạo lực &#8211; lạm dụng trong gia đình và các hình thức bạo lực khác hiếm khi được đo lường hoặc xác định trong các thực nghiệm can thiệp sức khỏe tinh thần mặc dù chúng có khả năng là những biến điều tiết quan trọng của các phản hồi. Chúng tôi hy vọng rằng trong tương lai sẽ có nhiều sự tích hợp vấn đề bạo lực đối với phụ nữ như một yếu tố trong các nghiên cứu điều tra dịch tễ học của các rối nhiễu tâm lý và cách điều trị chúng.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Tiêu chí tìm kiếm và lựa chọn</strong></p>
+
+
+
+<p class="wp-block-paragraph">Chúng tôi đã xác định các tài liệu tham khảo cho bài đánh giá này bằng cách tìm kiếm trên MEDLINE, Embase và PsycINFO các nghiên cứu và đánh giá ban đầu bằng tiếng Anh về phản hồi với dịch vụ sức khỏe tinh thần đối với bạo lực gia đình và các hình thức bạo lực khác đối với phụ nữ. Và chúng tôi đã điều chỉnh các thuật ngữ tìm kiếm cho bạo lực chống lại phụ nữ từ các thuật ngữ đã được công bố trong các phác đồ từ Cochrane có liên quan. Từ ngày 1/1/2009 đến ngày 12/1/2016, chúng tôi thực hiện tìm kiếm và cập nhật một bài tổng quan đã được công bố trước đó của một số tác giả của bài báo trong Loạt bài này. Chúng tôi đã tìm kiếm các bài báo bổ sung bằng cách theo dõi trích dẫn bằng Web of Science, Google Scholar và tìm kiếm các tệp tài liệu cá nhân của chúng tôi.</p>
+
+
+
+<p class="wp-block-paragraph"><em>Người dịch: Lam Hoàng</em></p>
+
+
+
+<p class="wp-block-paragraph">Nguồn: Oram, S., Khalifeh, H., &amp; Howard, L. M. (2017). <em>Violence against women and mental health.</em> The Lancet Psychiatry, 4(2), 159–170. doi:10.1016/s2215-0366(16)30261-9</p>
+
+
+
+<p class="wp-block-paragraph"></p>

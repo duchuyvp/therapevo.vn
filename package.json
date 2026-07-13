@@ -1,0 +1,30 @@
+{
+  "name": "therapevo-vn",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "wp:migrate": "tsx scripts/wp-migrate.ts"
+  },
+  "dependencies": {
+    "next": "16.2.10",
+    "react": "19.2.7",
+    "react-dom": "19.2.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.2",
+    "@tailwindcss/typography": "0.5.20",
+    "@types/node": "26.1.1",
+    "@types/react": "19.2.17",
+    "@types/react-dom": "19.2.3",
+    "@types/turndown": "5.0.6",
+    "gray-matter": "4.0.3",
+    "tailwindcss": "4.3.2",
+    "tsx": "4.23.0",
+    "turndown": "7.2.4",
+    "typescript": "5.9.3"
+  }
+}

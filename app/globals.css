@@ -1,0 +1,80 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+:root {
+  --app-background: #fafaf8;
+  --app-foreground: #1a2340;
+  --app-card: #ffffff;
+  --app-card-foreground: #1a2340;
+  --app-primary: #3d5ea8;
+  --app-primary-foreground: #fafaf8;
+  --app-secondary: #eef1f8;
+  --app-secondary-foreground: #3d5ea8;
+  --app-muted: #f4f3f0;
+  --app-muted-foreground: #6b7280;
+  --app-accent: #7b9dd4;
+  --app-accent-foreground: #1a2340;
+  --app-border: #e2e0da;
+  --app-ring: #3d5ea8;
+  --radius: 6px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--app-background);
+  color: var(--app-foreground);
+  font-family: var(--font-sans);
+  font-weight: 400;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-display);
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+::selection {
+  background-color: #3d5ea8;
+  color: #fafaf8;
+}
+
+@keyframes marquee-left {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.marquee-track {
+  animation: marquee-left 40s linear infinite;
+  will-change: transform;
+}
+
+.marquee-track:hover {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .marquee-track {
+    animation: none;
+  }
+}

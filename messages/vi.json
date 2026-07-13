@@ -1,0 +1,27 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "blog": "Bài viết",
+    "contact": "Liên hệ"
+  },
+  "home": {
+    "heroTitle": "Be kind to your mind",
+    "heroSubtitle": "Nghiên cứu, sáng tạo và phát triển trong lĩnh vực tâm lý học.",
+    "ctaPrimary": "Khám phá",
+    "ctaSecondary": "Liên hệ"
+  },
+  "blog": {
+    "indexTitle": "Bài viết",
+    "indexDescription": "Nội dung tâm lý học được biên soạn cẩn thận.",
+    "readMore": "Đọc tiếp",
+    "backToBlog": "Quay lại danh sách bài viết",
+    "postedIn": "Chuyên mục",
+    "postedOn": "Đăng ngày"
+  },
+  "footer": {
+    "tagline": "Be kind to your mind",
+    "company": "CÔNG TY TNHH NGHIÊN CỨU, SÁNG TẠO VÀ PHÁT TRIỂN THERAPÉVO VIỆT NAM",
+    "copyright": "© {year} Therapévo Việt Nam. All rights reserved."
+  }
+}
