@@ -3,17 +3,14 @@ import type { CSSProperties } from "react";
 
 const subServices = [
   {
-    num: "2.1",
     title: "Tham vấn cá nhân",
     body: "Tạo ra một không gian an toàn để khám phá những khó khăn ảnh hưởng đến cuộc sống hàng ngày hoặc sức khỏe tinh thần của cá nhân. Chuyên viên tâm lý sẽ đồng hành cùng bạn nhằm giúp bạn hiểu rõ hơn về bản thân, phát triển các chiến lược đối phó và học được các công cụ thực tế để giải quyết khó khăn và nâng cao chất lượng cuộc sống một cách hiệu quả.",
   },
   {
-    num: "2.2",
     title: "Tham vấn nhóm",
     body: "Trong môi trường nhóm an toàn và được dẫn dắt bởi chuyên viên tâm lý, người tham gia có cơ hội chia sẻ trải nghiệm, học hỏi từ những người có hoàn cảnh tương tự, đồng thời phát triển các kỹ năng ứng phó, điều hòa cảm xúc và giải quyết vấn đề thông qua sự hỗ trợ và phản hồi tích cực từ tập thể.",
   },
   {
-    num: "2.3",
     title: "Tham vấn tổ chức",
     body: "Đồng hành cùng doanh nghiệp trong việc xây dựng môi trường làm việc lành mạnh thông qua các chương trình khảo sát sức khỏe tinh thần, đánh giá mức độ căng thẳng, tham vấn cho nhân viên, workshop tâm lý và các hoạt động nâng cao nhận thức. Những giải pháp được thiết kế linh hoạt nhằm góp phần giảm căng thẳng, phòng ngừa kiệt sức nghề nghiệp, tăng cường sự gắn kết và nâng cao hiệu quả làm việc của đội ngũ.",
   },
@@ -129,6 +126,7 @@ export default function ServicesPage() {
         style={{
           backgroundColor: "var(--app-background)",
           borderTop: "1px solid var(--app-border)",
+          scrollMarginTop: 88,
         }}
       >
         <div
@@ -187,6 +185,7 @@ export default function ServicesPage() {
         style={{
           backgroundColor: "var(--app-muted)",
           borderTop: "1px solid var(--app-border)",
+          scrollMarginTop: 88,
         }}
       >
         <div style={{ maxWidth: 1200, margin: "0 auto", padding: "100px 40px" }}>
@@ -214,7 +213,7 @@ export default function ServicesPage() {
           >
             {subServices.map((s) => (
               <div
-                key={s.num}
+                key={s.title}
                 style={{
                   backgroundColor: "var(--app-card)",
                   border: "1px solid var(--app-border)",
@@ -223,21 +222,9 @@ export default function ServicesPage() {
                   display: "flex",
                   flexDirection: "column",
                   gap: 16,
-                  minHeight: 360,
+                  minHeight: 320,
                 }}
               >
-                <span
-                  style={{
-                    fontFamily: "var(--font-display)",
-                    fontSize: 28,
-                    fontWeight: 700,
-                    color: "var(--app-primary)",
-                    letterSpacing: "-0.02em",
-                    lineHeight: 1,
-                  }}
-                >
-                  {s.num}
-                </span>
                 <h3
                   style={{
                     fontFamily: "var(--font-display)",
@@ -278,6 +265,7 @@ export default function ServicesPage() {
         style={{
           backgroundColor: "var(--app-background)",
           borderTop: "1px solid var(--app-border)",
+          scrollMarginTop: 88,
         }}
       >
         <div

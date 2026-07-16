@@ -70,7 +70,6 @@ export function Insights({ posts }: { posts: Post[] }) {
                 lineHeight: 1.18,
                 letterSpacing: "-0.02em",
                 color: "var(--app-foreground)",
-                maxWidth: 560,
               }}
             >
               Tri thức tâm lý học

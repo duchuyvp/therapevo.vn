@@ -15,6 +15,7 @@ const pillars = [
     ],
     img: "/figma/pillar-01-practice-space.jpg",
     imgAlt: "Phòng tham vấn chuyên nghiệp, tiêu chuẩn",
+    href: "/services#khong-gian-thuc-hanh",
   },
   {
     num: "02",
@@ -30,6 +31,7 @@ const pillars = [
     ],
     img: "/figma/pillar-02-counseling.jpg",
     imgAlt: "Buổi tham vấn tâm lý 1-1 với sự đồng cảm và chuyên nghiệp",
+    href: "/services#tham-van-ho-tro",
   },
   {
     num: "03",
@@ -44,6 +46,7 @@ const pillars = [
     ],
     img: "/figma/pillar-03-community.jpg",
     imgAlt: "Workshop và talkshow tâm lý học cộng đồng",
+    href: "/services#lan-toa-tri-thuc",
   },
 ];
 
@@ -57,7 +60,7 @@ export function Services() {
       }}
     >
       <div style={{ maxWidth: 1200, margin: "0 auto", padding: "100px 40px" }}>
-        <div style={{ marginBottom: 64, maxWidth: 680 }}>
+        <div style={{ marginBottom: 64 }}>
           <div style={{ display: "flex", alignItems: "center", gap: 12, marginBottom: 20 }}>
             <span
               style={{
@@ -282,8 +285,8 @@ export function Services() {
                 </ul>
 
                 <div style={{ marginTop: "auto" }}>
-                  <a
-                    href="#contact"
+                  <Link
+                    href={p.href}
                     style={{
                       fontFamily: "var(--font-sans)",
                       fontSize: 13,
@@ -298,7 +301,7 @@ export function Services() {
                     }}
                   >
                     Tìm hiểu thêm →
-                  </a>
+                  </Link>
                 </div>
               </div>
             </div>
