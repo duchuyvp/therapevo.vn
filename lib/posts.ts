@@ -1,6 +1,11 @@
 import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
+import { marked } from "marked";
+
+// Render markdown → HTML. Pre-existing HTML-only bodies (from the WP
+// migration) pass through untouched because markdown allows raw HTML.
+marked.setOptions({ gfm: true, breaks: false });
 
 export type PostCategory = { slug: string; name: string };
 
@@ -25,6 +30,7 @@ export function getAllPosts(): Post[] {
   const posts = files.map<Post>((file) => {
     const raw = fs.readFileSync(path.join(POSTS_DIR, file), "utf-8");
     const { data, content } = matter(raw);
+    const html = marked.parse(content, { async: false }) as string;
     return {
       slug: data.slug ?? file.replace(/\.md$/, ""),
       title: data.title ?? "",
@@ -32,7 +38,7 @@ export function getAllPosts(): Post[] {
       excerpt: data.excerpt ?? "",
       categories: data.categories ?? [],
       coverImage: data.coverImage,
-      html: content,
+      html,
     };
   });
   posts.sort((a, b) => (a.date < b.date ? 1 : -1));

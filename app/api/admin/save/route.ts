@@ -1,5 +1,4 @@
 import { NextResponse } from "next/server";
-import { marked } from "marked";
 
 export const dynamic = "force-dynamic";
 
@@ -110,8 +109,6 @@ async function handle(request: Request): Promise<Response> {
   const excerpt = (body.excerpt || markdown.replace(/[#*_`>[\]()]/g, "").replace(/\s+/g, " ").trim()).slice(0, 300);
   const categories = body.categories?.filter((c) => c?.slug && c?.name) ?? [];
 
-  const html = await marked.parse(markdown, { async: true });
-
   const frontmatter = buildFrontmatter({
     slug,
     title,
@@ -120,7 +117,7 @@ async function handle(request: Request): Promise<Response> {
     categories,
     coverImage: body.coverImage?.trim() || undefined,
   });
-  const fileContent = frontmatter + html + (html.endsWith("\n") ? "" : "\n");
+  const fileContent = frontmatter + markdown + (markdown.endsWith("\n") ? "" : "\n");
 
   const filePath = `content/posts/${slug}.md`;
   const contentsUrl = `${GITHUB_API}/repos/${REPO_OWNER}/${REPO_NAME}/contents/${filePath}`;
