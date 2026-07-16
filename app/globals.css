@@ -55,6 +55,29 @@ h4 {
   color: #fafaf8;
 }
 
+/*
+ * Post body — help legacy HTML behave sensibly inside the .prose container.
+ * Content pasted from GitHub READMEs, Word, or old CMS exports tends to use
+ * the deprecated align="center" attribute, which modern browsers only honor
+ * for inline text. Translate it into modern CSS so wrapped images/blocks
+ * actually center.
+ */
+.prose [align="center"] {
+  text-align: center;
+}
+.prose [align="center"] > img,
+.prose [align="center"] > picture,
+.prose [align="center"] > figure {
+  margin-left: auto;
+  margin-right: auto;
+}
+.prose [align="right"] {
+  text-align: right;
+}
+.prose [align="left"] {
+  text-align: left;
+}
+
 @keyframes marquee-left {
   from {
     transform: translateX(0);
