@@ -106,21 +106,7 @@ async function handle(request: Request): Promise<Response> {
     );
 
   const date = body.date || new Date().toISOString();
-  // Auto-derived excerpt: strip HTML/markdown syntax first so pasted README-style
-  // content doesn't leave stray <div align="center"> fragments in the excerpt.
-  const autoExcerpt = markdown
-    .replace(/<!--[\s\S]*?-->/g, "")
-    .replace(/<[^>]*>/g, " ")
-    .replace(/```[\s\S]*?```/g, " ")
-    .replace(/`[^`]*`/g, " ")
-    .replace(/!\[[^\]]*\]\([^)]*\)/g, " ")
-    .replace(/\[([^\]]+)\]\([^)]*\)/g, "$1")
-    .replace(/\[([^\]]+)\]\[[^\]]*\]/g, "$1")
-    .replace(/^\s*[-*+>#|]+\s*/gm, "")
-    .replace(/[*_~`]/g, "")
-    .replace(/\s+/g, " ")
-    .trim();
-  const excerpt = (body.excerpt || autoExcerpt).slice(0, 300);
+  const excerpt = (body.excerpt || markdown.replace(/<[^>]*>/g, " ").replace(/[#*_`>[\]()]/g, "").replace(/\s+/g, " ").trim()).slice(0, 300);
   const categories = body.categories?.filter((c) => c?.slug && c?.name) ?? [];
 
   const frontmatter = buildFrontmatter({
