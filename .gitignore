@@ -183,3 +183,4 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
 .temp/
+.dev.vars

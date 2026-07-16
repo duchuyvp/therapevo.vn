@@ -1,6 +1,6 @@
 import { NextResponse, type NextRequest } from "next/server";
 
-const REALM = 'Basic realm="Therapévo admin", charset="UTF-8"';
+const REALM = 'Basic realm="Therapevo admin", charset="UTF-8"';
 
 function unauthorized() {
   return new NextResponse("Authentication required", {
@@ -9,7 +9,7 @@ function unauthorized() {
   });
 }
 
-export function proxy(request: NextRequest) {
+export function middleware(request: NextRequest) {
   const username = process.env.ADMIN_USERNAME;
   const password = process.env.ADMIN_PASSWORD;
 

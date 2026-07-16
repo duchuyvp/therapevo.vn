@@ -1,8 +1,6 @@
 import { NextResponse } from "next/server";
 import { marked } from "marked";
-import matter from "gray-matter";
 
-export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
 const REPO_OWNER = "duchuyvp";
@@ -39,7 +37,47 @@ function base64UTF8(text: string): string {
   return btoa(bin);
 }
 
-export async function POST(request: Request) {
+// Simple YAML frontmatter emitter for our fixed shape. Handles strings,
+// dates, string arrays, and { slug, name }[]. Avoids gray-matter/js-yaml
+// which crashes on the Workers runtime.
+function yamlScalar(value: string): string {
+  if (/^[A-Za-z0-9_./:@\-\s -￿]+$/.test(value) && !/^[\s#&*!|>%@`?-]/.test(value) && !value.includes(": ") && !value.includes(" #") && !/[\n"']/.test(value)) {
+    return value;
+  }
+  const escaped = value.replace(/\\/g, "\\\\").replace(/"/g, '\\"').replace(/\n/g, "\\n").replace(/\r/g, "\\r");
+  return `"${escaped}"`;
+}
+
+function buildFrontmatter(fm: {
+  slug: string;
+  title: string;
+  date: string;
+  excerpt: string;
+  categories: Category[];
+  coverImage?: string;
+}): string {
+  const lines: string[] = ["---"];
+  lines.push(`slug: ${yamlScalar(fm.slug)}`);
+  lines.push(`title: ${yamlScalar(fm.title)}`);
+  lines.push(`date: ${yamlScalar(fm.date)}`);
+  lines.push(`excerpt: ${yamlScalar(fm.excerpt)}`);
+  if (fm.categories.length === 0) {
+    lines.push("categories: []");
+  } else {
+    lines.push("categories:");
+    for (const c of fm.categories) {
+      lines.push(`  - slug: ${yamlScalar(c.slug)}`);
+      lines.push(`    name: ${yamlScalar(c.name)}`);
+    }
+  }
+  if (fm.coverImage) {
+    lines.push(`coverImage: ${yamlScalar(fm.coverImage)}`);
+  }
+  lines.push("---", "");
+  return lines.join("\n");
+}
+
+async function handle(request: Request): Promise<Response> {
   const token = process.env.GITHUB_TOKEN;
   if (!token) {
     return NextResponse.json(
@@ -69,24 +107,23 @@ export async function POST(request: Request) {
     );
 
   const date = body.date || new Date().toISOString();
-  const excerpt = (body.excerpt || markdown.replace(/[#*_`>\[\]\(\)]/g, "").replace(/\s+/g, " ").trim()).slice(0, 300);
+  const excerpt = (body.excerpt || markdown.replace(/[#*_`>[\]()]/g, "").replace(/\s+/g, " ").trim()).slice(0, 300);
   const categories = body.categories?.filter((c) => c?.slug && c?.name) ?? [];
 
   const html = await marked.parse(markdown, { async: true });
 
-  const frontmatter: Record<string, unknown> = {
+  const frontmatter = buildFrontmatter({
     slug,
     title,
     date,
     excerpt,
     categories,
-  };
-  if (body.coverImage?.trim()) frontmatter.coverImage = body.coverImage.trim();
+    coverImage: body.coverImage?.trim() || undefined,
+  });
+  const fileContent = frontmatter + html + (html.endsWith("\n") ? "" : "\n");
 
-  const fileContent = matter.stringify(html, frontmatter);
   const filePath = `content/posts/${slug}.md`;
   const contentsUrl = `${GITHUB_API}/repos/${REPO_OWNER}/${REPO_NAME}/contents/${filePath}`;
-
   const ghHeaders = {
     Authorization: `Bearer ${token}`,
     Accept: "application/vnd.github+json",
@@ -104,7 +141,7 @@ export async function POST(request: Request) {
   } else if (existing.status !== 404) {
     const errText = await existing.text();
     return NextResponse.json(
-      { error: `GitHub check failed (${existing.status}): ${errText}` },
+      { error: `GitHub check failed (${existing.status}): ${errText.slice(0, 400)}` },
       { status: 502 },
     );
   }
@@ -123,7 +160,7 @@ export async function POST(request: Request) {
   if (!commitRes.ok) {
     const errText = await commitRes.text();
     return NextResponse.json(
-      { error: `GitHub commit failed (${commitRes.status}): ${errText}` },
+      { error: `GitHub commit failed (${commitRes.status}): ${errText.slice(0, 400)}` },
       { status: 502 },
     );
   }
@@ -142,4 +179,13 @@ export async function POST(request: Request) {
     filePath: result.content.path,
     postUrl: `/blog/${slug}`,
   });
+}
+
+export async function POST(request: Request) {
+  try {
+    return await handle(request);
+  } catch (e: unknown) {
+    const msg = e instanceof Error ? `${e.name}: ${e.message}` : String(e);
+    return NextResponse.json({ error: `Server error: ${msg}` }, { status: 500 });
+  }
 }
