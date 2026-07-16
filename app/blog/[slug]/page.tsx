@@ -3,9 +3,6 @@ import { notFound } from "next/navigation";
 import { t } from "@/lib/i18n";
 import { getAllPosts, getPost, getRelatedPosts } from "@/lib/posts";
 import { PostCard } from "@/components/PostCard";
-// GitHub-flavored markdown styling — same CSS the compose preview uses,
-// so what admin sees while writing matches what readers see published.
-import "@uiw/react-markdown-preview/markdown.css";
 
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -58,8 +55,7 @@ export default async function PostPage({
         </header>
 
         <div
-          className="wmde-markdown wmde-markdown-color"
-          data-color-mode="light"
+          className="prose prose-neutral max-w-none prose-headings:font-[var(--font-display)] prose-a:text-[var(--app-primary)]"
           dangerouslySetInnerHTML={{ __html: post.html }}
         />
       </article>
