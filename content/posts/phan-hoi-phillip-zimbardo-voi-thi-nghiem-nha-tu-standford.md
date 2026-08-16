@@ -1,16 +1,12 @@
 ---
 slug: phan-hoi-phillip-zimbardo-voi-thi-nghiem-nha-tu-standford
-title: Phillip Zimbardo nói gì về những chỉ trích Thí nghiệm Nhà tù Standford?
-date: '2025-07-08T21:42:17'
-excerpt: >-
-  SPE là một câu chuyện cảnh báo về những gì có thể xảy ra với bất kỳ ai trong
-  mỗi chúng ta nếu chúng ta đánh giá thấp sức mạnh của vai trò xã hội và áp lực
-  từ bên ngoài đối với mỗi hành động của mỗi chúng ta.
+title: "Phillip Zimbardo nói gì về những chỉ trích Thí nghiệm Nhà tù Standford?"
+date: 2025-07-08T21:42:17
+excerpt: SPE là một câu chuyện cảnh báo về những gì có thể xảy ra với bất kỳ ai trong mỗi chúng ta nếu chúng ta đánh giá thấp sức mạnh của vai trò xã hội và áp lực từ bên ngoài đối với mỗi hành động của mỗi chúng ta.
 categories:
   - slug: tam-ly-hoc-xa-hoi
     name: Tâm lý học xã hội
-coverImage: >-
-  /blog/media/2025/07/stanford-prison-experiment_fangevokter-og-fange-i-gangen.jpg
+coverImage: /blog/media/2025/07/stanford-prison-experiment_fangevokter-og-fange-i-gangen.jpg
 ---
 
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="685" src="/blog/media/2025/07/GettyImages_480686100-1-1024x685.webp" alt="Tuyên bố từ Phillip Zimbardo về thí nghiệm nhà tù Standford" class="wp-image-613" srcset="/blog/media/2025/07/GettyImages_480686100-1-1024x685.webp 1024w, /blog/media/2025/07/GettyImages_480686100-1-300x201.webp 300w, /blog/media/2025/07/GettyImages_480686100-1-768x514.webp 768w, /blog/media/2025/07/GettyImages_480686100-1-1536x1027.webp 1536w, /blog/media/2025/07/GettyImages_480686100-1-2048x1370.webp 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px"></figure>
