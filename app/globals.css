@@ -2,6 +2,8 @@
 @plugin "@tailwindcss/typography";
 
 :root {
+  --font-display: "Playfair Display Variable", Georgia, "Times New Roman", serif;
+  --font-sans: "Noto Sans Variable", Arial, Helvetica, sans-serif;
   --app-background: #fafaf8;
   --app-foreground: #1a2340;
   --app-card: #ffffff;
