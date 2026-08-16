@@ -1,5 +1,7 @@
 "use client";
 
+import { useState } from "react";
+
 const FOOTER_BG = "#0D1E3C";
 const FOOTER_BORDER = "rgba(255,255,255,0.08)";
 
@@ -51,6 +53,41 @@ const inputStyle: React.CSSProperties = {
 };
 
 export function Footer() {
+  const [submitting, setSubmitting] = useState(false);
+  const [formStatus, setFormStatus] = useState<
+    { type: "success" | "error"; message: string } | undefined
+  >();
+
+  async function submitContact(event: React.FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    const form = event.currentTarget;
+    const formData = new FormData(form);
+    setSubmitting(true);
+    setFormStatus(undefined);
+
+    try {
+      const response = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(Object.fromEntries(formData.entries())),
+      });
+      const data = (await response.json()) as { ok?: boolean; error?: string };
+      if (!response.ok || !data.ok) throw new Error(data.error || `HTTP ${response.status}`);
+      form.reset();
+      setFormStatus({
+        type: "success",
+        message: "Cảm ơn bạn. Thông tin đã được gửi và chúng tôi sẽ liên hệ sớm nhất.",
+      });
+    } catch (error: unknown) {
+      setFormStatus({
+        type: "error",
+        message: error instanceof Error ? error.message : "Không thể gửi liên hệ lúc này.",
+      });
+    } finally {
+      setSubmitting(false);
+    }
+  }
+
   return (
     <footer id="contact" style={{ backgroundColor: FOOTER_BG, color: "#FAFAF8" }}>
       <div style={{ borderBottom: `1px solid ${FOOTER_BORDER}` }}>
@@ -97,7 +134,7 @@ export function Footer() {
             <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
               {[
                 { label: "Hotline", value: "(+84) 964727910" },
-                { label: "Email", value: "cskh@therapevo.vn / therapevo.psy@gmail.com" },
+                { label: "Email", value: "contact@therapevo.vn / therapevo.psy@gmail.com" },
                 { label: "Địa chỉ", value: "Ngõ 278 Tôn Đức Thắng, P. Ô Chợ Dừa, TP. Hà Nội" },
               ].map((item) => (
                 <div
@@ -133,22 +170,30 @@ export function Footer() {
 
           <form
             style={{ display: "flex", flexDirection: "column", gap: 12 }}
-            onSubmit={(e) => {
-              e.preventDefault();
-              alert("Cảm ơn bạn! Chúng tôi sẽ liên hệ sớm nhất. (form chưa nối backend)");
-            }}
+            onSubmit={submitContact}
           >
+            <input
+              type="text"
+              name="website"
+              tabIndex={-1}
+              autoComplete="off"
+              aria-hidden="true"
+              style={{ position: "absolute", left: "-9999px", width: 1, height: 1 }}
+            />
             <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 12 }}>
-              <input type="text" placeholder="Họ và tên" style={inputStyle} />
-              <input type="text" placeholder="Tỉnh thành" style={inputStyle} />
+              <input type="text" name="name" placeholder="Họ và tên" required style={inputStyle} />
+              <input type="text" name="city" placeholder="Tỉnh thành" style={inputStyle} />
             </div>
-            <input type="tel" placeholder="Số điện thoại" style={inputStyle} />
+            <input type="tel" name="phone" placeholder="Số điện thoại" required style={inputStyle} />
             <input
               type="email"
+              name="email"
               placeholder="Địa chỉ email làm việc"
+              required
               style={inputStyle}
             />
             <select
+              name="interest"
               style={{
                 ...inputStyle,
                 color: "rgba(250,250,248,0.55)",
@@ -165,12 +210,14 @@ export function Footer() {
               <option value="other">Khác</option>
             </select>
             <textarea
+              name="message"
               placeholder="Chia sẻ đôi điều về bối cảnh và điều bạn mong muốn đạt được"
               rows={4}
               style={{ ...inputStyle, resize: "none", lineHeight: 1.6 }}
             />
             <button
               type="submit"
+              disabled={submitting}
               style={{
                 fontFamily: "var(--font-sans)",
                 fontSize: 14,
@@ -180,13 +227,28 @@ export function Footer() {
                 border: "none",
                 borderRadius: "var(--radius)",
                 padding: "14px 28px",
-                cursor: "pointer",
+                cursor: submitting ? "wait" : "pointer",
+                opacity: submitting ? 0.65 : 1,
                 letterSpacing: "0.02em",
                 textAlign: "left",
               }}
             >
-              Gửi liên hệ →
+              {submitting ? "Đang gửi…" : "Gửi liên hệ →"}
             </button>
+            {formStatus && (
+              <p
+                aria-live="polite"
+                style={{
+                  margin: 0,
+                  color: formStatus.type === "success" ? "#a9dfbd" : "#ffb4bd",
+                  fontFamily: "var(--font-sans)",
+                  fontSize: 13,
+                  lineHeight: 1.55,
+                }}
+              >
+                {formStatus.message}
+              </p>
+            )}
           </form>
         </div>
       </div>

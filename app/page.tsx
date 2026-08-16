@@ -5,7 +5,7 @@ import { Insights } from "@/components/Insights";
 import { getAllPosts } from "@/lib/posts";
 
 export default function HomePage() {
-  const posts = getAllPosts().slice(0, 4);
+  const posts = getAllPosts().slice(0, 5);
   return (
     <>
       <Hero />

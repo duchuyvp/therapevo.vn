@@ -55,7 +55,7 @@ export default async function PostPage({
         </header>
 
         <div
-          className="prose prose-neutral max-w-none prose-headings:font-[var(--font-display)] prose-a:text-[var(--app-primary)]"
+          className="post-body"
           dangerouslySetInnerHTML={{ __html: post.html }}
         />
       </article>
