@@ -178,6 +178,7 @@ export async function sendSmtpEmail({
   username,
   password,
   to,
+  envelopeRecipients,
   replyTo,
   subject,
   text,
@@ -188,6 +189,7 @@ export async function sendSmtpEmail({
   username: string;
   password: string;
   to: string;
+  envelopeRecipients?: string[];
   replyTo?: string;
   subject: string;
   text: string;
@@ -222,8 +224,11 @@ export async function sendSmtpEmail({
 
     client.writeLine(`MAIL FROM:<${sanitizeAddress(username)}>`);
     await client.expect(250, "sender acceptance");
-    client.writeLine(`RCPT TO:<${sanitizeAddress(to)}>`);
-    await client.expect([250, 251], "recipient acceptance");
+    const recipients = Array.from(new Set(envelopeRecipients?.length ? envelopeRecipients : [to]));
+    for (const recipient of recipients) {
+      client.writeLine(`RCPT TO:<${sanitizeAddress(recipient)}>`);
+      await client.expect([250, 251], "recipient acceptance");
+    }
     client.writeLine("DATA");
     await client.expect(354, "message data");
     client.writeData(buildMessage({ from: username, to, replyTo, subject, text, html }));
