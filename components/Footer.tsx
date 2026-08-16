@@ -172,14 +172,6 @@ export function Footer() {
             style={{ display: "flex", flexDirection: "column", gap: 12 }}
             onSubmit={submitContact}
           >
-            <input
-              type="text"
-              name="website"
-              tabIndex={-1}
-              autoComplete="off"
-              aria-hidden="true"
-              style={{ position: "absolute", left: "-9999px", width: 1, height: 1 }}
-            />
             <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 12 }}>
               <input type="text" name="name" placeholder="Họ và tên" required style={inputStyle} />
               <input type="text" name="city" placeholder="Tỉnh thành" style={inputStyle} />

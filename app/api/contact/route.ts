@@ -13,7 +13,6 @@ type ContactPayload = {
   email?: string;
   interest?: string;
   message?: string;
-  website?: string;
 };
 
 const interestLabels: Record<string, string> = {
@@ -52,9 +51,6 @@ export async function POST(request: Request) {
   } catch {
     return NextResponse.json({ error: "Dữ liệu gửi lên không hợp lệ." }, { status: 400 });
   }
-
-  // Quietly accept bot submissions caught by the honeypot.
-  if (clean(payload.website, 200)) return NextResponse.json({ ok: true });
 
   const name = clean(payload.name, 120);
   const city = clean(payload.city, 120);
