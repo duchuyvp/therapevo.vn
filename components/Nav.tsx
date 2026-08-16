@@ -15,6 +15,7 @@ const DARK_PAGES = new Set(["/doi-ngu", "/services"]);
 
 export function Nav() {
   const [scrolled, setScrolled] = useState(false);
+  const [menuOpen, setMenuOpen] = useState(false);
   const pathname = usePathname();
   const isDarkPage = DARK_PAGES.has(pathname);
 
@@ -24,25 +25,30 @@ export function Nav() {
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
+  useEffect(() => setMenuOpen(false), [pathname]);
+
   return (
     <header
+      className={`site-header${isDarkPage ? " site-header-dark" : ""}`}
       style={{
         position: "fixed",
         top: 0,
         left: 0,
         right: 0,
         zIndex: 100,
-        backgroundColor: scrolled
+        backgroundColor: scrolled || menuOpen
           ? isDarkPage
             ? "rgba(13,30,60,0.96)"
             : "rgba(250,250,248,0.96)"
           : "transparent",
-        borderBottom: scrolled ? "1px solid var(--app-border)" : "1px solid transparent",
-        backdropFilter: scrolled ? "blur(12px)" : "none",
+        borderBottom:
+          scrolled || menuOpen ? "1px solid var(--app-border)" : "1px solid transparent",
+        backdropFilter: scrolled || menuOpen ? "blur(12px)" : "none",
         transition: "background-color 0.3s ease, border-color 0.3s ease",
       }}
     >
       <div
+        className="site-header-inner"
         style={{
           maxWidth: 1200,
           margin: "0 auto",
@@ -54,6 +60,7 @@ export function Nav() {
         }}
       >
         <Link
+          className="site-header-logo"
           href="/"
           style={{ textDecoration: "none", display: "flex", alignItems: "center", gap: 10 }}
         >
@@ -70,7 +77,24 @@ export function Nav() {
           />
         </Link>
 
-        <nav style={{ display: "flex", alignItems: "center", gap: 36 }}>
+        <button
+          type="button"
+          className="site-menu-toggle"
+          aria-label={menuOpen ? "Đóng menu" : "Mở menu"}
+          aria-expanded={menuOpen}
+          aria-controls="site-navigation"
+          onClick={() => setMenuOpen((open) => !open)}
+        >
+          <span />
+          <span />
+          <span />
+        </button>
+
+        <nav
+          id="site-navigation"
+          className={`site-navigation${menuOpen ? " is-open" : ""}`}
+          style={{ display: "flex", alignItems: "center", gap: 36 }}
+        >
           {links.map((l) => {
             const linkStyle: React.CSSProperties = {
               fontFamily: "var(--font-sans)",
@@ -87,6 +111,7 @@ export function Nav() {
                 key={l.label}
                 href={l.href}
                 style={linkStyle}
+                onClick={() => setMenuOpen(false)}
                 onMouseEnter={(e) => (e.currentTarget.style.opacity = "1")}
                 onMouseLeave={(e) => (e.currentTarget.style.opacity = "0.7")}
               >
@@ -97,6 +122,7 @@ export function Nav() {
                 key={l.label}
                 href={l.href}
                 style={linkStyle}
+                onClick={() => setMenuOpen(false)}
                 onMouseEnter={(e) =>
                   ((e.currentTarget as HTMLElement).style.opacity = "1")
                 }
@@ -110,6 +136,7 @@ export function Nav() {
           })}
           <a
             href="#contact"
+            onClick={() => setMenuOpen(false)}
             style={{
               fontFamily: "var(--font-sans)",
               fontSize: 13,

@@ -4,7 +4,6 @@ import { sendSmtpEmail } from "@/lib/smtp";
 export const dynamic = "force-dynamic";
 
 const CONTACT_EMAIL = "contact@therapevo.vn";
-const FALLBACK_DELIVERY_EMAIL = "therapevo.psy@gmail.com";
 
 type ContactPayload = {
   name?: string;
@@ -96,8 +95,6 @@ export async function POST(request: Request) {
   const smtpPassword = process.env.SMTP_PASSWORD || process.env.SNMP_PASSWORD;
   const smtpHost = process.env.SMTP_HOST || "smtp.gmail.com";
   const smtpPort = Number(process.env.SMTP_PORT || "465");
-  const deliveryEmail = process.env.CONTACT_DELIVERY_EMAIL || FALLBACK_DELIVERY_EMAIL;
-
   if (!smtpUsername || !smtpPassword || !Number.isInteger(smtpPort)) {
     return NextResponse.json(
       { error: "Dịch vụ gửi email chưa được cấu hình. Vui lòng gọi hotline để được hỗ trợ." },
@@ -112,7 +109,6 @@ export async function POST(request: Request) {
       username: smtpUsername,
       password: smtpPassword,
       to: CONTACT_EMAIL,
-      envelopeRecipients: [CONTACT_EMAIL, deliveryEmail],
       replyTo: email,
       subject,
       text,
