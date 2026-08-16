@@ -321,10 +321,11 @@ export function About() {
                       color: "var(--app-foreground)",
                       marginBottom: 4,
                       letterSpacing: "-0.01em",
-                    }}
+                  }}
                   >
-                    {v.title}
+                    <span className="core-value-title">{v.title}</span>
                     <span
+                      className="core-value-title-en"
                       style={{
                         fontFamily: "var(--font-sans)",
                         fontSize: 12,

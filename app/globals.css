@@ -49,6 +49,10 @@ body {
   display: none;
 }
 
+.core-value-title {
+  white-space: nowrap;
+}
+
 h1,
 h2,
 h3,
@@ -596,6 +600,12 @@ code {
     margin-top: 8px;
     padding: 13px 18px !important;
     text-align: center;
+  }
+
+  .core-value-title-en {
+    display: block;
+    margin-top: 4px;
+    margin-left: 0 !important;
   }
 
   main section > div[style*="max-width:1200px"],
