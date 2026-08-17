@@ -10,14 +10,13 @@ coverImage: "https://plus.unsplash.com/premium_photo-1726862850583-3439f2aa5a58?
 ---
 # Ly Hôn Có Thể Dẫn Tới Sự Xa Cách Của Anh Chị Em Ruột?
 
+![Sự rạn nứt trong gia đình khi ly hôn](https://plus.unsplash.com/premium_photo-1726862850583-3439f2aa5a58?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 Một yếu tố nguy cơ dẫn tới sự xa cách trong gia đình là việc cha mẹ ly hôn. Sự tan vỡ của hôn nhân, vốn chủ yếu là vấn đề giữa hai vợ chồng, lan tỏa tới toàn bộ hệ thống gia đình mở rộng.
 
 Trong số những hệ quả sâu sắc nhưng thường bị xem nhẹ của ly hôn là sự xa cách giữa anh chị em và sự xa lánh giữa cha mẹ và con cái. Ly hôn làm gián đoạn các khuôn mẫu quen thuộc của đời sống gia đình.
 
 > *"Sự xa cách trong bối cảnh ly hôn thường diễn ra trong im lặng và bị che khuất, nhiều khi do các diễn ngôn pháp lý hoặc những ràng buộc về lòng trung thành. Đó là một dạng mất mát không được thừa nhận, nơi nỗi đau là hoàn toàn có thật nhưng hiếm khi được gọi tên hoặc nhận được sự hỗ trợ."*  
 > — **Christine Droney**, Nhân viên công tác xã hội & Chuyên gia trị liệu tâm lý
-
-![Sự rạn nứt trong gia đình khi ly hôn](https://plus.unsplash.com/premium_photo-1726862850583-3439f2aa5a58?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ---
 
@@ -71,7 +70,7 @@ Những hệ quả của sự xa cách trong gia đình có thể kéo dài và 
 * **Khó khăn trong các mối quan hệ tương lai:** Khó xây dựng niềm tin, sự thân mật và kỹ năng xử lý xung đột trong tình bạn cũng như tình cảm đôi lứa.
 * **Xa cách liên thế hệ:** Ảnh hưởng có thể lan sang thế hệ tiếp theo dưới dạng sự xa cách "di truyền" giữa ông bà và cháu. Nhiều người chọn rút lui và gắn kết với một *"gia đình được lựa chọn"* (bạn bè hoặc những người không cùng huyết thống).
 
-![Tác động tâm lý và sự cô đơn kéo dài](https://images.unsplash.com/photo-1499209974431-9dddcece7f88?auto=format&fit=crop&w=1000&q=80)
+![Tác động tâm lý và sự cô đơn kéo dài](https://images.unsplash.com/flagged/photo-1565093934535-8b54c1b6e509?q=80&w=1153&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ---
 
@@ -86,7 +85,7 @@ Cần nhấn mạnh rằng việc sống trong môi trường gia đình đầy 
 * **Tái hiện mô thức tiêu cực:** Khi lớn lên, trẻ có thể lặp lại mô thức xung đột cao hoặc ngược lại, trở nên né tránh cực đoan mọi bất đồng.
 * **Khía cạnh giải tỏa:** Việc chấm dứt cuộc hôn nhân đầy độc hại đôi khi lại giúp trẻ giảm bớt sự phơi nhiễm trước các cuộc cãi vã, từ đó cải thiện sức khỏe tinh thần tổng thể.
 
-![Môi trường gia đình nhiều căng thẳng](https://images.unsplash.com/photo-1541199249251-f713e6145474?auto=format&fit=crop&w=1000&q=80)
+![Môi trường gia đình nhiều căng thẳng](https://plus.unsplash.com/premium_photo-1663100257388-2fa5129a481e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ---
 
