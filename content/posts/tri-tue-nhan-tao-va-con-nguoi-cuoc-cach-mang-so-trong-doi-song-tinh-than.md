@@ -19,7 +19,6 @@ Trí tuệ nhân tạo (AI), đặc biệt là các chatbot, đang dần bước
 
 Điều đáng chú ý là AI không chỉ thay đổi những gì chúng ta làm, mà có thể đang dần thay đổi cách chúng ta suy nghĩ, cảm nhận và kết nối với người khác. **Vậy điều gì thực sự đang xảy ra với đời sống tinh thần của chúng ta khi AI ngày càng hiện diện sâu sắc trong cuộc sống?**
 
----
 ## 1. "Phao cứu sinh" kỹ thuật số và sự hỗ trợ cá nhân hóa
 
 AI mang lại những lợi ích không thể phủ nhận khi đóng vai trò như một hệ thống hỗ trợ xã hội ảo đầy tiềm năng:
@@ -31,7 +30,6 @@ AI mang lại những lợi ích không thể phủ nhận khi đóng vai trò n
 Những ứng dụng này biến AI thành một "cánh tay nối dài" giúp thu hẹp khoảng cách địa lý và kinh tế trong việc chăm sóc sức khỏe tâm thần *(Costa-Gomes, 2026)*.
 
 ![Hỗ trợ tâm lý kỹ thuật số qua trí tuệ nhân tạo](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1000&q=80)
----
 
 ## 2. Khoản "nợ nhận thức" và sự xói mòn tư duy
 
@@ -43,8 +41,6 @@ Dù mang lại sự tiện lợi tức thời, việc quá phụ thuộc vào AI
 
 ![Tác động của công nghệ đến tư duy và não bộ](https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=1000&q=80)
 
----
-
 ## 3. AI tác động đến sức khỏe tâm thần như thế nào?
 
 Tác động của AI đối với sức khỏe tâm thần diễn ra qua những cơ chế phức tạp và mang tính nghịch lý:
@@ -54,7 +50,6 @@ Tác động của AI đối với sức khỏe tâm thần diễn ra qua nhữn
 * **Cơ chế né tránh thực tại:** Những cá nhân có trải nghiệm tuổi thơ bất lợi (*ACEs*) thường tìm đến AI để trốn tránh thực tại, vô tình khuếch đại các tổn thương tâm lý sẵn có và đào sâu sự lệ thuộc vào thế giới ảo *(Wang et al., 2026)*.
 
 ![Cảm giác cô đơn và sự lệ thuộc vào thế giới ảo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsdVHylip_hSx0QYmFkRLimHHmpCGKrBQVLqJBK-NcCtqZfde4OFDdpSk&s=10)
----
 
 ## 4. Bản chất của sự xung đột giữa công nghệ và tâm trí
 
@@ -67,7 +62,6 @@ AI vốn dĩ không mang bản chất tốt hay xấu — giá trị của nó p
 
 ![Khoảng cách giữa trí tuệ nhân tạo và cảm xúc con người](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1000&q=80)
 ---
-
 ## 5. Đề xuất sử dụng AI an toàn và bảo vệ đời sống tinh thần
 
 Để AI phát huy tối đa lợi ích mà không gây tổn hại đến tâm trí, chúng ta cần chủ động thiết lập nguyên tắc:
