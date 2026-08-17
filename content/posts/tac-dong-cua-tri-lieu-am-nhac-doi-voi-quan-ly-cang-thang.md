@@ -1,12 +1,12 @@
 ---
 slug: tac-dong-cua-tri-lieu-am-nhac-doi-voi-quan-ly-cang-thang
 title: Tác động của trị liệu âm nhạc đối với quản lý căng thẳng
-date: 2026-08-17T08:20:29.250Z
+date: 2026-08-17T08:20:31.653Z
 excerpt: "VAI TRÒ CỦA ÂM NHẠC VÀ TRỊ LIỆU ÂM NHẠC TRONG QUẢN LÝ CĂNG THẲNG !Âm nhạc và cuộc sốnghttps://picsum.photos/800/400?random=1 Âm nhạc, với vai trò là một loại hình nghệ thuật, giữ một vị trí đặc biệt trong văn hóa nhân loại. Nó mở rộng ra từ các âm thanh và giai điệu có khả năng khơi gợi cảm xúc, suy"
 categories:
   - slug: cac-truong-phai-va-lieu-phap
     name: "Các trường phái & Liệu pháp"
-coverImage: https://therapevo.vn/wp-content/uploads/2026/03/am-nhac-tri-lieu_1598001555.jpg
+coverImage: https://victoriahospice.org/wp-content/uploads/2024/03/Music-therapy-Sept-2023-scaled-e1709844495973.jpg
 ---
 # VAI TRÒ CỦA ÂM NHẠC VÀ TRỊ LIỆU ÂM NHẠC TRONG QUẢN LÝ CĂNG THẲNG
 
