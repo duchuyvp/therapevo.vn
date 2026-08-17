@@ -1,18 +1,18 @@
 ---
 slug: thuc-day-yeu-to-tinh-duc-trong-tinh-duc-va-suc-khoe-sinh-san-va-cac-quyen-mot-su-cap-thiet-ve-y-te-toan-cau-binh-dang-gioi-va-quyen-con-nguoi
 title: "THÚC ĐẨY YẾU TỐ “TÌNH DỤC” TRONG TÌNH DỤC VÀ SỨC KHỎE SINH SẢN VÀ CÁC QUYỀN: MỘT SỰ CẤP THIẾT VỀ Y TẾ TOÀN CẦU, BÌNH ĐẲNG GIỚI VÀ QUYỀN CON NGƯỜI."
-date: 2026-08-17T16:45:19.049Z
-excerpt: "THÚC ĐẨY YẾU TỐ “TÌNH DỤC” TRONG TÌNH DỤC VÀ SỨC KHỎE SINH SẢN VÀ CÁC QUYỀN: MỘT SỰ CẤP THIẾT VỀ Y TẾ TOÀN CẦU, BÌNH ĐẲNG GIỚI VÀ QUYỀN CON NGƯỜI. !Sức khỏe tình dục và quyền con người toàn cầuhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4k8IZ6j2Fx-fiwpy3tKJfF823JzXayaX4AR2MBlVnLHbUzlBw0s&"
+date: 2026-08-17T16:45:21.899Z
+excerpt: "THÚC ĐẨY YẾU TỐ “TÌNH DỤC” TRONG TÌNH DỤC VÀ SỨC KHỎE SINH SẢN VÀ CÁC QUYỀN: MỘT SỰ CẤP THIẾT VỀ Y TẾ TOÀN CẦU, BÌNH ĐẲNG GIỚI VÀ QUYỀN CON NGƯỜI. !Sức khỏe tình dục và quyền con người toàn cầuhttps://media.vov.vn/sites/default/files/styles/large/public/2022-06/pic1.png.jpg Từ lâu, sức khỏe tình dục"
 categories:
   - slug: gioi
     name: Giới
   - slug: tam-ly-hoc-xa-hoi
     name: Tâm lý học xã hội
-coverImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4k8_IZ__6j2Fx-fiwpy3tKJ_fF823JzXayaX4AR2MBlVnLHbUzlBw0s&s=10"
+coverImage: https://media.vov.vn/sites/default/files/styles/large/public/2022-06/pic1.png.jpg
 ---
 # THÚC ĐẨY YẾU TỐ “TÌNH DỤC” TRONG TÌNH DỤC VÀ SỨC KHỎE SINH SẢN VÀ CÁC QUYỀN: MỘT SỰ CẤP THIẾT VỀ Y TẾ TOÀN CẦU, BÌNH ĐẲNG GIỚI VÀ QUYỀN CON NGƯỜI.
 
-![Sức khỏe tình dục và quyền con người toàn cầu](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4k8_IZ__6j2Fx-fiwpy3tKJ_fF823JzXayaX4AR2MBlVnLHbUzlBw0s&s=10)
+![Sức khỏe tình dục và quyền con người toàn cầu](https://media.vov.vn/sites/default/files/styles/large/public/2022-06/pic1.png.jpg)
 
 Từ lâu, sức khỏe tình dục và sinh sản thường bị bó hẹp trong phạm vi chăm sóc sức khỏe của các bà mẹ. Điều này vô tình dẫn tới việc bỏ quên những yếu tố then chốt khác góp phần định hình chất lượng sống của con người qua từng giai đoạn của cuộc đời.
 
