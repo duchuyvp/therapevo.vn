@@ -1,7 +1,7 @@
 ---
 slug: ly-hon-co-the-dan-toi-su-xa-cach-cua-anh-chi-em-ruot
 title: "Ly hôn có thể dẫn tới sự xa cách của anh chị em ruột?"
-date: 2026-08-17T12:50:30.770Z
+date: 2026-08-17T12:50:33.576Z
 excerpt: "Một yếu tố nguy cơ dẫn tới sự xa cách trong gia đình là việc cha mẹ ly hôn. Sự tan vỡ của hôn nhân, vốn chủ yếu là vấn đề giữa hai vợ chồng, lan tỏa tới toàn bộ hệ thống gia đình mở rộng."
 categories:
   - slug: tam-ly-hoc-xa-hoi
