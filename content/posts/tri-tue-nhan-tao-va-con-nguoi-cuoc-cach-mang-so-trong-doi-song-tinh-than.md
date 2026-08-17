@@ -20,7 +20,6 @@ Trí tuệ nhân tạo (AI), đặc biệt là các chatbot, đang dần bước
 Điều đáng chú ý là AI không chỉ thay đổi những gì chúng ta làm, mà có thể đang dần thay đổi cách chúng ta suy nghĩ, cảm nhận và kết nối với người khác. **Vậy điều gì thực sự đang xảy ra với đời sống tinh thần của chúng ta khi AI ngày càng hiện diện sâu sắc trong cuộc sống?**
 
 ---
-
 ## 1. "Phao cứu sinh" kỹ thuật số và sự hỗ trợ cá nhân hóa
 
 AI mang lại những lợi ích không thể phủ nhận khi đóng vai trò như một hệ thống hỗ trợ xã hội ảo đầy tiềm năng:
@@ -32,7 +31,6 @@ AI mang lại những lợi ích không thể phủ nhận khi đóng vai trò n
 Những ứng dụng này biến AI thành một "cánh tay nối dài" giúp thu hẹp khoảng cách địa lý và kinh tế trong việc chăm sóc sức khỏe tâm thần *(Costa-Gomes, 2026)*.
 
 ![Hỗ trợ tâm lý kỹ thuật số qua trí tuệ nhân tạo](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1000&q=80)
-
 ---
 
 ## 2. Khoản "nợ nhận thức" và sự xói mòn tư duy
@@ -55,8 +53,7 @@ Tác động của AI đối với sức khỏe tâm thần diễn ra qua nhữn
 * **Áp lực ở giới trẻ:** Đối với học sinh và sinh viên, việc sử dụng AI không đúng cách có thể tạo ra áp lực đồng trang lứa và sự mơ hồ về năng lực thực tế của bản thân, kéo dài tình trạng căng thẳng *(Aslam et al., 2025)*.
 * **Cơ chế né tránh thực tại:** Những cá nhân có trải nghiệm tuổi thơ bất lợi (*ACEs*) thường tìm đến AI để trốn tránh thực tại, vô tình khuếch đại các tổn thương tâm lý sẵn có và đào sâu sự lệ thuộc vào thế giới ảo *(Wang et al., 2026)*.
 
-![Cảm giác cô đơn và sự lệ thuộc vào thế giới ảo](https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1000&q=80)
-
+![Cảm giác cô đơn và sự lệ thuộc vào thế giới ảo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsdVHylip_hSx0QYmFkRLimHHmpCGKrBQVLqJBK-NcCtqZfde4OFDdpSk&s=10)
 ---
 
 ## 4. Bản chất của sự xung đột giữa công nghệ và tâm trí
@@ -92,16 +89,16 @@ AI vốn dĩ không mang bản chất tốt hay xấu — giá trị của nó p
 
 ### TÀI LIỆU THAM KHẢO
 
-* **Aslam, A., Abid, R., Tanveer, H., & Sajjad, A. (2025).** Impact of AI use on students’ mental health and academic outcomes: A structural equation modelling approach. *Journal of Contemporary Insights in Health Sciences*, 3(1), 19-40.
-* **Ben-Zion, Z., Raffelhuschen, P., Zettl, M., Luond, A., Burrer, A., Homan, P., & Spiller, T.R. (2025).** Detecting and Preventing Harmful Behaviors in AI Companions: Development and Evaluation of the SHIELD Supervisory System. *ArXiv*, abs/2510.15891.
-* **Costa-Gomes, B. (2026).** Global analysis of country-level factors associated with AI health usage. *Nature Health*. Advance online publication. [https://doi.org/10.1038/s44360-026-00174-2](https://doi.org/10.1038/s44360-026-00174-2)
-* **Fang, C. M., Liu, A. R., Danry, V., Lee, E., Chan, S. W. T.,訂Pataranutaporn, P., Maes, P., Phang, J., Lampe, M., Ahmad, L., & Agarwal, S. (2025).** How AI and human behaviors shape psychosocial effects of extended chatbot use: A longitudinal randomized controlled study. *arXiv preprint arXiv:2503.17473*.
-* **Gerlich, M. (2025).** AI tools in society: Impacts on cognitive offloading and the future of critical thinking. *Societies*, 15(1), 6. [https://doi.org/10.3390/soc15010006](https://doi.org/10.3390/soc15010006)
-* **Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., Braunstein, I., & Maes, P. (2025).** Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for essay writing task. *MIT Media Lab*.
-* **Li, S., Liu, L., Wang, Y., & Deng, X. (2025).** Determinants of rural middle school students’ adoption of AI chatbots for mental health. *Frontiers in Public Health*. [https://doi.org/10.3389/fpubh.2025.1619535](https://doi.org/10.3389/fpubh.2025.1619535)
-* **Merrill Jr., K., Mikkilineni, S. D., & Dehnert, M. (2025).** Artificial intelligence chatbots as a source of virtual social support: Implications for loneliness and anxiety management. *Annals of the New York Academy of Sciences*, 1549, 148–159. [https://doi.org/10.1111/nyas.15400](https://doi.org/10.1111/nyas.15400)
-* **Phang, J., Lampe, M., Ahmad, L., Agarwal, S., Fang, C. M., Liu, A. R., Danry, V., Lee, E., Pataranutaporn, P., & Maes, P. (2025).** Investigating affective use and emotional well-being on ChatGPT. *OpenAI & MIT Media Lab*.
-* **Riley, C., Al-Refai, O., Reyes, Y. C., & Hammad, E. (2025).** Human-AI interactions: Cognitive, behavioral, and emotional impacts. *[Unpublished manuscript]*.
-* **So, M., Sekizawa, Y., Hashimoto, S., Kashimura, M., Yamakage, H., & Watanabe, N. (2026).** Effect of AI-based natural language feedback on engagement and clinical outcomes in fully self-guided internet-based cognitive behavioral therapy for depression: 3-arm randomized controlled trial. *Journal of Medical Internet Research*, 28, e76902. [https://doi.org/10.2196/76902](https://doi.org/10.2196/76902)
-* **Vasiliu, O. (2026).** Problematic use of generative artificial intelligence chatbots: Current stage of conceptual and clinical understanding. *Frontiers in Public Health*, 14, 1816917. [https://doi.org/10.3389/fpubh.2026.1816917](https://doi.org/10.3389/fpubh.2026.1816917)
-* **Wang, W., Li, M., Han, R., Ding, Z., & Li, W. Q. (2026).** Widespread application of artificial intelligence raises questions about its role in mediating the impact of adverse childhood experiences (ACEs) on mental health. *Scientific Reports*. [https://doi.org/10.1038/s41598-026-37352-x](https://doi.org/10.1038/s41598-026-37352-x)
+* **1. Aslam, A., Abid, R., Tanveer, H., & Sajjad, A. (2025).** Impact of AI use on students’ mental health and academic outcomes: A structural equation modelling approach. *Journal of Contemporary Insights in Health Sciences*, 3(1), 19-40.
+* **2. Ben-Zion, Z., Raffelhuschen, P., Zettl, M., Luond, A., Burrer, A., Homan, P., & Spiller, T.R. (2025).** Detecting and Preventing Harmful Behaviors in AI Companions: Development and Evaluation of the SHIELD Supervisory System. *ArXiv*, abs/2510.15891.
+* **3. Costa-Gomes, B. (2026).** Global analysis of country-level factors associated with AI health usage. *Nature Health*. Advance online publication. [https://doi.org/10.1038/s44360-026-00174-2](https://doi.org/10.1038/s44360-026-00174-2)
+* **4. Fang, C. M., Liu, A. R., Danry, V., Lee, E., Chan, S. W. T.,訂Pataranutaporn, P., Maes, P., Phang, J., Lampe, M., Ahmad, L., & Agarwal, S. (2025).** How AI and human behaviors shape psychosocial effects of extended chatbot use: A longitudinal randomized controlled study. *arXiv preprint arXiv:2503.17473*.
+* **5. Gerlich, M. (2025).** AI tools in society: Impacts on cognitive offloading and the future of critical thinking. *Societies*, 15(1), 6. [https://doi.org/10.3390/soc15010006](https://doi.org/10.3390/soc15010006)
+* **6. Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., Braunstein, I., & Maes, P. (2025).** Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for essay writing task. *MIT Media Lab*.
+* **7. Li, S., Liu, L., Wang, Y., & Deng, X. (2025).** Determinants of rural middle school students’ adoption of AI chatbots for mental health. *Frontiers in Public Health*. [https://doi.org/10.3389/fpubh.2025.1619535](https://doi.org/10.3389/fpubh.2025.1619535)
+* **8. Merrill Jr., K., Mikkilineni, S. D., & Dehnert, M. (2025).** Artificial intelligence chatbots as a source of virtual social support: Implications for loneliness and anxiety management. *Annals of the New York Academy of Sciences*, 1549, 148–159. [https://doi.org/10.1111/nyas.15400](https://doi.org/10.1111/nyas.15400)
+* **9. Phang, J., Lampe, M., Ahmad, L., Agarwal, S., Fang, C. M., Liu, A. R., Danry, V., Lee, E., Pataranutaporn, P., & Maes, P. (2025).** Investigating affective use and emotional well-being on ChatGPT. *OpenAI & MIT Media Lab*.
+* **10. Riley, C., Al-Refai, O., Reyes, Y. C., & Hammad, E. (2025).** Human-AI interactions: Cognitive, behavioral, and emotional impacts. *[Unpublished manuscript]*.
+* **11. So, M., Sekizawa, Y., Hashimoto, S., Kashimura, M., Yamakage, H., & Watanabe, N. (2026).** Effect of AI-based natural language feedback on engagement and clinical outcomes in fully self-guided internet-based cognitive behavioral therapy for depression: 3-arm randomized controlled trial. *Journal of Medical Internet Research*, 28, e76902. [https://doi.org/10.2196/76902](https://doi.org/10.2196/76902)
+* **12. Vasiliu, O. (2026).** Problematic use of generative artificial intelligence chatbots: Current stage of conceptual and clinical understanding. *Frontiers in Public Health*, 14, 1816917. [https://doi.org/10.3389/fpubh.2026.1816917](https://doi.org/10.3389/fpubh.2026.1816917)
+* **13. Wang, W., Li, M., Han, R., Ding, Z., & Li, W. Q. (2026).** Widespread application of artificial intelligence raises questions about its role in mediating the impact of adverse childhood experiences (ACEs) on mental health. *Scientific Reports*. [https://doi.org/10.1038/s41598-026-37352-x](https://doi.org/10.1038/s41598-026-37352-x)
