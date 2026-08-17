@@ -66,7 +66,6 @@ AI vốn dĩ không mang bản chất tốt hay xấu — giá trị của nó p
 > *Câu hỏi trọng tâm không phải là “Có nên sử dụng AI không?”, mà là **“Nên sử dụng AI như thế nào để giữ vững tính tự chủ?”***
 
 ![Khoảng cách giữa trí tuệ nhân tạo và cảm xúc con người](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1000&q=80)
-
 ---
 
 ## 5. Đề xuất sử dụng AI an toàn và bảo vệ đời sống tinh thần
@@ -84,7 +83,6 @@ AI vốn dĩ không mang bản chất tốt hay xấu — giá trị của nó p
 * **Thực hiện nội dung:** Ngọc Trâm  
 * **Minh họa:** Linh Trang  
 * **Biên tập:** Kiều Hạnh  
-
 
 
 ### TÀI LIỆU THAM KHẢO
