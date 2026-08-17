@@ -1,14 +1,13 @@
 ---
 slug: tri-tue-nhan-tao-va-con-nguoi-cuoc-cach-mang-so-trong-doi-song-tinh-than
 title: "TRÍ TUỆ NHÂN TẠO VÀ CON NGƯỜI: CUỘC CÁCH MẠNG SỐ TRONG ĐỜI SỐNG TINH THẦN"
-date: 2026-08-17T14:47:49.552Z
+date: 2026-08-17T14:47:53.674Z
 excerpt: "Điều đáng chú ý là AI không chỉ thay đổi những gì chúng ta làm, mà có thể đang dần thay đổi cách chúng ta suy nghĩ, cảm nhận và kết nối với người khác. Vậy điều gì thực sự đang xảy ra với đời sống tinh thần của chúng ta khi AI ngày càng hiện diện trong cuộc sống?"
 categories:
   - slug: khoa-hoc-than-kinh-nao-bo
     name: "Khoa học thần kinh & não bộ"
 coverImage: https://media.salekit.com/uploads/fchat_5b4872d13803896dd77125af/what-is-ai-chatbot.jpg
 ---
-# TRÍ TUỆ NHÂN TẠO VÀ CON NGƯỜI: CUỘC CÁCH MẠNG SỐ TRONG ĐỜI SỐNG TINH THẦN
 
 ![Trí tuệ nhân tạo và đời sống tinh thần con người](https://media.salekit.com/uploads/fchat_5b4872d13803896dd77125af/what-is-ai-chatbot.jpg)
 
