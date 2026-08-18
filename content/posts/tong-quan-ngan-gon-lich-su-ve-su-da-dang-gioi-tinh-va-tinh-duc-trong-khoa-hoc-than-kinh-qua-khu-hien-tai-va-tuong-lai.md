@@ -1,7 +1,7 @@
 ---
 slug: tong-quan-ngan-gon-lich-su-ve-su-da-dang-gioi-tinh-va-tinh-duc-trong-khoa-hoc-than-kinh-qua-khu-hien-tai-va-tuong-lai
 title: "TỔNG QUAN NGẮN GỌN LỊCH SỬ VỀ SỰ ĐA DẠNG GIỚI TÍNH VÀ TÌNH DỤC TRONG KHOA HỌC THẦN KINH: QUÁ KHỨ, HIỆN TẠI VÀ TƯƠNG LAI"
-date: 2026-08-18T02:27:20.899Z
+date: 2026-08-18T02:27:23.446Z
 excerpt: "Khoa học thần kinh đã có sự thay đổi lớn - từ việc từng thực hiện phẫu thuật cắt bỏ thùy não (lobotomy) trên nam giới đồng tính để kiểm soát xu hướng tình dục của họ, đến hiện nay với sự áp dụng các quan điểm khoa học sinh học-xã hội-văn hóa rộng hơn, công nhận và tôn vinh sự đa dạng về giới tính và"
 categories:
   - slug: gioi
@@ -10,10 +10,10 @@ categories:
     name: "Khoa học thần kinh & não bộ"
   - slug: moi-tuan-mot-nghien-cuu
     name: Mỗi tuần một nghiên cứu
-coverImage: "(https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL8DG_YIZfWA3V1Sl4ZApTKtbQjq5onizvKEYEWipK7uZr1eeAjKAgxTQ&s=10"
 ---
-![Khoa học thần kinh và sự đa dạng giới tính, tình dục](https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=1200&q=80)
-*Nguồn ảnh: Unsplash*
+![Khoa học thần kinh và sự đa dạng giới tính, tình dục](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL8DG_YIZfWA3V1Sl4ZApTKtbQjq5onizvKEYEWipK7uZr1eeAjKAgxTQ&s=10)
+*Nguồn ảnh: https://superkind.org/*
 
 Trong nhiều thập kỷ qua, khoa học thần kinh đã không ngừng mở rộng phạm vi nghiên cứu về đa dạng giới và tình dục, phản ánh sự phát triển trong quan niệm xã hội và khoa học về bản dạng giới và xu hướng tính dục.
 
