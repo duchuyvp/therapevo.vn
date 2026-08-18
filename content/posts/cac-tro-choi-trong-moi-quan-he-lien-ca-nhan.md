@@ -103,7 +103,7 @@ Kết quả là một người vợ có thể củng cố thành kiến của m�
 ![Mâu thuẫn và trò chơi trong hôn nhân](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR19lMHB0ETUJmkfl_nFb6vg217SdYns_xugCAfFHm6oSnE2FjjG2uizMIo&s=10)
 *Nguồn ảnh: Unsplash*
 
----
+
 
 ## Các cuộc tụ tập xã hội thường khiến mọi người chơi trò chơi.
 
@@ -140,7 +140,7 @@ Trong Uproar, người chơi cố gắng giải tỏa căng thẳng tình dục 
 ![Trò chơi trong quan hệ thân mật](https://media.tripmap.vn/marketplace/2026/03/tro-choi-gonggi-han-quoc-truyen-thong-10-vien-gia-re-96120d-tiet-kiem-25000d-1772975981-k3eood-600x600.webp)
 
 
----
+
 
 ## Những người có xu hướng phá vỡ quy tắc thường chơi trò chơi.
 
@@ -161,7 +161,7 @@ Tuy nhiên, họ chấp nhận những rủi ro lố bịch nhất. Điều tho�
 ![Tâm lý của những người phá vỡ quy tắc](https://images.unsplash.com/photo-1541199249251-f713e6145474?auto=format&fit=crop&w=1000&q=80)
 *Nguồn ảnh: Unsplash*
 
----
+
 
 ## Tâm lý trị liệu cũng là “lồng ấp” cho các trò chơi.
 
