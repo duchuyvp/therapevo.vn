@@ -2,7 +2,7 @@
 slug: thuc-day-yeu-to-tinh-duc-trong-tinh-duc-va-suc-khoe-sinh-san-va-cac-quyen-mot-su-cap-thiet-ve-y-te-toan-cau-binh-dang-gioi-va-quyen-con-nguoi
 title: "THÚC ĐẨY YẾU TỐ “TÌNH DỤC” TRONG TÌNH DỤC VÀ SỨC KHỎE SINH SẢN VÀ CÁC QUYỀN: MỘT SỰ CẤP THIẾT VỀ Y TẾ TOÀN CẦU, BÌNH ĐẲNG GIỚI VÀ QUYỀN CON NGƯỜI."
 date: 2026-08-17T16:45:21.899Z
-excerpt: "THÚC ĐẨY YẾU TỐ “TÌNH DỤC” TRONG TÌNH DỤC VÀ SỨC KHỎE SINH SẢN VÀ CÁC QUYỀN: MỘT SỰ CẤP THIẾT VỀ Y TẾ TOÀN CẦU, BÌNH ĐẲNG GIỚI VÀ QUYỀN CON NGƯỜI. !Sức khỏe tình dục và quyền con người toàn cầuhttps://media.vov.vn/sites/default/files/styles/large/public/2022-06/pic1.png.jpg Từ lâu, sức khỏe tình dục"
+excerpt: "Sự im lặng kéo dài đối với các nhu cầu đặc thù, những trải nghiệm bị xã hội bình thường hóa và các rào cản mang tính cấu trúc không những làm trầm trọng thêm bất bình đẳng giới mà còn phủ nhận quyền tự chủ của mỗi cá nhân"
 categories:
   - slug: gioi
     name: Giới
@@ -10,7 +10,7 @@ categories:
     name: Tâm lý học xã hội
 coverImage: https://media.vov.vn/sites/default/files/styles/large/public/2022-06/pic1.png.jpg
 ---
-# THÚC ĐẨY YẾU TỐ “TÌNH DỤC” TRONG TÌNH DỤC VÀ SỨC KHỎE SINH SẢN VÀ CÁC QUYỀN: MỘT SỰ CẤP THIẾT VỀ Y TẾ TOÀN CẦU, BÌNH ĐẲNG GIỚI VÀ QUYỀN CON NGƯỜI.
+
 
 ![Sức khỏe tình dục và quyền con người toàn cầu](https://media.vov.vn/sites/default/files/styles/large/public/2022-06/pic1.png.jpg)
 
