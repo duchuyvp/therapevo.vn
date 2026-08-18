@@ -1,8 +1,8 @@
 ---
 slug: cac-tro-choi-trong-moi-quan-he-lien-ca-nhan
 title: Các “trò chơi” trong mối quan hệ liên cá nhân
-date: 2026-08-18T03:14:17.256Z
-excerpt: "BẠN CÓ ĐANG CHƠI NHỮNG TRÒ CHƠI TRONG CÁC MỐI QUAN HỆ CỦA MÌNH KHÔNG? !Các trò chơi trong mối quan hệhttps://cdn-media.sforum.vn/storage/app/media/wp-content/uploads/2024/03/game-th.jpg Bạn có đang chơi những trò chơi trong các mối quan hệ của mình không? Mặc dù bạn có thể không nhận thức được, câu "
+date: 2026-08-18T03:14:19.551Z
+excerpt: "Khi tương tác, mọi người hành động theo một trong ba trạng thái bản ngã – *Cha mẹ*, *Đứa trẻ* và *Người lớn*. Những trạng thái này bao gồm các hệ thống cảm xúc, suy nghĩ và hành vi, và được phát triển trong suốt cuộc đời. Việc bạn đang hành động với trạng thái bản ngã nào tại bất kỳ thời điểm nào tù"
 categories:
   - slug: meo-hay-tam-ly
     name: Mẹo hay tâm lý
